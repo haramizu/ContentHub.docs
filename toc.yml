@@ -1,5 +1,7 @@
-- name: Articles
-  href: articles/
-- name: Api Documentation
-  href: api/
-  homepage: api/index.md
+- name: ユーザーガイド
+  href: user-documentation/
+- name: クラウド開発
+  href: integrations/
+- name: API リファレンス
+  href: api-reference/
+  homepage: api-reference/index.md

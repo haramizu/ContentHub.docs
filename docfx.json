@@ -17,14 +17,19 @@
     "content": [
       {
         "files": [
-          "api/**.yml",
-          "api/index.md"
+          "user-documentation/**.md",
+          "user-documentation/toc.yml"
+        ]
+      },      {
+        "files": [
+          "api-reference/**.yml",
+          "api-reference/index.md"
         ]
       },
       {
         "files": [
-          "articles/**.md",
-          "articles/**/toc.yml",
+          "integrations/**.md",
+          "integrations/**/toc.yml",
           "toc.yml",
           "*.md"
         ]
@@ -33,6 +38,8 @@
     "resource": [
       {
         "files": [
+          "logo.svg",
+          "favicon.ico",
           "images/**"
         ]
       }
@@ -52,13 +59,14 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default"
+      "default",
+      "sitecore"
     ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,
-    "disableGitFeatures": false
+    "disableGitFeatures": true
   }
 }

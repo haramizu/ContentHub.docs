@@ -1,0 +1,24 @@
+- name: Sitecore DAM
+  href: content-user-manual/intro.md
+  items: 
+    - name: Sitecore DAM™ について
+      href: content-user-manual/intro.md
+      items:
+        - name: リポジトリ
+          href: content-user-manual/about-m-content/repository.md
+        - name: ドメインモデル
+          href: content-user-manual/about-m-content/domain-model.md
+        - name: 統合に重点を置く
+          href: content-user-manual/about-m-content/focus-on-integration.md
+        - name: ディフィニション
+          href: content-user-manual/about-m-content/definitions/definitions.md
+          items:
+            - name: コレクション
+              href: content-user-manual/about-m-content/definitions/collections.md
+- name: Sitecore PCM
+  href: pcm/introduction.md
+  items:
+    - name: Sitecore PCM
+      href: pcm/introduction.md
+  
+            
