@@ -57,9 +57,7 @@
                     <span class="glyphicon glyphicon-search filter-icon main-search-field-icon"></span>
                   </div>
         
-                  <span class="login-item show"><a class="btn btn-primary no-radius" href="/account/login" id="login4241"><i class="m-icon m-icon-power"></i>Log in</a></span>
-                  <span class="logout-item"><a class="btn btn-primary  no-radius" href="/account/logout"><i class="m-icon m-icon-power"></i>Log out</a></span>
-                
+               
                 </div>  
               </form>
             </div>
@@ -94,13 +92,15 @@
   <div class="bgPattern"></div>
   <div class="container">
     <div>
-      <h1 class="h2">Sitecore Content Hub<br>Documentation</h1>
-      <p class="lead">日本語マニュアルサイトを提供</p>
+      <h1 class="h2">Sitecore Content Hub<br>ユーザーガイド</h1>
+      <p class="lead">日本語マニュアルサイト</p>
     </div>
-    <h3>Choose your version:</h3>
-    <div class="home-version-buttons"></div>
+    <h3>バージョンを選択:</h3>
+    <div class="home-version-buttons">
+      <!--a href="/content/3.1.x/user-documentation/index.html" class="btn btn-default btn-space">3.1.x</a><a href="/content/3.2.x/user-documentation/index.html" class="btn btn-default btn-space">3.2.x</a><a href="/content/3.3.x/user-documentation/index.html" class="btn btn-default btn-space">3.3.x</a --><a href="/content/3.4.x/user-documentation/index.html" class="btn btn-default btn-space">3.4.x</a>
+    </div>
     <br>
-    <a href="#" id="checkVersion">What&#39;s my version?</a>
+    <a href="#" id="checkVersion">バージョンの確認方法</a>
   </div>
 </div>
 
@@ -109,14 +109,14 @@
   <div class="modal-content">
     <span class="close">&times;</span>
     <p>
-      <h2>What&#39;s my version?</h2>
+      <h2>バージョンの確認方法</h2>
       <hr>
-      In order to check the version of your product:
+      利用している製品のバージョン確認の手順は以下の通りです:
       <ol>
-        <li>Go to your Content Hub instance (e.g. <code>my-instance.com/en-us</code>).</li>
-        <li>Remove the <code>/en-us</code> from the URL, add <code>/api/status</code> then hit <i>Enter</i>.</li>
-        <li>In the JSON data, identify the &quot;product_version&quot; property.</li>
-        <li>The version of the product is the part before the &#39;+&#39; sign of the product_version value. In this example, the value is 3.3.0.</li>
+        <li>利用している Sitecore Content Hub のサーバにアクセスします (e.g. <code>my-instance.com/en-us</code>).</li>
+        <li>URL から <code>/en-us</code> を削除して、<code>/api/status</code> を入力して <i>Enter</i> で確定させます.</li>
+        <li>JSON データの中に, &quot;product_version&quot; プロパティが含まれます。</li>
+        <li>&#39;+&#39; の前がバージョン番号になっています。この例では、値は 3.3.0 です。</li>
       </ol>
       <img src="img/api-status-version.gif" style="object-fit: contain;">
     </p>
@@ -132,10 +132,8 @@
       <div class="flex-item">
         <div style="float: right;margin-right:16px;">
           <span class="login-item show">
-            <a class="btn btn-primary no-radius" href="/account/login" id="login4241"><i class="m-icon m-icon-power"></i>Log in</a>
           </span>
           <span class="logout-item">
-            <a class="btn btn-primary  no-radius" href="/account/logout"><i class="m-icon m-icon-power"></i>Log out</a>
           </span>
         </div>
       </div>

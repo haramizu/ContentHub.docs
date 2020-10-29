@@ -5,18 +5,6 @@
   "files": [
     {
       "type": "Conceptual",
-      "source_relative_path": "README.md",
-      "output": {
-        ".html": {
-          "relative_path": "README.html",
-          "hash": "oM7gryENQQb5THVywPnvYA=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "api-reference/index.md",
       "output": {
         ".html": {
@@ -302,6 +290,54 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/customize/user-pages-menu.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/customize/user-pages-menu.html",
+          "hash": "cBlwOPTvWpYasvLotItyrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/customize/user-themes.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/customize/user-themes.html",
+          "hash": "TFrrAICRND1uTJQIPq9lzQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/digital-rights-management/concepts.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/digital-rights-management/concepts.html",
+          "hash": "H6BVGS416AR1UT27bJXa1g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/digital-rights-management/drm-workflow.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/digital-rights-management/drm-workflow.html",
+          "hash": "OJldEphZSXYprB1rxiR5HA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "user-documentation/content-user-manual/download/asset-specific-renditions.md",
       "output": {
         ".html": {
@@ -482,6 +518,54 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe-illustrator.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe-illustrator.html",
+          "hash": "w64AKlgQiY2K9qcNjqozdg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe-photoshop.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe-photoshop.html",
+          "hash": "UJ63zxiBZZ7uzeFAbYvTlw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe_indesign.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe_indesign.html",
+          "hash": "f6IlKBL4oM242mgUTKbsUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/download-install-authentication.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/download-install-authentication.html",
+          "hash": "k84N/CGgUuNRSG75yDIBjw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/introduction.md",
       "output": {
         ".html": {
@@ -506,11 +590,35 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/setup.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/setup.html",
+          "hash": "ynDlWcSc/W7FzYUmHUd+zQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-sitecore-dam/overview.md",
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-sitecore-dam/overview.html",
           "hash": "3sI9DMnGqR6+wn6uvQHwPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-sitecore-dam/setup.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-sitecore-dam/setup.html",
+          "hash": "zTmnBUHCASPSPEudE/bRyQ=="
         }
       },
       "is_incremental": true,
@@ -865,12 +973,16 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink",
+        "EmptyTocItemName"
+      ],
       "type": "Toc",
       "source_relative_path": "user-documentation/toc.yml",
       "output": {
         ".html": {
           "relative_path": "user-documentation/toc.html",
-          "hash": "F2k4l/e8PqB3XdIdwJ6QIQ=="
+          "hash": "2mEeSE7HcanOBg4UKOMorg=="
         }
       },
       "is_incremental": false,
@@ -889,8 +1001,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 66,
-          "skipped_file_count": 66
+          "total_file_count": 75,
+          "skipped_file_count": 75
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

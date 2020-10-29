@@ -1,4 +1,4 @@
-- name: ユーザーガイド
+- name: 
   href: index.md
 - name: Sitecore DAM
   href: content-user-manual/intro.md
@@ -139,15 +139,41 @@
       items:
         - name: Sitecore Connect™ for Sitecore DAM™
           href: content-user-manual/integrate/sitecore-connect-for-sitecore-dam/overview.md
+          items:
+            - name: セットアップ
+              href: content-user-manual/integrate/sitecore-connect-for-sitecore-dam/setup.md
         - name: Sitecore Connect™ for Creative Cloud™
           href: content-user-manual/integrate/sitecore-connect-for-creative-cloud/introduction.md
+          items:
+            - name: ダウンロード、インストールと認証
+              href: content-user-manual/integrate/sitecore-connect-for-creative-cloud/download-install-authentication.md
+            - name: Adobe InDesign
+              href: content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe_indesign.md
+            - name: Adobe Illustrator
+              href: content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe-illustrator.md
+            - name: Adobe Photoshop
+              href: content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe-photoshop.md
         - name: Sitecore Connect™ for Salesforce Marketing Cloud
           href: content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/overview.md
+          items:
+            - name: セットアップ
+              href: content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/setup.md
         - name: コンテンツの使用方法とインパクト
           href: content-user-manual/integrate/content-usage-and-impact.md
     - name: セキュリティ
+      items:
+        - name: DRM
+          items:
+            - name: コンセプト
+              href: content-user-manual/secure/digital-rights-management/concepts.md
+            - name: DRM ワークフロー
+              href: content-user-manual/secure/digital-rights-management/drm-workflow.md
     - name: 拡張
-
+      items:
+        - name: ユーザーページ
+          href: content-user-manual/customize/user-pages-menu.md
+        - name: ユーザーテーマ
+          href: content-user-manual/customize/user-themes.md
 - name: Sitecore PCM
   href: pcm/introduction.md
   items:
