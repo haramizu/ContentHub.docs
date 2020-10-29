@@ -56,6 +56,16 @@
         ]
       }
     ],
+    "globalMetadata": {
+      "_appTitle": "Sitecore Content Hub ウェブサイト",
+      "_gitContribute": {
+        "repo": "https://github.com/SitecoreJapan/ContentHub.docs",
+        "branch": "main",
+        "apiSpecFolder": "docs-ref-overwrite"
+      },
+      "_appLogoPath": "images/logo.svg",
+      "_appFaviconPath": "images/favico.ico"
+    },
     "dest": "../docs/content/3.4.x",
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],

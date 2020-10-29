@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api-reference/index.html",
-          "hash": "G8WnknIMWVKeXun8glIaHw=="
+          "hash": "tfGanjOPkMkNqEuyeR/hwg=="
         }
       },
       "is_incremental": true,
@@ -29,10 +29,21 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "favicon.ico",
+      "source_relative_path": "images/favicon.ico",
       "output": {
         "resource": {
-          "relative_path": "favicon.ico"
+          "relative_path": "images/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.svg"
         }
       },
       "is_incremental": false,
@@ -275,7 +286,7 @@
       "output": {
         ".html": {
           "relative_path": "integrations/index.html",
-          "hash": "nfsCOEiBTdnijuI9t5rbIA=="
+          "hash": "Xmh7jcjOacccyl90zoe6Fw=="
         }
       },
       "is_incremental": true,
@@ -288,17 +299,6 @@
         ".html": {
           "relative_path": "integrations/toc.html",
           "hash": "4wuyGSqXbqpMP+neCkytSw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "logo.svg",
-      "output": {
-        "resource": {
-          "relative_path": "logo.svg"
         }
       },
       "is_incremental": false,
@@ -322,7 +322,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/administration/introduction.html",
-          "hash": "DONKJ0czci5v9LjQtOVRZQ=="
+          "hash": "WxMaiZwrXJKBloUdRuxOfw=="
         }
       },
       "is_incremental": true,
@@ -334,7 +334,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/cmp/cmp-intro.html",
-          "hash": "KeZ7/cU/Bl9NnQ3wKOOu6w=="
+          "hash": "Z89EzLK3pMbzHMcA8/wUVw=="
         }
       },
       "is_incremental": true,
@@ -346,7 +346,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/definitions/collections.html",
-          "hash": "XattgVitJL0xAkIOvzTGxg=="
+          "hash": "VFo7qEHXTSgyuN+fn8K0JQ=="
         }
       },
       "is_incremental": true,
@@ -358,7 +358,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/definitions/definitions.html",
-          "hash": "8hW7viDqjLa1cNqGQ88D7w=="
+          "hash": "OUII4TCqkXBbV2YYqOpaug=="
         }
       },
       "is_incremental": true,
@@ -370,7 +370,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/domain-model.html",
-          "hash": "eiek7cPTZTYb45uNzw0Z+A=="
+          "hash": "6ayrfWDtB5GHkb4ASBCy4g=="
         }
       },
       "is_incremental": true,
@@ -382,7 +382,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/focus-on-integration.html",
-          "hash": "JtBBK6U1aM5zdAuC7FYtmA=="
+          "hash": "we49VM3ay1wqmeNS2XJCsg=="
         }
       },
       "is_incremental": true,
@@ -394,7 +394,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/repository.html",
-          "hash": "MHeiV5Q5LyGRfTRjdSTwDw=="
+          "hash": "uFsjq0vJQHASeaP4S/QBPw=="
         }
       },
       "is_incremental": true,
@@ -406,7 +406,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/templates.html",
-          "hash": "CAu1Fmbnd84zXvzOpoyPDA=="
+          "hash": "7Ro5zMvQHBLbWp+SAHlW/A=="
         }
       },
       "is_incremental": true,
@@ -418,7 +418,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/analyze/image-analysis.html",
-          "hash": "zoAfrZsQXeYmla8WIvH6kg=="
+          "hash": "ASbHSsBBECH+A/g1ti9JjQ=="
         }
       },
       "is_incremental": true,
@@ -430,7 +430,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/analyze/image-similarity.html",
-          "hash": "mVtGtktvOAjJ1f3zScVutg=="
+          "hash": "Ynj7FWQE6McKHgwvvV6ulA=="
         }
       },
       "is_incremental": true,
@@ -442,7 +442,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/analyze/video-ai-analysis.html",
-          "hash": "GL4oKtrzFSxXr0DR4VhNtw=="
+          "hash": "eItgdQXtqynnEqUrIuH4kQ=="
         }
       },
       "is_incremental": true,
@@ -454,7 +454,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/convert/generate-pdf.html",
-          "hash": "8ZGS7to5BDlTxDZ7HAg7ow=="
+          "hash": "n5Jl1GFsIf22P3eUBsjh/Q=="
         }
       },
       "is_incremental": true,
@@ -466,7 +466,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/convert/media-conversions.html",
-          "hash": "yW3rqmKS1jurn5KZhMaeeQ=="
+          "hash": "0z6OUuExzSL7V0PU1PoS4Q=="
         }
       },
       "is_incremental": true,
@@ -478,7 +478,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/convert/media-processing-set.html",
-          "hash": "1Zv7nr8FZFmiFz0GotqcPg=="
+          "hash": "qvfaUevjIFbiGbP8qbANvA=="
         }
       },
       "is_incremental": true,
@@ -490,7 +490,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/create/create-upload-content.html",
-          "hash": "uuXhTxhHHKW/4588E0vFoA=="
+          "hash": "pPoGWjByPVR5vR1VZKEpCQ=="
         }
       },
       "is_incremental": true,
@@ -502,7 +502,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/customize/user-pages-menu.html",
-          "hash": "cBlwOPTvWpYasvLotItyrA=="
+          "hash": "Svqaaw5ZqDIXuTBeXWxXtg=="
         }
       },
       "is_incremental": true,
@@ -514,7 +514,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/customize/user-themes.html",
-          "hash": "TFrrAICRND1uTJQIPq9lzQ=="
+          "hash": "IQRs3Pf0g8A3I+XZ6vxZFw=="
         }
       },
       "is_incremental": true,
@@ -526,7 +526,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/download/asset-specific-renditions.html",
-          "hash": "PbLUyC3V2+EjBNHZzvqpow=="
+          "hash": "2Z8OQy5RzXgq8r1UXtlKiw=="
         }
       },
       "is_incremental": true,
@@ -538,7 +538,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/download/custom-download.html",
-          "hash": "In4XEYy3dmbCwJzRuFRiBA=="
+          "hash": "7EYfaPIKdRdYJzXn1Y6zJw=="
         }
       },
       "is_incremental": true,
@@ -550,7 +550,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/download/download-operations.html",
-          "hash": "+HH5M9e+JrBbdUTKmftOdA=="
+          "hash": "82UoIFsc274SZtR50XyOyw=="
         }
       },
       "is_incremental": true,
@@ -562,7 +562,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/download/download-options-page.html",
-          "hash": "0iDdjRD969hw573cHpXHiw=="
+          "hash": "yBjcCWiZvddCfmmqmMKVzA=="
         }
       },
       "is_incremental": true,
@@ -574,7 +574,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/asset-operations.html",
-          "hash": "tywMokMxryJKi9fFyiRkfw=="
+          "hash": "BXeOKC0qZTwcS8hdUeJ7vA=="
         }
       },
       "is_incremental": true,
@@ -586,7 +586,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/detail-page.html",
-          "hash": "cyIJjUI//HNoD5z3zSxyIg=="
+          "hash": "VCEKp/f44TLmCSYzgRJFGQ=="
         }
       },
       "is_incremental": true,
@@ -598,7 +598,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/edit-content.html",
-          "hash": "a2YCmWuH+RsgNLvhaM+QZw=="
+          "hash": "z2znja9eLP49RrK4C2tfgw=="
         }
       },
       "is_incremental": true,
@@ -610,7 +610,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/edit-in-table.html",
-          "hash": "a9cjm8DHMP/Lxtu1VSvTcw=="
+          "hash": "+qQL8jhHuQGzQTccRa1U4g=="
         }
       },
       "is_incremental": true,
@@ -622,7 +622,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/video-extraction.html",
-          "hash": "z91YNZEucFLcEHiYyY30QA=="
+          "hash": "LNUhZvFvnVZUOhw39U1I7w=="
         }
       },
       "is_incremental": true,
@@ -634,7 +634,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/video-subtitles.html",
-          "hash": "2XOr6vyJfczYNkjE1KRBSw=="
+          "hash": "SEvu5UzUNJsC/3OV8e+IYA=="
         }
       },
       "is_incremental": true,
@@ -646,7 +646,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/authentication.html",
-          "hash": "ZpvQX+HOI5cCRZ/ouv0cTQ=="
+          "hash": "sWutz1JvayGjx4VVta2+2w=="
         }
       },
       "is_incremental": true,
@@ -658,7 +658,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/home-page.html",
-          "hash": "QLfe1l3qviDK4h+2ScWRRg=="
+          "hash": "a8MLL0H/lO1rFCsXxRZvKw=="
         }
       },
       "is_incremental": true,
@@ -670,7 +670,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/intro.html",
-          "hash": "ev7i1aY9oojN7doaAXd0ag=="
+          "hash": "tinGymOBaoT2OJ2Nrd6WPg=="
         }
       },
       "is_incremental": true,
@@ -682,7 +682,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/language-selection.html",
-          "hash": "dh69KpJmoUOj22x29ff5Zw=="
+          "hash": "KLatr6OJ5vHKR+9No2EYLQ=="
         }
       },
       "is_incremental": true,
@@ -694,7 +694,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/content-usage-and-impact.html",
-          "hash": "73mF3fwgo8oCtCOWOnZRKg=="
+          "hash": "utQ5hOPSDc/KUUMOOCTBEw=="
         }
       },
       "is_incremental": true,
@@ -706,7 +706,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe-illustrator.html",
-          "hash": "w64AKlgQiY2K9qcNjqozdg=="
+          "hash": "4i4ZbVCVkuh2ljUCH6CH/Q=="
         }
       },
       "is_incremental": true,
@@ -718,7 +718,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe-photoshop.html",
-          "hash": "UJ63zxiBZZ7uzeFAbYvTlw=="
+          "hash": "dyheU1wF1WHCYk8wg1DTxg=="
         }
       },
       "is_incremental": true,
@@ -730,7 +730,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe_indesign.html",
-          "hash": "f6IlKBL4oM242mgUTKbsUQ=="
+          "hash": "my2yXqgBqkIPNR1aMzLC5g=="
         }
       },
       "is_incremental": true,
@@ -742,7 +742,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/download-install-authentication.html",
-          "hash": "k84N/CGgUuNRSG75yDIBjw=="
+          "hash": "JvWSoO3vQw+btLubyiJclw=="
         }
       },
       "is_incremental": true,
@@ -754,7 +754,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/introduction.html",
-          "hash": "YFro0pI3mdjsGbfe6PomFQ=="
+          "hash": "XT2yI8s3KGKeXHwyhVHLFg=="
         }
       },
       "is_incremental": true,
@@ -766,7 +766,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/overview.html",
-          "hash": "b1PMHLOIezSu6CxG5O0POQ=="
+          "hash": "Vctv4fpu0XxTCh5Tc2DzLA=="
         }
       },
       "is_incremental": true,
@@ -778,7 +778,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/setup.html",
-          "hash": "ynDlWcSc/W7FzYUmHUd+zQ=="
+          "hash": "vE+/kfA/1LzClHByNIDuvg=="
         }
       },
       "is_incremental": true,
@@ -790,7 +790,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-sitecore-dam/overview.html",
-          "hash": "3sI9DMnGqR6+wn6uvQHwPw=="
+          "hash": "X7+ewuvNaIRlJLDreV67JA=="
         }
       },
       "is_incremental": true,
@@ -802,7 +802,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-sitecore-dam/setup.html",
-          "hash": "zTmnBUHCASPSPEudE/bRyQ=="
+          "hash": "aF9n3EQH60THyOTGY6UKOA=="
         }
       },
       "is_incremental": true,
@@ -814,7 +814,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/intro.html",
-          "hash": "D7OuGRWgVAH5gBiK0Imebg=="
+          "hash": "WNu9VwAjLgMqN62Q3RCN6A=="
         }
       },
       "is_incremental": true,
@@ -826,7 +826,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/preview/deep-zoom.html",
-          "hash": "c73xufJp+edkcTYvcMhGPg=="
+          "hash": "xcI9JSiK3FC5IT9VAKF38g=="
         }
       },
       "is_incremental": true,
@@ -838,7 +838,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-actions.html",
-          "hash": "wM+z17zMKaKYdHlNHxPVyQ=="
+          "hash": "zk+q3awRZ1BBpq5pBldwcg=="
         }
       },
       "is_incremental": true,
@@ -850,7 +850,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-side-by-side-comparison.html",
-          "hash": "gMw/gNhwBoXMgS2MbKFUeA=="
+          "hash": "9eJz+0fGsjSTO4ylQGOxRA=="
         }
       },
       "is_incremental": true,
@@ -862,7 +862,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-tools.html",
-          "hash": "isvflwDB/lzsq+eWynu3RA=="
+          "hash": "1CyC8utnmkNSiY2dbO4wcg=="
         }
       },
       "is_incremental": true,
@@ -874,7 +874,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotations-media-type.html",
-          "hash": "+/3TNUdh+hUtaDutEFMRtQ=="
+          "hash": "hxXqtfW5zcarz6tXCGj2Wg=="
         }
       },
       "is_incremental": true,
@@ -886,7 +886,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotations-report.html",
-          "hash": "dw8AnRwfdJfZryp7ObNpqQ=="
+          "hash": "Kx6nQ+hYpo8QGugKKm9efQ=="
         }
       },
       "is_incremental": true,
@@ -898,7 +898,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/overview.html",
-          "hash": "+OJYFuEVtv7GnNBRGriHVA=="
+          "hash": "KPhdQQaDtw7Q/5c4GxwQaw=="
         }
       },
       "is_incremental": true,
@@ -910,7 +910,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/video-annotations.html",
-          "hash": "yj6SgrklV0jRUv8XVYrR/w=="
+          "hash": "GX3VoIOszCB5iBSNkqmgNQ=="
         }
       },
       "is_incremental": true,
@@ -922,7 +922,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/review-page.html",
-          "hash": "IhyexUi0cP03eYutYXhzJA=="
+          "hash": "NvpYOWAH8V+plfZ/yCjkPg=="
         }
       },
       "is_incremental": true,
@@ -934,7 +934,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/reviewing-content.html",
-          "hash": "bENzY87GeEapjrP+XCYLUg=="
+          "hash": "a6St0VpM7Z/d+RO7LXFb7Q=="
         }
       },
       "is_incremental": true,
@@ -946,7 +946,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/upload-alternative-file.html",
-          "hash": "9Pm0ljDFo8hLshOfUToT9Q=="
+          "hash": "pEr0+/gy4ZyAcawPl0A6Xg=="
         }
       },
       "is_incremental": true,
@@ -958,7 +958,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/upload-file.html",
-          "hash": "BkggMx3IF0rH9nQiJSBpKQ=="
+          "hash": "/iDqjaYVlZzlWKzebTcrPQ=="
         }
       },
       "is_incremental": true,
@@ -970,7 +970,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/versioning.html",
-          "hash": "5tMReiDuVKl9Dg68rzFnnQ=="
+          "hash": "4pl3mwOJe3O6llbFRlS19Q=="
         }
       },
       "is_incremental": true,
@@ -982,7 +982,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/search/saved-search.html",
-          "hash": "8jUEunrb4Ofa3bfRNNn4Og=="
+          "hash": "oYvtc1OD+CoI+ZidSmK9dg=="
         }
       },
       "is_incremental": true,
@@ -994,7 +994,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/search/search-menu.html",
-          "hash": "ACEQJ5mQmZehJGuJ32CDRQ=="
+          "hash": "CXP57qyb+O4qMOTEN7XOpw=="
         }
       },
       "is_incremental": true,
@@ -1006,7 +1006,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/secure/digital-rights-management/concepts.html",
-          "hash": "SiuCMpi8dqtObu6N3ZkWOA=="
+          "hash": "FpyKk6HpHVoAAIk+U+uglw=="
         }
       },
       "is_incremental": true,
@@ -1018,7 +1018,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/secure/digital-rights-management/drm-workflow.html",
-          "hash": "vMDL1jqUR1VPB9eksniOhg=="
+          "hash": "9wdi1jt7TapMH2u+iz1MVg=="
         }
       },
       "is_incremental": true,
@@ -1030,7 +1030,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/select/asset-selection.html",
-          "hash": "1TygNCEgMjKs6aB3uQQ8cQ=="
+          "hash": "4uZkmH687dAVCnahxVTQyQ=="
         }
       },
       "is_incremental": true,
@@ -1042,7 +1042,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-checkouts-configs.html",
-          "hash": "vRReuTmmcZAPx97xrWl+pw=="
+          "hash": "u2uKET2IE+R90+4Mfh3joA=="
         }
       },
       "is_incremental": true,
@@ -1054,7 +1054,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-overview.html",
-          "hash": "RCHbn8HyP9247kxKHIPIeg=="
+          "hash": "wPiEKXlGhCdmd4LdcskUBQ=="
         }
       },
       "is_incremental": true,
@@ -1066,7 +1066,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-setup.html",
-          "hash": "vaH9HVQ8OfTWIy1UuqIgHA=="
+          "hash": "pNfNpJzN2GaT1CYDRtxaTg=="
         }
       },
       "is_incremental": true,
@@ -1078,7 +1078,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive.html",
-          "hash": "vePlVInk2+F8V+650Fy0gw=="
+          "hash": "SgBESWIjcmaTyBbYHUvlkA=="
         }
       },
       "is_incremental": true,
@@ -1090,7 +1090,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/public-collections.html",
-          "hash": "33jqkJm2DtMUN/VvxbmFxg=="
+          "hash": "VsIElC/6pPapLy9kGeiUXw=="
         }
       },
       "is_incremental": true,
@@ -1102,7 +1102,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/public-links.html",
-          "hash": "teUxhxC9VcPN/dGiiAgAUg=="
+          "hash": "djDHsIJR64IePM0frEqntQ=="
         }
       },
       "is_incremental": true,
@@ -1114,7 +1114,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/share-searches.html",
-          "hash": "sNWOkdxh1aQPuOFliHcrTA=="
+          "hash": "/y3EHYfjtf9XiRiBrxmUgQ=="
         }
       },
       "is_incremental": true,
@@ -1126,7 +1126,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/share-selection.html",
-          "hash": "cqOVVSRSfNBJUsvk7I6RJg=="
+          "hash": "bgDVTvfEwuJiqeFGdxlhbA=="
         }
       },
       "is_incremental": true,
@@ -1138,7 +1138,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/index.html",
-          "hash": "he7u1wHF+vAuQ58e7CD5Xw=="
+          "hash": "JRSvcK8vCxdI7RQk9T4KRg=="
         }
       },
       "is_incremental": true,
@@ -1150,7 +1150,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/marketing-resource-management/concepts/mrm-concepts.html",
-          "hash": "DgFt9AE7Ky9F1ypONRDjOg=="
+          "hash": "GsuxiOCvDI/MkcqMv5BTKw=="
         }
       },
       "is_incremental": true,
@@ -1162,7 +1162,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/marketing-resource-management/introduction.html",
-          "hash": "CdYsNnzGxeLUIrq68nkAhA=="
+          "hash": "Bvn5ux1wMIB4Ujj4da2qOg=="
         }
       },
       "is_incremental": true,
@@ -1174,7 +1174,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/pcm/introduction.html",
-          "hash": "BlrZgFqwBM5oaqu0Wl/J1A=="
+          "hash": "nY9qoxJJ4NEEPfNgS6CGUQ=="
         }
       },
       "is_incremental": true,
