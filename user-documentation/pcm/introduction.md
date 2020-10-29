@@ -1,1 +1,0 @@
-# PCM - Product content management

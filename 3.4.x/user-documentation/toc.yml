@@ -1,0 +1,208 @@
+- name: ユーザーガイド
+  href: index.md
+- name: Sitecore DAM
+  href: content-user-manual/intro.md
+  items: 
+    - name: Sitecore DAM™ について
+      href: content-user-manual/intro.md
+      items:
+        - name: リポジトリ
+          href: content-user-manual/about-m-content/repository.md
+        - name: ドメインモデル
+          href: content-user-manual/about-m-content/domain-model.md
+        - name: 統合に重点を置く
+          href: content-user-manual/about-m-content/focus-on-integration.md
+        - name: ディフィニション
+          href: content-user-manual/about-m-content/definitions/definitions.md
+          items:
+            - name: コレクション
+              href: content-user-manual/about-m-content/definitions/collections.md
+        - name: テンプレート
+          href: content-user-manual/about-m-content/templates.md
+    - name: 環境について
+      href: content-user-manual/getting-around/intro.md
+      items:
+        - name: 認証
+          href: content-user-manual/getting-around/authentication.md
+        - name: ホームページとナビゲーション
+          href: content-user-manual/getting-around/home-page.md
+        - name: 言語選択
+          href: content-user-manual/getting-around/language-selection.md
+    - name: 作成
+      href: content-user-manual/create/create-upload-content.md
+    - name: 選択
+      href: content-user-manual/select/asset-selection.md
+    - name: 編集
+      items:
+        - name: 詳細ページ
+          href: content-user-manual/edit/detail-page.md
+        - name: プレビューとズーム
+          href: content-user-manual/preview/deep-zoom.md
+        - name: アセット操作
+          href: content-user-manual/edit/asset-operations.md
+        - name: コンテンツ編集
+          href: content-user-manual/edit/edit-content.md
+        - name: テーブルで編集
+          href: content-user-manual/edit/edit-in-table.md
+        - name: ビデオのトリミング
+          href: content-user-manual/edit/video-extraction.md
+        - name: ビデオ字幕
+          href: content-user-manual/edit/video-subtitles.md
+    - name: 分析
+      items:
+        - name: 画像分析
+          href: content-user-manual/analyze/image-analysis.md
+        - name: 画像の類似性
+          href: content-user-manual/analyze/image-similarity.md
+        - name: ビデオ分析
+          href: content-user-manual/analyze/video-ai-analysis.md
+    - name: レビュー
+      href: content-user-manual/review/reviewing-content.md
+      items:
+        - name: 基本フロー
+          href: content-user-manual/review/reviewing-content.md
+        - name: バージョン
+          href: content-user-manual/review/versioning.md
+        - name: レビューページ
+          href: content-user-manual/review/review-page.md
+        - name: アップロードファイル
+          href: content-user-manual/review/upload-file.md
+        - name: 代替サムネイルのアップロード
+          href: content-user-manual/review/upload-alternative-file.md
+        - name: アノテート
+          href: content-user-manual/review/annotations/overview.md 
+          items:
+            - name: 概要
+              href: content-user-manual/review/annotations/overview.md
+            - name: メディアタイプ
+              href: content-user-manual/review/annotations/annotations-media-type.md
+            - name: アノテーションツール
+              href: content-user-manual/review/annotations/annotation-tools.md
+            - name: アノテーションメニュー
+              href: content-user-manual/review/annotations/annotation-actions.md
+            - name: サイドバイサイド比較
+              href: content-user-manual/review/annotations/annotation-side-by-side-comparison.md
+            - name: アノテーションレポート
+              href: content-user-manual/review/annotations/annotations-report.md
+            - name: ビデオアノテーション
+              href: content-user-manual/review/annotations/video-annotations.md
+    - name: 検索
+      href: content-user-manual/search/search-menu.md
+      items:
+        - name: コンテンツ検索
+          href: content-user-manual/search/search-menu.md
+        - name: 検索の保存
+          href: content-user-manual/search/saved-search.md
+    - name: 共有
+      href: content-user-manual/share/share-searches.md
+      items:
+        - name: 検索の共有
+          href: content-user-manual/share/share-searches.md
+        - name: セレクションの共有
+          href: content-user-manual/share/share-selection.md
+        - name: パブリックコレクション
+          href: content-user-manual/share/public-collections.md
+        - name: 共有リンク
+          href: content-user-manual/share/public-links.md
+        - name: OneDrive 連携
+          href: content-user-manual/share/onedrive/onedrive-overview.md
+          items:
+            - name: 機能概要
+              href: content-user-manual/share/onedrive/onedrive-overview.md
+            - name: OneDrive 概要
+              href: content-user-manual/share/onedrive/onedrive.md
+            - name: チェックアウトページと操作
+              href: content-user-manual/share/onedrive/onedrive-checkouts-configs.md
+            - name: OneDrive セットアップ
+              href: content-user-manual/share/onedrive/onedrive-setup.md
+    - name: 変換
+      href: content-user-manual/convert/media-conversions.md
+      items:
+        - name: メディアコンバージョン
+          href: content-user-manual/convert/media-conversions.md
+        - name: メディアプロセシングセット
+          href: content-user-manual/convert/media-processing-set.md
+        - name: PDF 生成
+          href: content-user-manual/convert/generate-pdf.md
+    - name: ダウンロード
+      href: content-user-manual/download/download-options-page.md
+      items:
+        - name: 概要
+          href: content-user-manual/download/download-options-page.md
+        - name: ダウンロード操作
+          href: content-user-manual/download/download-operations.md
+        - name: カスタムダウンロード
+          href: content-user-manual/download/custom-download.md
+        - name: アセット固有のレンディション
+          href: content-user-manual/download/asset-specific-renditions.md
+    - name: 統合
+      items:
+        - name: Sitecore Connect™ for Sitecore DAM™
+          href: content-user-manual/integrate/sitecore-connect-for-sitecore-dam/overview.md
+        - name: Sitecore Connect™ for Creative Cloud™
+          href: content-user-manual/integrate/sitecore-connect-for-creative-cloud/introduction.md
+        - name: Sitecore Connect™ for Salesforce Marketing Cloud
+          href: content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/overview.md
+        - name: コンテンツの使用方法とインパクト
+          href: content-user-manual/integrate/content-usage-and-impact.md
+    - name: セキュリティ
+    - name: 拡張
+
+- name: Sitecore PCM
+  href: pcm/introduction.md
+  items:
+    - name: 概要
+      href: pcm/introduction.md
+    - name: コマースカタログ
+    - name: 製品ファミリー
+    - name: 製品情報
+    - name: PCM アセット
+
+  
+- name: Sitecore CMP™
+  href: cmp/cmp-intro.md
+  items:
+    - name: 概要
+      href: cmp/cmp-intro.md
+    - name: 環境について
+    - name: アイデアフロー
+    - name: CMP フロー
+    - name: 作成
+    - name: バージョン
+    - name: 編集と連携
+    - name: 再利用
+    - name: 計画
+    - name: モニター
+    - name: 統合
+    
+- name: Sitecore MRM™
+  href: marketing-resource-management/introduction.md
+  items:
+    - name: MRM コンセプト
+      href: marketing-resource-management/concepts/mrm-concepts.md
+    - name: 環境について
+    - name: プロジェクト
+    - name: ジョブ
+    - name: プロジェクト vs ジョブ
+    - name: タスク
+    - name: MRM - CMP 統合
+    - name: 予算管理
+    - name: リソース計画
+    - name: セキュリティ
+
+- name: 管理ツール
+  href: administration/introduction.md
+  items:
+    - name: 概要
+      href: administration/introduction.md
+    - name: ポータル
+    - name: データ
+    - name: システム
+    - name: プロセッシング
+    - name: セキュリティ
+    - name: レポーティング
+    - name: DRM
+    - name: CMP
+    - name: CHLII パブリッシュ
+  
+    

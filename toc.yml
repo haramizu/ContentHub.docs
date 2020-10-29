@@ -1,7 +1,0 @@
-- name: ユーザーガイド
-  href: user-documentation/
-- name: クラウド開発
-  href: integrations/
-- name: API リファレンス
-  href: api-reference/
-  homepage: api-reference/index.md

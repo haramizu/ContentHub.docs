@@ -1,0 +1,928 @@
+{
+  "homepages": [],
+  "source_base_path": "/Volumes/HDD/Github/ContentHub.docs/3.4.x",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "oM7gryENQQb5THVywPnvYA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api-reference/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api-reference/index.html",
+          "hash": "G8WnknIMWVKeXun8glIaHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api-reference/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-reference/toc.html",
+          "hash": "wO0zRcm0Nxg4cSALB3UYXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "HVfd7a68UTpo2NC0UV2UKg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "integrations/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "integrations/index.html",
+          "hash": "z7QYW8X64YMnSee2ObsYCw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "integrations/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "integrations/toc.html",
+          "hash": "4wuyGSqXbqpMP+neCkytSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WWSkythdRw/BEqN7LkNlQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/administration/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/administration/introduction.html",
+          "hash": "DONKJ0czci5v9LjQtOVRZQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/cmp/cmp-intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/cmp/cmp-intro.html",
+          "hash": "KeZ7/cU/Bl9NnQ3wKOOu6w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/about-m-content/definitions/collections.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/about-m-content/definitions/collections.html",
+          "hash": "LBLchFGOZfpBnf1ZRC/svA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/about-m-content/definitions/definitions.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/about-m-content/definitions/definitions.html",
+          "hash": "WHJf6bIz3fh9P5h43VqGhg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/about-m-content/domain-model.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/about-m-content/domain-model.html",
+          "hash": "eiek7cPTZTYb45uNzw0Z+A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/about-m-content/focus-on-integration.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/about-m-content/focus-on-integration.html",
+          "hash": "3RnGFVrApldVFDC6U4LohA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/about-m-content/repository.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/about-m-content/repository.html",
+          "hash": "MHeiV5Q5LyGRfTRjdSTwDw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/about-m-content/templates.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/about-m-content/templates.html",
+          "hash": "CAu1Fmbnd84zXvzOpoyPDA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/analyze/image-analysis.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/analyze/image-analysis.html",
+          "hash": "zoAfrZsQXeYmla8WIvH6kg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/analyze/image-similarity.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/analyze/image-similarity.html",
+          "hash": "mVtGtktvOAjJ1f3zScVutg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/analyze/video-ai-analysis.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/analyze/video-ai-analysis.html",
+          "hash": "GL4oKtrzFSxXr0DR4VhNtw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/convert/generate-pdf.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/convert/generate-pdf.html",
+          "hash": "8ZGS7to5BDlTxDZ7HAg7ow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/convert/media-conversions.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/convert/media-conversions.html",
+          "hash": "yW3rqmKS1jurn5KZhMaeeQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/convert/media-processing-set.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/convert/media-processing-set.html",
+          "hash": "1Zv7nr8FZFmiFz0GotqcPg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/create/create-upload-content.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/create/create-upload-content.html",
+          "hash": "uuXhTxhHHKW/4588E0vFoA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/download/asset-specific-renditions.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/download/asset-specific-renditions.html",
+          "hash": "PbLUyC3V2+EjBNHZzvqpow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/download/custom-download.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/download/custom-download.html",
+          "hash": "In4XEYy3dmbCwJzRuFRiBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/download/download-operations.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/download/download-operations.html",
+          "hash": "+HH5M9e+JrBbdUTKmftOdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/download/download-options-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/download/download-options-page.html",
+          "hash": "0iDdjRD969hw573cHpXHiw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/edit/asset-operations.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/edit/asset-operations.html",
+          "hash": "tywMokMxryJKi9fFyiRkfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/edit/detail-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/edit/detail-page.html",
+          "hash": "cyIJjUI//HNoD5z3zSxyIg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/edit/edit-content.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/edit/edit-content.html",
+          "hash": "a2YCmWuH+RsgNLvhaM+QZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/edit/edit-in-table.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/edit/edit-in-table.html",
+          "hash": "a9cjm8DHMP/Lxtu1VSvTcw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/edit/video-extraction.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/edit/video-extraction.html",
+          "hash": "z91YNZEucFLcEHiYyY30QA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/edit/video-subtitles.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/edit/video-subtitles.html",
+          "hash": "2XOr6vyJfczYNkjE1KRBSw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/getting-around/authentication.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/getting-around/authentication.html",
+          "hash": "ZpvQX+HOI5cCRZ/ouv0cTQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/getting-around/home-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/getting-around/home-page.html",
+          "hash": "QLfe1l3qviDK4h+2ScWRRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/getting-around/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/getting-around/intro.html",
+          "hash": "ev7i1aY9oojN7doaAXd0ag=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/getting-around/language-selection.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/getting-around/language-selection.html",
+          "hash": "dh69KpJmoUOj22x29ff5Zw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/integrate/content-usage-and-impact.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/integrate/content-usage-and-impact.html",
+          "hash": "73mF3fwgo8oCtCOWOnZRKg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/introduction.html",
+          "hash": "YFro0pI3mdjsGbfe6PomFQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/overview.html",
+          "hash": "b1PMHLOIezSu6CxG5O0POQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-sitecore-dam/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-sitecore-dam/overview.html",
+          "hash": "3sI9DMnGqR6+wn6uvQHwPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/intro.html",
+          "hash": "D7OuGRWgVAH5gBiK0Imebg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/preview/deep-zoom.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/preview/deep-zoom.html",
+          "hash": "c73xufJp+edkcTYvcMhGPg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/annotations/annotation-actions.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-actions.html",
+          "hash": "wM+z17zMKaKYdHlNHxPVyQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/annotations/annotation-side-by-side-comparison.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-side-by-side-comparison.html",
+          "hash": "gMw/gNhwBoXMgS2MbKFUeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/annotations/annotation-tools.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-tools.html",
+          "hash": "isvflwDB/lzsq+eWynu3RA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/annotations/annotations-media-type.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/annotations/annotations-media-type.html",
+          "hash": "+/3TNUdh+hUtaDutEFMRtQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/annotations/annotations-report.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/annotations/annotations-report.html",
+          "hash": "dw8AnRwfdJfZryp7ObNpqQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/annotations/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/annotations/overview.html",
+          "hash": "+OJYFuEVtv7GnNBRGriHVA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/annotations/video-annotations.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/annotations/video-annotations.html",
+          "hash": "yj6SgrklV0jRUv8XVYrR/w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/review-page.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/review-page.html",
+          "hash": "IhyexUi0cP03eYutYXhzJA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/reviewing-content.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/reviewing-content.html",
+          "hash": "bENzY87GeEapjrP+XCYLUg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/upload-alternative-file.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/upload-alternative-file.html",
+          "hash": "9Pm0ljDFo8hLshOfUToT9Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/upload-file.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/upload-file.html",
+          "hash": "BkggMx3IF0rH9nQiJSBpKQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/review/versioning.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/review/versioning.html",
+          "hash": "5tMReiDuVKl9Dg68rzFnnQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/search/saved-search.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/search/saved-search.html",
+          "hash": "8jUEunrb4Ofa3bfRNNn4Og=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/search/search-menu.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/search/search-menu.html",
+          "hash": "ACEQJ5mQmZehJGuJ32CDRQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/select/asset-selection.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/select/asset-selection.html",
+          "hash": "1TygNCEgMjKs6aB3uQQ8cQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-checkouts-configs.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-checkouts-configs.html",
+          "hash": "vRReuTmmcZAPx97xrWl+pw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-overview.html",
+          "hash": "RCHbn8HyP9247kxKHIPIeg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-setup.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-setup.html",
+          "hash": "vaH9HVQ8OfTWIy1UuqIgHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive.html",
+          "hash": "vePlVInk2+F8V+650Fy0gw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/share/public-collections.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/share/public-collections.html",
+          "hash": "33jqkJm2DtMUN/VvxbmFxg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/share/public-links.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/share/public-links.html",
+          "hash": "teUxhxC9VcPN/dGiiAgAUg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/share/share-searches.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/share/share-searches.html",
+          "hash": "sNWOkdxh1aQPuOFliHcrTA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/share/share-selection.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/share/share-selection.html",
+          "hash": "cqOVVSRSfNBJUsvk7I6RJg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/index.html",
+          "hash": "Ucz4zdBqJdSIduUbq5UWHA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/marketing-resource-management/concepts/mrm-concepts.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/marketing-resource-management/concepts/mrm-concepts.html",
+          "hash": "DgFt9AE7Ky9F1ypONRDjOg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/marketing-resource-management/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/marketing-resource-management/introduction.html",
+          "hash": "CdYsNnzGxeLUIrq68nkAhA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/pcm/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/pcm/introduction.html",
+          "hash": "BlrZgFqwBM5oaqu0Wl/J1A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "user-documentation/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/toc.html",
+          "hash": "F2k4l/e8PqB3XdIdwJ6QIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 66,
+          "skipped_file_count": 66
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
