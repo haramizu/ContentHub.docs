@@ -18,20 +18,21 @@
       {
         "files": [
           "user-documentation/**.md",
-          "user-documentation/toc.yml"
-        ]
-      },      {
-        "files": [
-          "api-reference/**.yml",
-          "api-reference/index.md"
+          "user-documentation/toc.yml",
+          "toc.yml",
+          "*.md"
         ]
       },
       {
         "files": [
           "integrations/**.md",
-          "integrations/**/toc.yml",
-          "toc.yml",
-          "*.md"
+          "integrations/toc.yml"
+        ]
+      },
+      {
+        "files": [
+          "api-reference/**.md",
+          "api-reference/toc.yml"
         ]
       }
     ],

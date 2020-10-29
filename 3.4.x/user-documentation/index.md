@@ -2,7 +2,7 @@
 
 このセクションでは、Sitecore Content Hub™のさまざまなモジュールのドキュメントを提供します。
 
-## Sitecore DAM™
+## [Sitecore DAM™](content-user-manual/intro.md)
 
 Sitecore Digital Asset Management (DAM)™を使用すると、以下のことが可能になります。
 
@@ -12,7 +12,7 @@ Sitecore Digital Asset Management (DAM)™を使用すると、以下のこと�
 * 保存した資産のコレクションを他のユーザーと共有。
 * メタデータ、デジタル著作権管理（DRM）、セキュリティ、グローバル配信をサポート。
 
-## Sitecore PCM
+## [Sitecore PCM](pcm/introduction.md)
 
 Sitecore Product Content Management (PCM)™を使用すると、以下のことが可能になります。
 
@@ -20,7 +20,7 @@ Sitecore Product Content Management (PCM)™を使用すると、以下のこと
 * チャネルをまたいだ製品関連コンテンツへのアクセス、リアルタイムの更新、公開を管理します。
 * コンテンツ内のすべての関連オブジェクトとのリレーションシップを作成します。
 
-## Sitecore CMP
+## [Sitecore CMP](cmp/cmp-intro.md)
 Sitecore Content Marketing Platform (CMP)™を使用すると、以下のことが可能になります。
 
 * コンテンツ戦略の計画、管理、コラボレーションを効果的に行うことができます。
@@ -28,7 +28,7 @@ Sitecore Content Marketing Platform (CMP)™を使用すると、以下のこと
 * コンテンツの利用と配信を最適化し、すべてのチャネルでターゲットとなるオーディエンスに配信します。
 * コンテンツの可視性とガバナンスを向上させます。
 
-## Sitecore MRM
+## [Sitecore MRM](marketing-resource-management/introduction.md)
 
 Sitecore Marketing Resource Management (MRM)™を使用すると、以下のことが可能になります。
 

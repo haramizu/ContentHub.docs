@@ -50,15 +50,223 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "index.md",
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg",
       "output": {
-        ".html": {
-          "relative_path": "index.html",
-          "hash": "HVfd7a68UTpo2NC0UV2UKg=="
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg"
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif"
+        }
+      },
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -67,7 +275,7 @@
       "output": {
         ".html": {
           "relative_path": "integrations/index.html",
-          "hash": "z7QYW8X64YMnSee2ObsYCw=="
+          "hash": "nfsCOEiBTdnijuI9t5rbIA=="
         }
       },
       "is_incremental": true,
@@ -102,7 +310,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "WWSkythdRw/BEqN7LkNlQw=="
+          "hash": "C0rKqn1x8rlZhJdr4lchBg=="
         }
       },
       "is_incremental": false,
@@ -138,7 +346,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/definitions/collections.html",
-          "hash": "LBLchFGOZfpBnf1ZRC/svA=="
+          "hash": "XattgVitJL0xAkIOvzTGxg=="
         }
       },
       "is_incremental": true,
@@ -150,7 +358,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/definitions/definitions.html",
-          "hash": "WHJf6bIz3fh9P5h43VqGhg=="
+          "hash": "8hW7viDqjLa1cNqGQ88D7w=="
         }
       },
       "is_incremental": true,
@@ -174,7 +382,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/focus-on-integration.html",
-          "hash": "3RnGFVrApldVFDC6U4LohA=="
+          "hash": "JtBBK6U1aM5zdAuC7FYtmA=="
         }
       },
       "is_incremental": true,
@@ -307,30 +515,6 @@
         ".html": {
           "relative_path": "user-documentation/content-user-manual/customize/user-themes.html",
           "hash": "TFrrAICRND1uTJQIPq9lzQ=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "user-documentation/content-user-manual/digital-rights-management/concepts.md",
-      "output": {
-        ".html": {
-          "relative_path": "user-documentation/content-user-manual/digital-rights-management/concepts.html",
-          "hash": "H6BVGS416AR1UT27bJXa1g=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "user-documentation/content-user-manual/digital-rights-management/drm-workflow.md",
-      "output": {
-        ".html": {
-          "relative_path": "user-documentation/content-user-manual/digital-rights-management/drm-workflow.html",
-          "hash": "OJldEphZSXYprB1rxiR5HA=="
         }
       },
       "is_incremental": true,
@@ -818,6 +1002,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/secure/digital-rights-management/concepts.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/secure/digital-rights-management/concepts.html",
+          "hash": "SiuCMpi8dqtObu6N3ZkWOA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/content-user-manual/secure/digital-rights-management/drm-workflow.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/content-user-manual/secure/digital-rights-management/drm-workflow.html",
+          "hash": "vMDL1jqUR1VPB9eksniOhg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "user-documentation/content-user-manual/select/asset-selection.md",
       "output": {
         ".html": {
@@ -930,7 +1138,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/index.html",
-          "hash": "Ucz4zdBqJdSIduUbq5UWHA=="
+          "hash": "he7u1wHF+vAuQ58e7CD5Xw=="
         }
       },
       "is_incremental": true,
@@ -974,7 +1182,6 @@
     },
     {
       "log_codes": [
-        "InvalidFileLink",
         "EmptyTocItemName"
       ],
       "type": "Toc",
@@ -982,7 +1189,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/toc.html",
-          "hash": "2mEeSE7HcanOBg4UKOMorg=="
+          "hash": "DBGLXrfO/L1FI1awmp/UsQ=="
         }
       },
       "is_incremental": false,
@@ -1001,8 +1208,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 75,
-          "skipped_file_count": 75
+          "total_file_count": 74,
+          "skipped_file_count": 74
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

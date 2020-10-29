@@ -69,6 +69,103 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="コレクション">コレクション</h1>
 
+<p><strong>コレクション</strong>のページには、ユーザーが作成した、またはユーザーと共有しているコレクションのリストが表示されます。各コレクションには<strong>タイプ</strong>と<strong>説明</strong>があり、このコレクションがどのような目的で使用されるかを指定します。コレクションは、フルテキスト検索またはファセット検索のいずれかで検索することができます。コレクションは、テーブルビューまたはグリッドビューのいずれかで表示することができます。</p>
+<p>コレクションの概要ページを参照してください。</p>
+<p><strong>コレクションオーバービューページ</strong></p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png" alt=""></p>
+<p><strong>コレクション</strong>は、右上の <strong>+COLLECTION</strong> ボタンを使用して作成することができます。このボタンをクリックすると、コレクションの詳細を入力するモーダルが開きます。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png" alt=""></p>
+<ul>
+<li><strong>名前</strong> はフリーテキストフィールドです。</li>
+<li><strong>コレクションタイプ</strong> は、ドロップダウンオプションでアウトオブボックスのオプションを提供しています。
+<ul>
+<li>キャンペーン</li>
+<li>製品</li>
+<li>イベント</li>
+</ul>
+</li>
+<li><strong>説明</strong> は複数行のフリーテキストフィールドです。</li>
+</ul>
+<p>必要な詳細を入力したら、<strong>CREATE</strong> をクリックします。</p>
+<p>新しいコレクションがコレクションページに表示されます。</p>
+<h2 id="コンテンツ">コンテンツ</h2>
+<p>コレクションにアセットを追加するには、<strong>コンテンツ</strong> ページで新しいコレクションを開き、<strong>追加</strong> を選択します。<strong>リンクアイテム</strong> オプションまたは<strong>クリップボードから貼り付け</strong>選択した Sitecore DAM 内のアセットと新しいコレクションの間にシンボリックリンクを作成します。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif" alt="DAMのアセットをリンクする"></p>
+<p><strong>コンテンツ</strong>ページでは、選択した画像や貼り付けた画像を表示します。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png" alt="コレクションコンテンツページ"></p>
+<p>コレクション内のアセットの 1 つを<strong>マスターとして設定</strong>するには、アセットのアクションアイコン <img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png" alt=""> を使用します。アセットを<strong>マスター</strong>に設定すると、アセットのサムネイル プレビューにクラウン アイコンが表示されます。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif" alt="コレクション内のアセットをマスターとして設定できます。"></p>
+<p>コレクションの削除にはダストビンアイコン <img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png" alt=""> のダストビンアイコンを使います。</p>
+<h3 id="フィルター">フィルター</h3>
+<p><strong>フィルタ</strong>オプションは、表示するように選択された任意のファセットを利用します。ファセットは、定義されたメタデータフィールドの繰り返し検索の速度を上げるために使用することができます。</p>
+<p>この例では、アセットのタイトルがコレクションの<strong>検索コンポーネント</strong>に含まれていることが選択されています。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png" alt=""></p>
+<p>このファセットは、その後、コレクションの内容のフィルタを作成するために使用することができます。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif" alt="作成されたファセットを使ってフィルタリングされるコレクション" title="作成されたファセットを使ってフィルタリングされるコレクション"></p>
+<h3 id="高度な機能">高度な機能</h3>
+<p>Advanced オプションは、 ユーザーが複雑なクエリを構築することを可能にします。クエリは、コレクションに含まれるアセットのメタデータの条件を使用して構築されます。</p>
+<ul>
+<li><p>メタデータフィールドが選択されている。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png" alt="アセットのメタデータが選択されている" title="アセットのメタデータが選択されている"></p>
+</li>
+<li><p>リレーションを選択します。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png" alt="関係はドロップダウンリストから選択されます。" title="関係はドロップダウンリストから選択されます。"></p>
+</li>
+<li><p>条件を決めています。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png" alt="条件決定" title="条件決定"></p>
+</li>
+</ul>
+<p>このクエリは、コレクションのコンテンツをフィルタリングするために使用されます。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif" alt="高度なフィルタ" title="高度なフィルタ"></p>
+<h2 id="詳細">詳細</h2>
+<p>詳細タブには、特定のコレクションとそのメタデータに関する情報が含まれています。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png" alt="コレクションの詳細タブ"></p>
+<p>詳細を編集するには、鉛筆のアイコンをクリックします。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif" alt="コレクションの詳細を編集する"></p>
+<h2 id="共有">共有</h2>
+<p>このタブでは、ユーザーがコレクションを公開して共有することができます。コレクションは他のユーザーやユーザーグループと共有することができます。</p>
+<p>内部ユーザーまたはユーザーグループを追加するには、<strong>編集</strong>ボタンをクリックし、<strong>追加ユーザー</strong>ボタンに進みます。<strong>ユーザー</strong>または<strong>ユーザーグループ</strong>のオプションで選択リストが表示され、必要な値が選択されたら<strong>保存</strong>をクリックします。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif" alt=""></p>
+<p>デフォルトでは、これらのユーザーまたはユーザーグループは、コレクションのリーダーとして追加されます。これらのユーザーまたはユーザーグループは、コレクションの<strong>コントリビューター</strong>または<strong>マネージャー</strong>の役割に昇格することもできます。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png" alt="コレクションのユーザーとユーザーグループには、ロールを定義することができます。"></p>
+<p>必要な値を選択したら、<strong>保存</strong> をクリックします。</p>
+<p>エンティティの可視性は、通常のユーザーグループポリシーに従って処理されます。任意のロールにユーザーを追加しても、既存のセキュリティ ルールは上書きされません。その影響は、Collectionエンティティのみに限定されます。</p>
+<h3 id="外部ダウンロードページ">外部ダウンロードページ</h3>
+<p>この機能により、ユーザーはコレクションを外部ダウンロードページとして公開することができます。これにより、コレクションの制限のないアセットを外部のウェブサイトで利用できるようになります。外部ダウンロードページには以下のオプションがあります。</p>
+<ul>
+<li><p><strong>利用可能なダウンロードオプション:</strong></p>
+<p>ユーザーは、外部ダウンロードページでダウンロード可能なレンディションを選択できます。デフォルトでは、オリジナルとプレビューのオプションが選択されている。</p>
+</li>
+<li><p><strong>URL パス:</strong></p>
+<p>システムは自動的にURLパスを生成します。ユーザーは自分で定義したパスを設定することも、新しいパスを生成することもできます。</p>
+</li>
+<li><p><strong>ページの有効期限:</strong></p>
+<p>ユーザーは有効期限を設定することができます。デフォルト値はなしで、手動で無効化されるまでページはオンラインのままです。利用可能なオプションは、7日、30日、または固定の有効期限です。</p>
+</li>
+</ul>
+<p>設定を保存すると、バックエンドジョブがページの作成を開始します。ページがすぐに利用できるわけではないことに注意してください。設定は、<strong>設定</strong> ボタンをクリックして後で修正することができます。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif" alt="外部ダウンロードコレクションオプション
+"></p>
+<p>設定を保存すると、バックエンドジョブがページの作成を開始します。ページがすぐに利用できるわけではないので注意してください。設定は、<strong>設定</strong> ボタンをクリックして後で修正することができます。</p>
+<p>その他のオプションは、外部ダウンロードページのURLの横にあります。</p>
+<ul>
+<li><p><strong>リンクをコピー:</strong></p>
+<p>このオプションは、リンクをクリップボードにコピーします。</p>
+</li>
+</ul>
+<p><em>ユーザーを追加</em> ボタンは、内部共有にのみ適用されます。外部ダウンロードページでは、認証を必要とするかどうかを設定できます。</p>
+<ul>
+<li><p><strong>認証が必要:</strong></p>
+<p>この場合、外部ページにアクセスする前に、全員がSitecore Content Hub内で認証を行う必要があります。</p>
+<p>ページにアクセスしようとすると、ユーザーは自動的にSitecore Content Hubのログインページにリダイレクトされます。</p>
+</li>
+<li><p><strong>認証は必要ありません</strong></p>
+<p>この場合、コレクションは公開されています。誰でも外部ダウンロードページにアクセスして、利用可能なレンディションをダウンロードすることができます。</p>
+</li>
+</ul>
+<h3 id="コメント">コメント</h3>
+<p>コメントはコメントタブを使ってコレクションに追加することができます。<strong>新しいコメント</strong>をクリックして、新しいモーダルでコメントを追加し、<strong>投稿</strong>をクリックします。</p>
+<p><img src="/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif" alt="コメントは、コメントタブを使用してコレクションに追加することができます。"></p>
 </article>
           </div>
           <div class="contribution-panel mobile-hide">

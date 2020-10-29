@@ -8,6 +8,6 @@
 
 ダウンストリームプラットフォームは、通常、データをSitecore Content Hubに統合してエンリッチ化したアップストリームシステムからデータやアセットを受け取る必要があります。ユーザー中心のUIとわかりやすいHypermedia APIにより、すべてのものに簡単にアクセスすることができます。ソーシャルメディアチャンネル（twitter、facebook、...）、Aprimo、Marketo、SiteCore、WordPress、Hybris、SharePointなどの統合例があります。
 
-統合プラットフォーム。
+統合プラットフォーム
 
 ![](/images/user-documentation/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg)

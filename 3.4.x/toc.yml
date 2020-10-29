@@ -3,5 +3,4 @@
 - name: クラウド開発
   href: integrations/index.md
 - name: API リファレンス
-  href: api-reference/
-  homepage: api-reference/index.md
+  href: api-reference/index.md
