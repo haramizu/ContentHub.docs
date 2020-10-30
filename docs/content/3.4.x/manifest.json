@@ -62,10 +62,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg"
         }
       },
       "is_incremental": false,
@@ -73,10 +73,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg"
         }
       },
       "is_incremental": false,
@@ -84,10 +84,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png"
         }
       },
       "is_incremental": false,
@@ -95,10 +95,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png"
         }
       },
       "is_incremental": false,
@@ -106,10 +106,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png"
         }
       },
       "is_incremental": false,
@@ -117,10 +117,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif"
         }
       },
       "is_incremental": false,
@@ -128,10 +128,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif"
         }
       },
       "is_incremental": false,
@@ -139,10 +139,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png"
         }
       },
       "is_incremental": false,
@@ -150,10 +150,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png"
         }
       },
       "is_incremental": false,
@@ -161,10 +161,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png"
         }
       },
       "is_incremental": false,
@@ -172,10 +172,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png"
         }
       },
       "is_incremental": false,
@@ -183,10 +183,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif"
         }
       },
       "is_incremental": false,
@@ -194,10 +194,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif"
         }
       },
       "is_incremental": false,
@@ -205,10 +205,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif"
         }
       },
       "is_incremental": false,
@@ -216,10 +216,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png"
         }
       },
       "is_incremental": false,
@@ -227,10 +227,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif"
         }
       },
       "is_incremental": false,
@@ -238,10 +238,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif"
         }
       },
       "is_incremental": false,
@@ -249,10 +249,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png"
         }
       },
       "is_incremental": false,
@@ -260,10 +260,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png"
         }
       },
       "is_incremental": false,
@@ -271,10 +271,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png"
         }
       },
       "is_incremental": false,
@@ -282,10 +282,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif",
+      "source_relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif"
+          "relative_path": "images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif"
         }
       },
       "is_incremental": false,
@@ -293,10 +293,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/getting-around/5_Login_page.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/75_Create_page.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/getting-around/5_Login_page.png"
+          "relative_path": "images/user-documentation/content-user-manual/create/75_Create_page.png"
         }
       },
       "is_incremental": false,
@@ -304,10 +304,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/getting-around/6_Login_error_message.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/80_Composite_assets_settings-updated.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/getting-around/6_Login_error_message.png"
+          "relative_path": "images/user-documentation/content-user-manual/create/80_Composite_assets_settings-updated.png"
         }
       },
       "is_incremental": false,
@@ -315,10 +315,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/getting-around/8_Language_selector.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/creating_editing_uploading_content_thumbnail_archive_preview.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/getting-around/8_Language_selector.png"
+          "relative_path": "images/user-documentation/content-user-manual/create/creating_editing_uploading_content_thumbnail_archive_preview.png"
         }
       },
       "is_incremental": false,
@@ -326,10 +326,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/getting-around/home_page.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/creating_editing_uploading_content_thumbnail_audio_preview.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/getting-around/home_page.png"
+          "relative_path": "images/user-documentation/content-user-manual/create/creating_editing_uploading_content_thumbnail_audio_preview.png"
         }
       },
       "is_incremental": false,
@@ -337,10 +337,2265 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/getting-around/menu_showing_language_selector.png",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/creating_editing_uploading_content_thumbnail_no_image.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/getting-around/menu_showing_language_selector.png"
+          "relative_path": "images/user-documentation/content-user-manual/create/creating_editing_uploading_content_thumbnail_no_image.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/drag_and_drop.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/create/drag_and_drop.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/import_link.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/create/import_link.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/mountain_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/create/mountain_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/project_incoming.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/create/project_incoming.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/project_incoming_tab-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/create/project_incoming_tab-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/project_incoming_tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/create/project_incoming_tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/select_files.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/create/select_files.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/create/send_to_content.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/create/send_to_content.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.0.0_30_Mass_submit_mandatory_fields_error_messages.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.0.0_30_Mass_submit_mandatory_fields_error_messages.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.0.0_image106.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.0.0_image106.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_24_Asset_Detail_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_24_Asset_Detail_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_25_Geographies_relation_editor.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_25_Geographies_relation_editor.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_26_Geographies_relation_editor_drilled_down_1_level.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_26_Geographies_relation_editor_drilled_down_1_level.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_27_Related_assets_relation_editor.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_27_Related_assets_relation_editor.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_28_Mandatory_fields_UI.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_28_Mandatory_fields_UI.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_29_Mandatory_fields_error_messages.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_29_Mandatory_fields_error_messages.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_31_Metadata_history_UI.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_31_Metadata_history_UI.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_32_Entity_history_viewer.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_32_Entity_history_viewer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_33_Composite_assets_structure.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_33_Composite_assets_structure.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_34_Composite_assets_Navigate_to_subfolder.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_34_Composite_assets_Navigate_to_subfolder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_35_Public_links_option.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_35_Public_links_option.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_39_Video_asset_play_button_overlay.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_39_Video_asset_play_button_overlay.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_40_Video_Capture_frame_as_alternative.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_40_Video_Capture_frame_as_alternative.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_76_Fly-out.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_76_Fly-out.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_77_Fly-out_QuickEdit.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_77_Fly-out_QuickEdit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_81_Selection_dropdown_basket.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_81_Selection_dropdown_basket.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_88_Refresh_renditions_overview_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_88_Refresh_renditions_overview_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_89_Public_links_creation.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_89_Public_links_creation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_detail_overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_detail_overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_entity_rating.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_entity_rating.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_eye_icon_for_fly_out_preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_eye_icon_for_fly_out_preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_properties.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_properties.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_verview_edit_metadata.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_verview_edit_metadata.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_comments.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_comments.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_eye_icon_on_asset.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_eye_icon_on_asset.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_image107.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_image107.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_image84.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_image84.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_mass_edit_job_details.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_mass_edit_job_details.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_new_comment.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_new_comment.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_pencil_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_pencil_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_read_audit_added_as_a_privilege.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_read_audit_added_as_a_privilege.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_reply.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_reply.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_rights.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_rights.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_view_data_history_as_a_new_rule.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_view_data_history_as_a_new_rule.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_basic_list_option_formatting.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_basic_list_option_formatting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_basic_paragraph_formatting.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_basic_paragraph_formatting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_basic_text_formatting.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_basic_text_formatting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_indention_formatting.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_indention_formatting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_dam_video.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_dam_video.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_image_assets.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_image_assets.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_image_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_image_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_image_portalassets.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_image_portalassets.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_portal_video.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_portal_video.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_video.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_insert_video.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_link_insertion.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_link_insertion.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_link_insertion_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_link_insertion_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_unlink_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_description_unlink_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_filename.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_asset_detail_filename.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_bullet_list_properties.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_bullet_list_properties.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_insert_image.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.2.1_insert_image.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_back_arrow_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_back_arrow_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_back_button_mass_edit_table.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_back_button_mass_edit_table.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_boolean_value_for_member.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_boolean_value_for_member.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_brands_mandatory_massedittable.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_brands_mandatory_massedittable.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_brands_set_as_conditional.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_brands_set_as_conditional.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_datetime_click.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_datetime_click.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_detail_navigation.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_detail_navigation.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_detail_page_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_detail_page_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_detail_page_navigation.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_detail_page_navigation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_detail_page_shown_mass_edit_table.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_detail_page_shown_mass_edit_table.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_html_mass_edit.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_html_mass_edit.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_leave_warning_gif.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_leave_warning_gif.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_new_boolean_value.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_new_boolean_value.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_old_boolean_value.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_old_boolean_value.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_save_button.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_save_button.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_self_relation_mass_edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_self_relation_mass_edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_thumbnail_preview.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_thumbnail_preview.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_title.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_title.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_view_errors_field.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_3.3.0_view_errors_field.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_asset_mass_edit_table.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_asset_mass_edit_table.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_content_toolbar.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_content_toolbar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_copied_metadata.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_copied_metadata.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_edit_table_active_field.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_edit_table_active_field.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_edited_metadata.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_edited_metadata.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_metadata_save_changes.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_metadata_save_changes.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_select_assets.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_edit_edit_in_table_3.3.0_select_assets.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/add_to_saved_selection.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/add_to_saved_selection.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/all_download_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/all_download_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/annotate.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/annotate.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/archive_asset.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/archive_asset.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/closed_caption_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/closed_caption_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/closed_option_in_media_player.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/closed_option_in_media_player.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/completed_subtitle_language_on_uplad.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/completed_subtitle_language_on_uplad.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/content_toolbar.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/content_toolbar.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/create_draft.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/create_draft.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/custom_download_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/custom_download_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/delete_subtitle_file.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/delete_subtitle_file.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/download_button_on_subtitle_file.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/download_button_on_subtitle_file.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/download_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/download_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/edit_pencil_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/edit_pencil_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/edit_subtitles_shown_by_pencil_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/edit_subtitles_shown_by_pencil_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/existing_public_link.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/existing_public_link.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/generate_public_link-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/generate_public_link-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/generate_public_link.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/generate_public_link.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/icon_to_create_a_public_link.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/icon_to_create_a_public_link.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/language_selection_displays_subtitles.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/language_selection_displays_subtitles.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-340-manage-page-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-340-manage-page-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-340-settings-copy-opened_updated.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-340-settings-copy-opened_updated.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-340-settings-copy-save_updated.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-340-settings-copy-save_updated.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-assets-mass-edit-asset-detail.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-assets-mass-edit-asset-detail.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-assets-mass-edit-template-detail.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-assets-mass-edit-template-detail.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-assets-mass-edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/mdoc-935-assets-mass-edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/more_options_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/more_options_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/pencil_icon_video_subtitles.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/pencil_icon_video_subtitles.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/play_button_video_asset.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/play_button_video_asset.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/public_link.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/public_link.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/public_link_copy_paste.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/public_link_copy_paste.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/remove_from_saved_selection.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/remove_from_saved_selection.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/request_download.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/request_download.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/save_subtitle_language.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/save_subtitle_language.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/select_subtitles_file.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/select_subtitles_file.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/select_subtitles_language.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/select_subtitles_language.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/subrip_file_with_html_files.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/subrip_file_with_html_files.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/subtitles_center_align.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/subtitles_center_align.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/subtitles_left_align.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/subtitles_left_align.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/subtitles_right_align.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/subtitles_right_align.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/subtitles_upload_complete.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/subtitles_upload_complete.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/subtitles_upload_complete_done_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/subtitles_upload_complete_done_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/text_align_left.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/text_align_left.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/text_align_right.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/text_align_right.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/text_aling_center.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/text_aling_center.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/upload_asset.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/upload_asset.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/upload_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/upload_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/upload_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/upload_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/usage_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/usage_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/use_direct_link.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/use_direct_link.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_asset_details_page_with_download_highlighted.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_asset_details_page_with_download_highlighted.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_asset_details_page_with_download_shown.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_asset_details_page_with_download_shown.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitle_language_save.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitle_language_save.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_color_palette.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_color_palette.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_css_edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_css_edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_css_edit_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_css_edit_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_css_tab.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_css_tab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_added.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_added.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_blue.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_blue.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_red.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_red.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_yellow.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_yellow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_reflected_in_video.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_reflected_in_video.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_save.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_save.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_save_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_save_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_color_blue.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_color_blue.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_color_line_height_128.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_color_line_height_128.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_color_line_height_28.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_color_line_height_28.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_color_red.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_color_red.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_color_yellow.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_color_yellow.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_font_size1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_font_size1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_font_size2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_font_size2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_font_size3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_font_size3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_font_size4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_font_size4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_line_height_128px_setting.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_line_height_128px_setting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_line_height_28px_setting.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_line_height_28px_setting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_pages_under_manage.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_pages_under_manage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_search_asset_detail_video.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_subtitles_search_asset_detail_video.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_asset_details_page_showing_renditions.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_asset_details_page_showing_renditions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_custom_download.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_custom_download.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_custom_download_filename.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_custom_download_filename.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_custom_download_filename_shown.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_custom_download_filename_shown.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_custom_download_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_custom_download_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_custom_download_page_trim_highlighted.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_custom_download_page_trim_highlighted.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_done_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_done_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_format_option.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_format_option.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_new_rendition_listed.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_new_rendition_listed.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_save_rendition.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_save_rendition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/video_trim_trim_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/video_trim_trim_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/edit/where_used_usage.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/edit/where_used_usage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/getting-around/5_Login_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/getting-around/5_Login_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/getting-around/6_Login_error_message.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/getting-around/6_Login_error_message.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/getting-around/8_Language_selector.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/getting-around/8_Language_selector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/getting-around/home_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/getting-around/home_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/getting-around/menu_showing_language_selector.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/getting-around/menu_showing_language_selector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_magnifying_glass_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_magnifying_glass_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_pan_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_pan_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_zoom_in_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_zoom_in_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_zoom_out_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_zoom_out_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/asset_detail_page_showing_magnifying_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/asset_detail_page_showing_magnifying_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/asset_details_page_entity_image_viewer_component_highlighted.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/asset_details_page_entity_image_viewer_component_highlighted.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/asset_details_page_entity_image_viewer_more_actions_edit_highlighted.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/asset_details_page_entity_image_viewer_more_actions_edit_highlighted.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/deep-zoom-overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/deep-zoom-overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/deep-zoom-upper-menu-dropdown-list.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/deep-zoom-upper-menu-dropdown-list.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/deep-zoom-upper-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/deep-zoom-upper-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/entity_image_viewer_toggled_to_custom_settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/entity_image_viewer_toggled_to_custom_settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/entity_imageviewer_component_disable_deep_zoom_activated.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/entity_imageviewer_component_disable_deep_zoom_activated.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/preview/search_component_inline_preview_disable_deep_zoom.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/preview/search_component_inline_preview_disable_deep_zoom.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_assets_selected_using_drag_to_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_assets_selected_using_drag_to_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_assets_selected_with_mouse_inc_tooltip.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_assets_selected_with_mouse_inc_tooltip.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_count_mouse_selected_assets.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_count_mouse_selected_assets.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_drag_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_drag_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_drag_selection_area_assets.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_drag_selection_area_assets.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_mouse_click_selection.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_mouse_click_selection.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_shift_ctrl_to_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_shift_ctrl_to_select.png"
         }
       },
       "is_incremental": false,
@@ -396,6 +2651,54 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "user-documentation/administration/portal/pages/page-components/search-component/output-section.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/administration/portal/pages/page-components/search-component/output-section.html",
+          "hash": "NuLUdavA7kk+dmstLdMbDA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/administration/security/users/policies/privileges.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/administration/security/users/policies/privileges.html",
+          "hash": "o9h1OlcumQscrC4ys6mAcg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/administration/security/users/policies/user-group-policies.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/administration/security/users/policies/user-group-policies.html",
+          "hash": "cg1nryp8l3u7v/C1zt2wPw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user-documentation/administration/system/settings/settings.md",
+      "output": {
+        ".html": {
+          "relative_path": "user-documentation/administration/system/settings/settings.html",
+          "hash": "8yKDMkv6lqnd4BXtsQN8eQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "user-documentation/cmp/cmp-intro.md",
       "output": {
         ".html": {
@@ -412,7 +2715,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/definitions/collections.html",
-          "hash": "kUgCW8d+gtPF8k1KGyOShg=="
+          "hash": "BMERUCAJi7vunMP09L6E9Q=="
         }
       },
       "is_incremental": true,
@@ -424,7 +2727,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/definitions/definitions.html",
-          "hash": "7/IIaav4eaWHBV1XKUsgNg=="
+          "hash": "V9xNYfvddUaxoY+hlDqkzw=="
         }
       },
       "is_incremental": true,
@@ -448,7 +2751,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/focus-on-integration.html",
-          "hash": "LdinVS4ah/zx2ICPKo1rWQ=="
+          "hash": "bQOUCfrqe2C3+hmncTNhsA=="
         }
       },
       "is_incremental": true,
@@ -556,7 +2859,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/create/create-upload-content.html",
-          "hash": "jv8WrBxff+S5bZMrx/GQ4g=="
+          "hash": "Klddpe6Z3NVehSYMQ0mVhQ=="
         }
       },
       "is_incremental": true,
@@ -568,7 +2871,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/customize/user-pages-menu.html",
-          "hash": "yv30PYhxUAA+Hoc5xlFZQw=="
+          "hash": "ej/za6sxKhgIBCPMdWHxxQ=="
         }
       },
       "is_incremental": true,
@@ -640,7 +2943,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/asset-operations.html",
-          "hash": "EjKEQWiJ505CbdIkdKS1ig=="
+          "hash": "+j9ZPxb3tG4teIxR/C314A=="
         }
       },
       "is_incremental": true,
@@ -652,7 +2955,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/detail-page.html",
-          "hash": "5U2Jddr6Rs1zmQMpH3T+vw=="
+          "hash": "wQ9x1ULkuMhV3c6LT3IJ/w=="
         }
       },
       "is_incremental": true,
@@ -664,7 +2967,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/edit-content.html",
-          "hash": "7uN5Xi9xw+KY+Db3cGRwNA=="
+          "hash": "ZcX+d3nvurdpsDLq9/ie3A=="
         }
       },
       "is_incremental": true,
@@ -676,7 +2979,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/edit-in-table.html",
-          "hash": "b5nXCYRAx5CKrRd7Daj1KQ=="
+          "hash": "hK/qBDLj2E9n0gBQifx+nQ=="
         }
       },
       "is_incremental": true,
@@ -688,7 +2991,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/video-extraction.html",
-          "hash": "LfZJGpN7NvkDi9Gsl+EYDQ=="
+          "hash": "uTSXkePKo9IqDbBUyOtA6w=="
         }
       },
       "is_incremental": true,
@@ -700,7 +3003,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/video-subtitles.html",
-          "hash": "QyoW10GY40wwul4cCGAs8w=="
+          "hash": "3M6BniDp1FG/+kBPfZjcnQ=="
         }
       },
       "is_incremental": true,
@@ -712,10 +3015,10 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/authentication.html",
-          "hash": "ZLCtOEsecFr6W9CCCWrg5w=="
+          "hash": "NnHvImBk9ocYoyWzlJU0Bg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -724,10 +3027,10 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/home-page.html",
-          "hash": "4oakifyyLn/s3sd+5CtALQ=="
+          "hash": "1RM+mWUInaB8VVgsh8ENVg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -748,10 +3051,10 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/language-selection.html",
-          "hash": "DyZ5r6lq0HQWBSOqAvSUTQ=="
+          "hash": "RJo+/vAzN8qmeOsv+GZOWQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -892,7 +3195,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/preview/deep-zoom.html",
-          "hash": "tYU5u3as2ZHll2q+lZp15w=="
+          "hash": "nfs0nQ9WEnGuodEq0YU8qA=="
         }
       },
       "is_incremental": true,
@@ -1060,7 +3363,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/search/search-menu.html",
-          "hash": "3n8hwgDjOkNrY4n3tz73lg=="
+          "hash": "6RoZw2sLP8EN6fe5QSZ3HQ=="
         }
       },
       "is_incremental": true,
@@ -1096,7 +3399,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/select/asset-selection.html",
-          "hash": "nXdUvUjAaZ88UW8R91AhUA=="
+          "hash": "4w+osVSTwgc+PLMPEc+ZeA=="
         }
       },
       "is_incremental": true,
@@ -1204,7 +3507,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/index.html",
-          "hash": "htpMlu8UMvTgkSFqgIyzpQ=="
+          "hash": "svoNaVIWCEmuhqYcy2Gw7w=="
         }
       },
       "is_incremental": true,
@@ -1271,8 +3574,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 74,
-          "skipped_file_count": 71
+          "total_file_count": 78,
+          "skipped_file_count": 78
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

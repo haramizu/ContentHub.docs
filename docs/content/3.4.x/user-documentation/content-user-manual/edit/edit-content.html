@@ -78,6 +78,92 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="コンテンツ編集">コンテンツ編集</h1>
 
+<p>ここでは、Content Hubでコンテンツを編集する方法を説明します。</p>
+<h2 id="クイック編集">クイック編集</h2>
+<p>デフォルトでは、アセットの名前またはサムネイルをクリックすると、アセットの詳細ページにリダイレクトされます。ただし、アセットに表示されているプレビュー操作の目のアイコン <img src="../../../images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_eye_icon_on_asset.png" width="30">をクリックすると、インライン プレビューが表示されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_asset_eye_icon_for_fly_out_preview.png" alt=""></p>
+<p>インラインプレビューでは、ダウンロード、保存された選択範囲への追加、保存された選択範囲からの削除、アーカイブなど、事前に定義されたプロパティと操作がプレビューとして表示されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_76_Fly-out.png" alt=""></p>
+<p>インラインプレビューの右上にある編集ボタンをクリックすると、利用可能なフィールドを編集することができます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_77_Fly-out_QuickEdit.png" alt=""></p>
+<p>フィールドを編集した後、ユーザーは<strong>保存</strong>ボタンまたは<strong>保存して次へ</strong>ボタンをクリックして変更内容を保存することができます。<strong>保存して次へ</strong>ボタンをクリックすると、現在の変更が保存され、リストの次のアセットが編集されます。</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>インライン プレビュー フィールドは、検索コンポーネントで設定することができ、詳細コンポーネントを使用して自動的に設定することもできます。これについての詳細は、自動化されたインライン プレビュー フィールドを参照してください。</p>
+</div>
+<h2 id="選択バスケット">選択バスケット</h2>
+<p>Sitecore Content Hubで複数のアセットを選択すると、それらは選択バスケットに集められます。選択ドロップダウンメニューから、ユーザーは選択したアセットに対して大量のアクションを実行することができます（例：一括編集の実行やダウンロード注文の作成）。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_81_Selection_dropdown_basket.png" alt=""></p>
+<p><strong>選択バスケットは、ページ、コレクション、またはブロックに固有のものです</strong>。例えば、ユーザーは<strong>作成</strong>ページでエンティティを選択し、<strong>コンテンツ</strong>ページでは異なる選択をすることができます。ユーザーが手動で変更しない限り、すべての選択バスケットの有効期限は24時間です。</p>
+<h2 id="一括編集">一括編集</h2>
+<p><strong>一括編集</strong>機能により、ユーザーは選択した複数のアセットの共通プロパティを編集することができます。</p>
+<p>共通プロパティのそれぞれについて、ユーザーは以下のアクションのいずれかを選択することができます。</p>
+<ul>
+<li><strong>なし</strong>: プロパティに変更はありません。</li>
+<li><strong>置換</strong>: 置換：現在の値を新しい値に置き換えます。</li>
+<li><strong>クリア</strong>: プロパティの実際の値をクリアします。</li>
+<li><strong>追加</strong>: 追加します。追加のタクソノミー項目を関連項目のリストに追加します。</li>
+<li><strong>削除</strong>: 既存のプロパティを削除します。既存のプロパティを削除します。</li>
+</ul>
+<p>ユーザーは、選択ドロップダウンメニューの<strong>編集</strong>ボタンをクリックすることで、これを実現できます。これは、以下の3つの便利な方法で選択されたアセットの共通のプロパティを編集することができる一括編集ページにそれらをリダイレクトします。</p>
+<ul>
+<li><a href="#manual">マニュアル</a></li>
+<li><a href="#from-asset">アセットから</a></li>
+<li><a href="#from-template">テンプレートから</a></li>
+</ul>
+<p>変更を送信した後、作成されたジョブは<strong>マイジョブ</strong>ページでモニターすることができます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_mass_edit_job_details.png" alt=""></p>
+<p>一括編集ジョブの詳細については、以下の項目を参照してください。</p>
+<h3 id="マニュアル"><a name="manual"></a>マニュアル</h3>
+<p>ユーザーは、<strong>アセット一括編集</strong>ページの最初のタブからメタデータ・フィールドの詳細を手動で編集することができます。詳細を入力した後、ユーザーは<strong>適用</strong>ボタンをクリックして変更を適用することができます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/mdoc-935-assets-mass-edit.png" alt="共通プロパティの一括編集"></p>
+<h3 id="アセットから"><a name="from-asset"></a>アセットから</h3>
+<p>また、<strong>アセットから</strong>タブを使用して、既存のアセットに基づいて一括編集を実行することも可能です。ユーザーは、選択したアセットのメタデータ・プロパティのうち、どのプロパティを置き換えたいかを選択できます。変更を行うソースとしてアセットを選択すると、そのアセットのプロパティのセットが選択したアセットにコピーされます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/mdoc-935-assets-mass-edit-asset-detail.png" alt="アセットに基づく一括編集"></p>
+<p>スーパーユーザーは、<a href="../../administration/system/settings/settings.html">設定</a> の <code>MassEditSearchConfiguration</code> を更新して、<strong>アセットから</strong> タブのリレーションエディタの検索設定を設定することができます。</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>編集に事前に設定されたソースを使用する場合、ユーザーは、ソース上のメタデータ・フィールドが選択されたアセット上のものと一致していることを確認する必要があります。</p>
+</div>
+<h3 id="テンプレートから"><a name="from-template"></a>テンプレートから</h3>
+<p>また、<strong>テンプレートから</strong>タブを使用して、テンプレートに基づいて一括編集を行うことも可能です。ユーザーは、選択したアセットのメタデータ・プロパティのうち、置換したいものを選択することができます。事前に設定されたテンプレートが変更を行うソースとして選択されると、そのテンプレートからのプロパティのセットが選択されたアセットにコピーされます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/mdoc-935-assets-mass-edit-template-detail.png" alt="テンプレートに基づく一括編集"></p>
+<p>また、スーパーユーザーは、<code>SettingsのMassEditAssetTemplateSearchConfiguration</code>を更新して、Fromテンプレートタブのリレーションエディタの検索<a href="../../administration/system/settings/settings.html">設定</a>を行うことができます。</p>
+<p>Sitecore Content Hub でのテンプレートの管理については、<a href="../customize/user-pages-menu.html#templates">こちらのセクション</a>を参照してください。</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>事前に構成されたソースを編集に使用する場合、ユーザーは、ソース上のメタデータ・フィールドが選択されたアセット上のものと一致していることを確認する必要があります。スーパーユーザーは、設定の<code>CopyEntityConfiguration</code>を変更して、特定のメタデータ・メンバーを自動的にスキップすることもできます。スキップするように設定されていても、編集中に手動で詳細を更新した場合、これらのメンバーは更新されます。</p>
+</div>
+<div class="WARNING">
+<h5>Warning</h5>
+<p>ソースまたは一括編集ページに1-1-1 (oneToOne)リレーションが含まれている場合、1-1-1リレーションは複数のアセットに適用できないため、最初のアセットを除くすべてのアセットに対して一括編集ジョブは失敗します。</p>
+</div>
+<h3 id="プロパティをスキップする-一括編集テンプレート">プロパティをスキップする (一括編集テンプレート)</h3>
+<p>ユーザーは、<code>CopyEntityConfiguration</code> 設定を更新することで、一括編集テンプレートで定義されたプロパティをスキップすることができます。ユーザーはまず、<strong>管理</strong>の<strong>設定</strong>に移動する必要があります。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/mdoc-935-340-manage-page-settings.png" alt="設定の下の管理"></p>
+<p>左のスライダーで<code>CopyEntityConfiguration</code>の設定を検索し、クリックします。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/mdoc-935-340-settings-copy-opened_updated.png" alt="設定のCopyEntityConfiguration"></p>
+<p><strong>JSON エディタ</strong>で必要な変更を行い、<strong>保存</strong>ボタンをクリックして変更を適用します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/mdoc-935-340-settings-copy-save_updated.png" alt="JSONのCopyEntityConfigurationを展開します"></p>
+<h2 id="レンディションの更新">レンディションの更新</h2>
+<p>一括更新レンディション機能では、選択したアセットのレンディションを一度に更新することができます。ユーザーは、選択ドロップダウンメニューの<strong>レンディションの更新</strong>ボタンをクリックすることで、選択したアセットのレンディションを一括更新することができ、<strong>レンディションの更新</strong>ページにリダイレクトされます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_88_Refresh_renditions_overview_page.png" alt=""></p>
+<p>選択された項目について、ユーザーは以下のオプションの1つまたは複数を選択することができます。</p>
+<ul>
+<li><strong>失敗したもののみ</strong> 失敗したレンディションのみを更新します。</li>
+<li><strong>ファイル履歴</strong> ファイル履歴のレンディションを更新します。</li>
+<li><strong>サブファイル</strong> サブファイルの表示を更新します。</li>
+</ul>
+<h2 id="パブリックリンクの作成">パブリックリンクの作成</h2>
+<p>アセットは、有効期限付きで公開されているリンクを介して共有することができます（オプション）。URLは、公開リンクダイアログ画面から取得することができます。ユーザーは、選択したアセットのドロップダウンメニューの<strong>公開リンクの作成</strong>ボタンをクリックすることで、選択したアセットに対して複数の<strong>公開リンクを作成</strong>することができます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_89_Public_links_creation.png" alt=""></p>
+<p>公開リンクと公開リンクとして選択されたレンディションに有効期限を設定することができます。</p>
+<ul>
+<li>プレビュー</li>
+<li>サムネイル</li>
+<li>オリジナル</li>
+<li>MP4</li>
+</ul>
 </article>
           </div>
           <div class="contribution-panel mobile-hide">

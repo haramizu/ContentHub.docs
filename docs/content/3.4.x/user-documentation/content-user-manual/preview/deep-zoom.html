@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>&#12503;&#12524;&#12499;&#12517;&#12540;&#12392;&#12474;&#12540;&#12512; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; </title>
+    <title>&#12503;&#12524;&#12499;&#12517;&#12540;&#12392;&#12487;&#12451;&#12540;&#12503;&#12474;&#12540;&#12512; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="&#12503;&#12524;&#12499;&#12517;&#12540;&#12392;&#12474;&#12540;&#12512; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; ">
+    <meta name="title" content="&#12503;&#12524;&#12499;&#12517;&#12540;&#12392;&#12487;&#12451;&#12540;&#12503;&#12474;&#12540;&#12512; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; ">
     <meta name="generator" content="docfx 2.56.3.0">
     
     <link rel="shortcut icon" href="../../../images/favicon.ico">
@@ -76,8 +76,78 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="プレビューとズーム">プレビューとズーム</h1>
+<h1 id="プレビューとディープズーム">プレビューとディープズーム</h1>
 
+<p>ディープズームは、アセットプレビューをアクティブに表示できる機能です。</p>
+<p>これにより、ユーザーは、元の画像の小さなプレビューを拡大して表示する際の通常のぼやけやピクセル化をすることなく、大きな画像を高解像度でパンしてズームインすることができます。ページに合わせた画像を開くことで、画像の最初の読み込みとユーザーへの表示に必要な時間を最小限に抑えることができます。このページに合わせた画像を開くことで、ユーザーは画像を拡大、縮小、パンすることができます。</p>
+<h2 id="プレビューのディープズーム">プレビューのディープズーム</h2>
+<p>ディープズーム機能は、アセットの<a href="../../administration/portal/pages/page-components/search-component/output-section.html#inline-preview">インラインプレビュー</a>ページで利用できます。インラインプレビューページは、アセット検索ページで<strong>プレビュー</strong>操作をクリックするか、虫眼鏡アイコンの拡大鏡アイコン <img src="../../../images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_magnifying_glass_icon.png" width="25">が開いているアセット詳細ページでアセットのプレビュー画像をクリックしてプレビューページを開くことができます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/preview/asset_detail_page_showing_magnifying_icon.png" alt="ディープズーム機能にアクセスするためにプレビューを開く"></p>
+<p>続いてインラインのプレビューページが開き、 ページにフィットした画像が表示されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/preview/deep-zoom-overview.png" alt="プレビューの新しいフライアウトが開きます"></p>
+<p>インラインプレビューには、左上隅にアイコンメニューバーがあります。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/preview/deep-zoom-upper-menu.png" alt="プレビューの新しいフライアウトが開きます。"></p>
+<p>利用可能なオプションは以下の通りです。</p>
+<ul>
+<li><p><img src="../../../images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_pan_icon.png" alt="メニューバーのパンアイコン"> <strong>パン</strong>: 画像がズームインされている場合、このオプションは画像ビューアでの画像の位置をコントロールすることができます。</p>
+</li>
+<li><p>&quot;<a href="../../../images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_zoom_out_icon.png">メニューバーのズームアウトアイコン</a> <strong>ズームアウト</strong>: このオプションは画像をズームアウトすることで画像のサイズを縮小します。</p>
+</li>
+<li><p>&quot;<a href="../../../images/user-documentation/content-user-manual/preview/_user-documentation_content-user-manual_preview_3.2.1_zoom_in_icon.png">メニューバーのズームインアイコン</a> <strong>ズームイン</strong>: このオプションでは、優れた画質を維持したまま、画像の一部を拡大してサイズを拡大することができます。</p>
+</li>
+<li><p><strong>サイズメニュー</strong>: このオプションは様々なオプションを提供することで、ユーザーが画像のサイズをより良くコントロールできるようにします。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/preview/deep-zoom-upper-menu-dropdown-list.png" alt="ディープズーム - ドロップダウンメニュー"></p>
+<ul>
+<li><strong>幅に合わせる</strong>: このオプションは画像の幅を視聴者の幅に合わせて調整します。</li>
+<li><strong>ページに合わせる</strong>: このオプションは画像の幅と高さをビューアの幅と高さに合わせます。このオプションは画像の幅と高さを視聴者の幅と高さに合わせます。</li>
+<li><strong>プリセット値</strong>: これらのオプション (例: 10%, 25%, 50%) は選択された値に応じて画像の寸法を調整します。</li>
+<li><strong>マーキーズーム</strong>: このオプションでは、ユーザーが画像の特定の領域をズームインすることができます。</li>
+</ul>
+</li>
+</ul>
+<h2 id="ディープズームを無効にする">ディープズームを無効にする</h2>
+<p>ページの設定に応じて、<a href="#search-component">検索コンポーネント</a> やエンティティ画像ビューアでディープズーム機能を無効にすることができます。</p>
+<h3 id="検索コンポーネント"><a name="search-component"></a>検索コンポーネント</h3>
+<p>以下の手順では、この機能を無効にする方法を説明します。</p>
+<ul>
+<li><p>ディープズームを無効にする必要がある検索コンポーネントに移動します。</p>
+<ol>
+<li><strong>管理</strong> に移動します。</li>
+<li><strong>ページ</strong> に移動します。</li>
+<li><strong>検索</strong>コンポーネントを含むページを検索します（例：アセット）。</li>
+<li>検索コンポーネントをクリックして編集します。</li>
+</ol>
+</li>
+<li><p>検索コンポーネントで、<strong>出力</strong> タブに移動し、<strong>インライン プレビュー</strong> を選択します。</p>
+</li>
+<li><p><strong>インラインプレビュー</strong>で、<strong>ディープズーム無効</strong> ボタンをトグルして、この機能を無効にします。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/preview/search_component_inline_preview_disable_deep_zoom.png" alt=""></p>
+</li>
+<li><p>検索コンポーネントを<strong>保存して閉じます</strong>。</p>
+</li>
+</ul>
+<h3 id="エンティティ画像ビューア">エンティティ画像ビューア</h3>
+<p>エンティティ 画像ビューア コンポーネントでは、<strong>ディープ ズームを無効にする</strong> スイッチを <em>オン</em> に切り替えることで、ディープ ズームを無効にします。</p>
+<p>次の例では、 <strong>アセットの詳細ページ</strong>で<strong>ディープ ズーム</strong>が無効になっています。</p>
+<ol>
+<li><strong>アセットの詳細</strong>ページに移動し、<strong>エンティティ イメージ ビューア</strong>を探します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/preview/asset_details_page_entity_image_viewer_component_highlighted.png" alt=""></p>
+<ol start="2">
+<li>カスタム設定を有効にするスイッチをトグルします。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/preview/entity_image_viewer_toggled_to_custom_settings.png" alt="エンティティ画像ビューアをカスタム設定に切り替える"></p>
+<ol start="3">
+<li>その他のアクションアイコンで、「編集」を選択します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/preview/asset_details_page_entity_image_viewer_more_actions_edit_highlighted.png" alt="アセットの詳細ページのエンティティ画像ビューアの詳細アクションの編集ハイライト表示"></p>
+<ol start="4">
+<li>ディープズームを無効にするスイッチをオンに切り替えます。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/preview/entity_imageviewer_component_disable_deep_zoom_activated.png" alt="エンティティ画像ビューアコンポーネントのディープズームを無効にします"></p>
+<ol start="5">
+<li><strong>保存と閉じる</strong>をクリックして終了します。</li>
+</ol>
 </article>
           </div>
           <div class="contribution-panel mobile-hide">

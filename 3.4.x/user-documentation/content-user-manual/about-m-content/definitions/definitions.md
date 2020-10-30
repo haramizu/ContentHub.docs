@@ -24,4 +24,4 @@ Sitecore Content Hubの世界でのエンティティとは、1つのデータ�
 
 *リレーションズの例*
 
-![](../../../../images/user-documentation/about-m-content/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg)
+![](../../../../images/user-documentation/content-user-manual/about-m-content/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg)

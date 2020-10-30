@@ -78,6 +78,226 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="ビデオ字幕">ビデオ字幕</h1>
 
+<p><strong>Sitecore DAM</strong> では、動画アセットに字幕を追加することができます。この機能は、ビデオ詳細ページで**.srt<strong>または</strong>.sub**ファイルをアップロードすることで可能になります。<strong>SubRip</strong>字幕ファイル（<strong>SRT</strong>）は、字幕情報を含むプレーンテキストファイルです。</p>
+<div class="embeddedvideo"><iframe src="https://mss-p-003-delivery.stylelabs.cloud/api/public/content/7c9c0641f3e0440c9d4581d514787ea1?v=70d735a1" frameborder="0" allowfullscreen="true"></iframe></div>
+<p>字幕テキストの横に開始時間と停止時間が含まれているため、動画内の正確なタイミングでテキストが表示されることを保証します。</p>
+<pre><code>1
+00:00:01,200 --&gt; 00:00:03,000
+Drinking with friends on summer evenings,
+
+2
+00:00:03,500 --&gt; 00:00:08,500
+creating and capturing simple memories
+
+3
+00:00:09,500 --&gt; 00:00:14,500
+that will last a lifetime.
+</code></pre>
+<h2 id="srtの書式設定">SRTの書式設定</h2>
+<p>以下の書式でテキストを追加します。</p>
+<table>
+<thead>
+<tr>
+<th>テキストの書式設定</th>
+<th>概要</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>番号付け</td>
+<td>Text fragments are numbered sequentially starting at 1</td>
+</tr>
+<tr>
+<td>時間形式</td>
+<td><code>時:分:秒,ミリ秒</code> (小数点以下の区切り文字にはカンマを使用)</td>
+</tr>
+<tr>
+<td>ラインブレイク</td>
+<td>ラインブレイクは<code>CR+LF</code>ペアで使われることが多いです。</td>
+</tr>
+</tbody>
+</table>
+<p>SRTファイルは拡張子.srtと名付けられ、フォーマットされたプレーンテキストが含まれています。</p>
+<h2 id="htmlタグ">HTMLタグ</h2>
+<p>.srtファイルに含まれるほとんどのHTMLタグは無視されます。以下のHTMLタグは.srtファイルで使用できます。</p>
+<ul>
+<li>太字 - <code>&lt;b&gt;...&lt;/b&gt;</code> または <code>{b}...{/b}</code></li>
+<li>イタリック体 - <code>&lt;i&gt;...&lt;/i&gt;</code> または <code>{i}...{/i}</code></li>
+<li>下線 - <code>&lt;u&gt;...&lt;/u&gt;</code> または <code>{u}...{/u}</code></li>
+<li>フォントの色 - <code>&lt;font color=&quot;色名または#code&quot;&gt;...&lt;/font&gt;</code></li>
+</ul>
+<p>これらのタグは組み合わせることができます。この例では、.srtファイルは次のようになります。</p>
+<pre><code>1
+00:00:01,600 --&gt; 00:00:08,200
+&lt;font color=&quot;red&quot;&gt;&lt;b&gt;This is a Bold paragraph&lt;i&gt; using Italics&lt;/i&gt;&lt;u&gt; and Underline…&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;
+</code></pre>
+<p>この.srtファイルは以下の出力を与えます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/subrip_file_with_html_files.png" alt="htmlタグを使用してフォーマットされたsrtファイル"></p>
+<h2 id="字幕ファイルのアップロード">字幕ファイルのアップロード</h2>
+<p>ビデオアセットの詳細ページには、<strong>ビデオ字幕</strong> という名前の領域があります。<strong>ファイルアップロード</strong>ボタンをクリックします。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/upload_button.png" alt=""></p>
+<p>新しいモーダルが開き、ファイルを選択することができます。アップロードを開始するには、<strong>Select files</strong> をクリックし、字幕ファイルの場所に移動します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/select_subtitles_file.png" alt="サブタイトルファイルのアップロード"></p>
+<p>アップロードが完了したら、完了ボタン <img src="../../../images/user-documentation/content-user-manual/edit/subtitles_upload_complete_done_button.png" width="30"> をクリックします。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/subtitles_upload_complete.png" alt="字幕ファイルのアップロードが完了しました"></p>
+<p>字幕ファイルをアップロードしたら、字幕表示に使用するクローズドキャプションラベルの言語を選択する必要があります。</p>
+<p>アップロードされた字幕ファイルを編集するには、鉛筆アイコン <img src="../../../images/user-documentation/content-user-manual/edit/pencil_icon_video_subtitles.png" width="30">の編集機能をクリックしてください。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/edit_subtitles_shown_by_pencil_icon.png" alt="字幕ファイルを編集"></p>
+<p>ドロップダウンリストから字幕の言語を選択してください。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/select_subtitles_language.png" alt="ドロップダウンリストから字幕の言語を選択"></p>
+<p>必要な言語が選択されたら、保存ボタン<img src="../../../images/user-documentation/content-user-manual/edit/video_subtitle_language_save.png" alt="">ボタンをクリックします。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/save_subtitle_language.png" alt="字幕の言語を入力します"></p>
+<p>言語が指定されていない場合、言語はデフォルトで <strong>en-US</strong> として読み込まれます。</p>
+<p>これで字幕ファイルが使用できるようになりました。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/completed_subtitle_language_on_uplad.png" alt="完成した字幕ファイル"></p>
+<p>オプションがあります。</p>
+<ul>
+<li><img src="../../../images/user-documentation/content-user-manual/edit/download_button_on_subtitle_file.png" alt=""> 字幕ファイルをダウンロードします。</li>
+<li><img src="../../../images/user-documentation/content-user-manual/edit/edit_pencil_icon.png" alt=""> 字幕ファイルを編集します。</li>
+<li><img src="../../../images/user-documentation/content-user-manual/edit/delete_subtitle_file.png" alt=""> 字幕ファイルを削除します。</li>
+</ul>
+<h2 id="字幕ファイルの表示">字幕ファイルの表示</h2>
+<p>ビデオアセットにオーバーレイされた字幕ファイルを表示するには、ビデオアセットのサムネイル上の再生ボタンをクリックします。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/play_button_video_asset.png" alt="動画アセットのサムネイル上の再生ボタン"></p>
+<p>開いたメディアプレーヤーのモーダルには、右下に表示されているクローズドキャプションボタンのクローズドキャプションボタン <img src="../../../images/user-documentation/content-user-manual/edit/closed_caption_button.png" alt="">があります。このボタンには、利用可能な言語のリストが表示されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/closed_option_in_media_player.png" alt="クローズドキャプションオプション"></p>
+<p>言語をクリックすると、<strong>.srt</strong> ファイルまたは <strong>.sub</strong> ファイルに含まれるテキストを使用して字幕が表示されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/language_selection_displays_subtitles.png" alt=""></p>
+<h2 id="字幕のフォーマット">字幕のフォーマット</h2>
+<p>字幕の出力をカスタムCSSで変更することができます。この変更はすべての字幕に対して行われ、個々の字幕に対しては行われません。</p>
+<p>スーパーユーザーは、<strong>管理メニュー</strong>の下にある<strong>ページ管理</strong>セクションの**アセット詳細（ビデオ）**ページに移動します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_pages_under_manage.png" alt="管理の下にあるページオプション"></p>
+<p><strong>ページ</strong>で、**アセット詳細（動画）**ページを検索して選択します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_search_asset_detail_video.png" alt="アセットの詳細（動画）ページの検索"></p>
+<p>**アセット詳細（動画）**ページで、<strong>CSS</strong>タブを選択します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_css_tab.png" alt="CSS タブを表示する"></p>
+<p>CSSを編集するには、CSSタブの編集ボタン <img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_css_edit_button.png" width="30">ボタンをクリックします。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_css_edit.png" alt="アセット詳細ページのCSSタブに表示される編集オプション"></p>
+<p><strong>Custom CSS</strong>テキストフィールドに必要なCSSを追加します。</p>
+<p>次の例は、<em>.mejs_aption-layer MediaElement.js</em> ライブラリを変更しています。</p>
+<pre><code>.mejs__captions-layer {
+    color: yellow;
+    font-size: 3vw;
+    line-height: 20px;
+    text-align: center;
+}
+</code></pre>
+<p>この行は<strong>カスタムCSS</strong>の欄に追加されています。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_added.png" alt="カスタムCSS"></p>
+<h3 id="字幕色">字幕色</h3>
+<p>カスタム CSS で使用される CSS カラー オプションには、必要な色を選択するためのカラー パレットが含まれています。パレットを表示するには、ユーザーは色の値の上にカーソルを置きます。または、HTMLに含まれる140の色名の中から色の名前を挿入することもできます。色の一覧は、<a href="https://www.w3schools.com/colors/colors_names.asp">HTMLの色</a>を参照してください。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_color_palette.png" alt=""></p>
+<h3 id="字幕のフォントサイズ">字幕のフォントサイズ</h3>
+<p>フォントサイズは <strong>vw</strong> の任意の値を指定します。<strong>vw</strong> の値はビューポート、つまりブラウザのウィンドウサイズに相当します。例えば、ビューポートの幅が50cmの場合、1vw = 0.5cmとなります。</p>
+<h3 id="字幕の行の高さ">字幕の行の高さ</h3>
+<p>線の高さの値は、テキストの行間の垂直方向の距離です。ウェブ上では、1行のテキストの上と下のスペースが等しくなっています。ラインハイトの値はピクセル単位で、pxの測定値を使用しています。行の高さは通常、フォントサイズよりも約20%大きくなります。例えば、フォントサイズが14pxの場合、line-heightは約16.8pxになります。<strong>vw</strong>に大きな値を使用している場合は、行の高さを調整する必要があるかもしれません。</p>
+<h3 id="字幕のテキストアライメント">字幕のテキストアライメント</h3>
+<p>text-alignプロパティは、テキストの水平方向の整列を設定するために使用されます。テキストを整列させることができます。</p>
+<ul>
+<li><strong>Left</strong>: テキストを左に揃えます。</li>
+<li><strong>Right</strong>: テキストを右に揃えます。テキストを右に揃えます。</li>
+<li><strong>Center</strong>: テキストを中央に配置します。テキストを中央揃えにします。</li>
+</ul>
+<p>完了したら、保存ボタン <img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_save_button.png" width="50">ボタンをクリックして、変更内容を保存します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_save.png" alt="カスタムCSSの保存"></p>
+<p>これで、このカスタムCSSがSitecore DAMTMにアップロードされたすべての字幕に反映されるようになりました。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_reflected_in_video.png" alt="カスタム CSS スタイリングを表示しているビデオ字幕"></p>
+<p>以下の表は、Sitecore DAMで字幕に反映されるカスタムCSSで作成したフォントの色を変更したものです。</p>
+<table>
+<thead>
+<tr>
+<th>カラー</th>
+<th>字幕の色</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_color_red.png" alt="フォントの色が赤"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_red.png" alt="赤で表示される字幕"></td>
+</tr>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_color_yellow.png" alt="フォントの色が黄色"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_yellow.png" alt="黄色で表示される字幕"></td>
+</tr>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_color_blue.png" alt="フォントの色が青"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_blue.png" alt="青く表示された字幕"></td>
+</tr>
+</tbody>
+</table>
+<p>以下の表は、Sitecore DAMTMで字幕に反映されるカスタムCSSのフォントサイズの変更点です。</p>
+<table>
+<thead>
+<tr>
+<th>フォントサイズ</th>
+<th>字幕サイズ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_font_size1.png" alt="フォントサイズ1vw"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_1.png" alt="字幕サイズ1vw"></td>
+</tr>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_font_size2.png" alt="font-size 2vw"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_2.png" alt="字幕サイズ2 vw"></td>
+</tr>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_font_size3.png" alt="font-size 3vw"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_3.png" alt="字幕サイズ3 vw"></td>
+</tr>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_font_size4.png" alt="font-size 4vw"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_size_4.png" alt="字幕サイズ4 vw"></td>
+</tr>
+</tbody>
+</table>
+<p>以下の表は、Sitecore DAM で字幕に反映されるカスタムCSSの行の高さサイズに変更を加えたものです。</p>
+<table>
+<thead>
+<tr>
+<th>フォントを使用した行の高さ 5vw</th>
+<th>行の高さがある字幕</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_line_height_28px_setting.png" alt="28pxの行の高さ"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_color_line_height_28.png" alt="28pxの字幕表示の行の高さ"></td>
+</tr>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_line_height_128px_setting.png" alt="行の高さ56px"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/video_subtitles_color_line_height_128.png" alt="行の高さ128pxの字幕表示"></td>
+</tr>
+</tbody>
+</table>
+<p>以下の表は、Sitecore DAMで字幕に反映されるCustom CSSのtext-alignmentの変更点です。</p>
+<table>
+<thead>
+<tr>
+<th>カスタムCSSのテキストアライメント</th>
+<th>字幕にテキストアライメントを反映させる</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/text_aling_center.png" alt="text align center"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/subtitles_center_align.png" alt="subtitles with center alignment"></td>
+</tr>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/text_align_left.png" alt="text align left"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/subtitles_left_align.png" alt="subtitles with left alignment"></td>
+</tr>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/text_align_right.png" alt="text align right"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/edit/subtitles_right_align.png" alt="右揃えの字幕"></td>
+</tr>
+</tbody>
+</table>
+<div class="NOTE">
+<h5>Note</h5>
+<p>アセット詳細（動画）ページのカスタムCSSを編集した場合、CSSの変更内容を表示する前にアセット詳細（動画）ページを更新する必要があります。</p>
+</div>
 </article>
           </div>
           <div class="contribution-panel mobile-hide">
