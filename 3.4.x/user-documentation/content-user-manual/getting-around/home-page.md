@@ -14,4 +14,4 @@
 * **管理**: 管理ページは、ユーザーやユーザーグループの管理、データ管理、設定などの管理作業を目的としています。詳細については、[管理マニュアル](../../administration/introduction.md) を参照してください。
 * **ユーザーページ**: 現在のユーザーの情報やアクションが含まれています。例えば、ユーザーがダウンロード注文を作成した場合、ダウンロード注文はダウンロード注文ページでアクセスできます。ユーザーページの詳細については、[ユーザーページ](../customize/user-pages-menu.md) を参照してください。
 
-![ログインしているユーザーが標準で見るホームページ](/images/user-documentation/getting-around/home_page.png)
+![ログインしているユーザーが標準で見るホームページ](../../../images/user-documentation/getting-around/home_page.png)

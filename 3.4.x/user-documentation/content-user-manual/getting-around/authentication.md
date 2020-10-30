@@ -4,7 +4,7 @@ Webブラウザを使用して、Sitecore Content Hubアプリケーションに
 
 **ログインページ**
 
-![ログインページ](/images/user-documentation/getting-around/5_Login_page.png)
+![ログインページ](../../../images/user-documentation/getting-around/5_Login_page.png)
 
 ユーザーはユーザー名とパスワードを入力し、SIGN IN ボタンをクリックする必要があります。
 
@@ -12,7 +12,7 @@ Webブラウザを使用して、Sitecore Content Hubアプリケーションに
 
 **ログインエラーメッセージ0**
 
-![ログインページ](/images/user-documentation/getting-around/6_Login_error_message.png)
+![ログインページ](../../../images/user-documentation/getting-around/6_Login_error_message.png)
 
 `Keep me signed in` のチェックボックスをオンにすると、次回の訪問時にユーザー名を入力しておくことができます。
 
