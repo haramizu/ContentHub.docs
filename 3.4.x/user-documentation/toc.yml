@@ -1,5 +1,3 @@
-- name:
-  href: index.md
 - name: Sitecore DAM
   href: content-user-manual/intro.md
   items: 
@@ -216,7 +214,7 @@
     - name: リソース計画
     - name: セキュリティ
 
-- name: 管理ツール
+- name: 管理マニュアル
   href: administration/introduction.md
   items:
     - name: 概要

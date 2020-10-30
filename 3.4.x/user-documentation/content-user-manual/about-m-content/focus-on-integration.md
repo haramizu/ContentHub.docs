@@ -10,4 +10,4 @@
 
 統合プラットフォーム
 
-![](/images/user-documentation/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg)
+![](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg)

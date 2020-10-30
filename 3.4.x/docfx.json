@@ -63,8 +63,8 @@
         "branch": "main",
         "apiSpecFolder": "docs-ref-overwrite"
       },
-      "_appLogoPath": "images/logo.svg",
-      "_appFaviconPath": "images/favico.ico"
+      "_appLogoPath": "images/Sitecore_logo_RGB.svg",
+      "_appFaviconPath": "images/favicon.ico"
     },
     "dest": "../docs/content/3.4.x",
     "globalMetadataFiles": [],

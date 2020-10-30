@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api-reference/index.html",
-          "hash": "tfGanjOPkMkNqEuyeR/hwg=="
+          "hash": "ITIxuafUz8I8N4L3MqlnyA=="
         }
       },
       "is_incremental": true,
@@ -22,6 +22,17 @@
         ".html": {
           "relative_path": "api-reference/toc.html",
           "hash": "wO0zRcm0Nxg4cSALB3UYXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Sitecore_logo_RGB.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/Sitecore_logo_RGB.svg"
         }
       },
       "is_incremental": false,
@@ -51,10 +62,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_3.0.0_4_Integration_platforms.jpg"
         }
       },
       "is_incremental": false,
@@ -62,10 +73,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_3.0.0_5_Relations_example.jpg"
         }
       },
       "is_incremental": false,
@@ -73,10 +84,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png"
         }
       },
       "is_incremental": false,
@@ -84,10 +95,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png"
         }
       },
       "is_incremental": false,
@@ -95,10 +106,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png"
         }
       },
       "is_incremental": false,
@@ -106,10 +117,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif"
         }
       },
       "is_incremental": false,
@@ -117,10 +128,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif"
         }
       },
       "is_incremental": false,
@@ -128,10 +139,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png"
         }
       },
       "is_incremental": false,
@@ -139,10 +150,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png"
         }
       },
       "is_incremental": false,
@@ -150,10 +161,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png"
         }
       },
       "is_incremental": false,
@@ -161,10 +172,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png"
         }
       },
       "is_incremental": false,
@@ -172,10 +183,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif"
         }
       },
       "is_incremental": false,
@@ -183,10 +194,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif"
         }
       },
       "is_incremental": false,
@@ -194,10 +205,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif"
         }
       },
       "is_incremental": false,
@@ -205,10 +216,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png"
         }
       },
       "is_incremental": false,
@@ -216,10 +227,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif"
         }
       },
       "is_incremental": false,
@@ -227,10 +238,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif"
         }
       },
       "is_incremental": false,
@@ -238,10 +249,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png"
         }
       },
       "is_incremental": false,
@@ -249,10 +260,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png"
         }
       },
       "is_incremental": false,
@@ -260,10 +271,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png"
         }
       },
       "is_incremental": false,
@@ -271,10 +282,65 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif",
+      "source_relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif",
       "output": {
         "resource": {
-          "relative_path": "images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif"
+          "relative_path": "images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/getting-around/5_Login_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/getting-around/5_Login_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/getting-around/6_Login_error_message.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/getting-around/6_Login_error_message.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/getting-around/8_Language_selector.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/getting-around/8_Language_selector.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/getting-around/home_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/getting-around/home_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/getting-around/menu_showing_language_selector.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/getting-around/menu_showing_language_selector.png"
         }
       },
       "is_incremental": false,
@@ -286,7 +352,7 @@
       "output": {
         ".html": {
           "relative_path": "integrations/index.html",
-          "hash": "Xmh7jcjOacccyl90zoe6Fw=="
+          "hash": "Zk17mfrMREG1qxpRUDpoFg=="
         }
       },
       "is_incremental": true,
@@ -322,7 +388,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/administration/introduction.html",
-          "hash": "WxMaiZwrXJKBloUdRuxOfw=="
+          "hash": "BOF5sBdZH+Sw/h+LjW2Nqw=="
         }
       },
       "is_incremental": true,
@@ -334,7 +400,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/cmp/cmp-intro.html",
-          "hash": "Z89EzLK3pMbzHMcA8/wUVw=="
+          "hash": "YRdxJb6xZcazd3VvlhIpUA=="
         }
       },
       "is_incremental": true,
@@ -346,7 +412,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/definitions/collections.html",
-          "hash": "VFo7qEHXTSgyuN+fn8K0JQ=="
+          "hash": "6o1IdYoHLU7lhUVrdGZ0hQ=="
         }
       },
       "is_incremental": true,
@@ -358,7 +424,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/definitions/definitions.html",
-          "hash": "OUII4TCqkXBbV2YYqOpaug=="
+          "hash": "PuAeam6gGsKyAeuCRZQArQ=="
         }
       },
       "is_incremental": true,
@@ -370,7 +436,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/domain-model.html",
-          "hash": "6ayrfWDtB5GHkb4ASBCy4g=="
+          "hash": "0rlnJDqTP3kWGugAXG5Bzg=="
         }
       },
       "is_incremental": true,
@@ -382,7 +448,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/focus-on-integration.html",
-          "hash": "we49VM3ay1wqmeNS2XJCsg=="
+          "hash": "cL8S/4cHdK+iFPwR5991wA=="
         }
       },
       "is_incremental": true,
@@ -394,7 +460,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/repository.html",
-          "hash": "uFsjq0vJQHASeaP4S/QBPw=="
+          "hash": "DVsb/gzhnn+l/XmKFwx1Nw=="
         }
       },
       "is_incremental": true,
@@ -406,7 +472,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/about-m-content/templates.html",
-          "hash": "7Ro5zMvQHBLbWp+SAHlW/A=="
+          "hash": "grZ9x28xdqJOyDGCBkly9g=="
         }
       },
       "is_incremental": true,
@@ -418,7 +484,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/analyze/image-analysis.html",
-          "hash": "ASbHSsBBECH+A/g1ti9JjQ=="
+          "hash": "FpVqfk0+7lFd/32rp1mQUw=="
         }
       },
       "is_incremental": true,
@@ -430,7 +496,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/analyze/image-similarity.html",
-          "hash": "Ynj7FWQE6McKHgwvvV6ulA=="
+          "hash": "PeSCYfZODZpVNKXcWq9S5w=="
         }
       },
       "is_incremental": true,
@@ -442,7 +508,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/analyze/video-ai-analysis.html",
-          "hash": "eItgdQXtqynnEqUrIuH4kQ=="
+          "hash": "gVO4CkIxJ0alvnyZbQbobw=="
         }
       },
       "is_incremental": true,
@@ -454,7 +520,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/convert/generate-pdf.html",
-          "hash": "n5Jl1GFsIf22P3eUBsjh/Q=="
+          "hash": "D31BJD+IipM0bl95imGMPw=="
         }
       },
       "is_incremental": true,
@@ -466,7 +532,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/convert/media-conversions.html",
-          "hash": "0z6OUuExzSL7V0PU1PoS4Q=="
+          "hash": "E5QZx63ld5AC9SMJgbcq5w=="
         }
       },
       "is_incremental": true,
@@ -478,7 +544,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/convert/media-processing-set.html",
-          "hash": "qvfaUevjIFbiGbP8qbANvA=="
+          "hash": "iNGqJSyk0BhdW56zVanUqg=="
         }
       },
       "is_incremental": true,
@@ -490,7 +556,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/create/create-upload-content.html",
-          "hash": "pPoGWjByPVR5vR1VZKEpCQ=="
+          "hash": "fFZQlbbwpdiItCpohlvU0Q=="
         }
       },
       "is_incremental": true,
@@ -502,7 +568,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/customize/user-pages-menu.html",
-          "hash": "Svqaaw5ZqDIXuTBeXWxXtg=="
+          "hash": "IM2uCEAPEmg+jipL8gyvBw=="
         }
       },
       "is_incremental": true,
@@ -514,7 +580,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/customize/user-themes.html",
-          "hash": "IQRs3Pf0g8A3I+XZ6vxZFw=="
+          "hash": "HIk40xxpC4ZpBV+1wEqofA=="
         }
       },
       "is_incremental": true,
@@ -526,7 +592,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/download/asset-specific-renditions.html",
-          "hash": "2Z8OQy5RzXgq8r1UXtlKiw=="
+          "hash": "2xs6BFVNPiWb4ex7RzNHtg=="
         }
       },
       "is_incremental": true,
@@ -538,7 +604,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/download/custom-download.html",
-          "hash": "7EYfaPIKdRdYJzXn1Y6zJw=="
+          "hash": "+gh/cKsxqhg6+ejlrEr2Vg=="
         }
       },
       "is_incremental": true,
@@ -550,7 +616,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/download/download-operations.html",
-          "hash": "82UoIFsc274SZtR50XyOyw=="
+          "hash": "ekfIsln/a9/696xZt2l9Gw=="
         }
       },
       "is_incremental": true,
@@ -562,7 +628,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/download/download-options-page.html",
-          "hash": "yBjcCWiZvddCfmmqmMKVzA=="
+          "hash": "CKT9Me2R/Ar95cifpPh2Qw=="
         }
       },
       "is_incremental": true,
@@ -574,7 +640,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/asset-operations.html",
-          "hash": "BXeOKC0qZTwcS8hdUeJ7vA=="
+          "hash": "fMUoudZN+gP+M9pa4CGeYg=="
         }
       },
       "is_incremental": true,
@@ -586,7 +652,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/detail-page.html",
-          "hash": "VCEKp/f44TLmCSYzgRJFGQ=="
+          "hash": "Y+ODiHPJtlxDlKpJV6e4vg=="
         }
       },
       "is_incremental": true,
@@ -598,7 +664,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/edit-content.html",
-          "hash": "z2znja9eLP49RrK4C2tfgw=="
+          "hash": "xORu8OtjZxXnPpvhUTvFYw=="
         }
       },
       "is_incremental": true,
@@ -610,7 +676,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/edit-in-table.html",
-          "hash": "+qQL8jhHuQGzQTccRa1U4g=="
+          "hash": "iHksBU8P1irSJMzSSCy35A=="
         }
       },
       "is_incremental": true,
@@ -622,7 +688,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/video-extraction.html",
-          "hash": "LNUhZvFvnVZUOhw39U1I7w=="
+          "hash": "qMWpsTrsG2ZQw/421scZ1Q=="
         }
       },
       "is_incremental": true,
@@ -634,7 +700,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/video-subtitles.html",
-          "hash": "SEvu5UzUNJsC/3OV8e+IYA=="
+          "hash": "Fi2kkYt7quHwCia6/3BZ6Q=="
         }
       },
       "is_incremental": true,
@@ -646,7 +712,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/authentication.html",
-          "hash": "sWutz1JvayGjx4VVta2+2w=="
+          "hash": "B1uW2KqXs9UnA8UBw/isng=="
         }
       },
       "is_incremental": true,
@@ -658,7 +724,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/home-page.html",
-          "hash": "a8MLL0H/lO1rFCsXxRZvKw=="
+          "hash": "9iKGtHk1jrML7GpsaElaHA=="
         }
       },
       "is_incremental": true,
@@ -670,7 +736,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/intro.html",
-          "hash": "tinGymOBaoT2OJ2Nrd6WPg=="
+          "hash": "/L1DY3pSkEaE7nR2kunH3g=="
         }
       },
       "is_incremental": true,
@@ -682,7 +748,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/getting-around/language-selection.html",
-          "hash": "KLatr6OJ5vHKR+9No2EYLQ=="
+          "hash": "/Tvx8Mlaz/4/rqPzB/dcJg=="
         }
       },
       "is_incremental": true,
@@ -694,7 +760,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/content-usage-and-impact.html",
-          "hash": "utQ5hOPSDc/KUUMOOCTBEw=="
+          "hash": "pRYXAC3/8hYtgxHkSkpaZA=="
         }
       },
       "is_incremental": true,
@@ -706,7 +772,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe-illustrator.html",
-          "hash": "4i4ZbVCVkuh2ljUCH6CH/Q=="
+          "hash": "V/4MKDcsF7f1KP6raiCWGA=="
         }
       },
       "is_incremental": true,
@@ -718,7 +784,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe-photoshop.html",
-          "hash": "dyheU1wF1WHCYk8wg1DTxg=="
+          "hash": "5I3ebcwZUX7WGQZeo2nAaQ=="
         }
       },
       "is_incremental": true,
@@ -730,7 +796,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/adobe_indesign.html",
-          "hash": "my2yXqgBqkIPNR1aMzLC5g=="
+          "hash": "PmKHk5YSHW+b41gxqYzEPA=="
         }
       },
       "is_incremental": true,
@@ -742,7 +808,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/download-install-authentication.html",
-          "hash": "JvWSoO3vQw+btLubyiJclw=="
+          "hash": "CZ/aVK2sbgrdh2DgQzDtug=="
         }
       },
       "is_incremental": true,
@@ -754,7 +820,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-creative-cloud/introduction.html",
-          "hash": "XT2yI8s3KGKeXHwyhVHLFg=="
+          "hash": "kj1SpKMV73M+os6SilvtoQ=="
         }
       },
       "is_incremental": true,
@@ -766,7 +832,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/overview.html",
-          "hash": "Vctv4fpu0XxTCh5Tc2DzLA=="
+          "hash": "/r6m2x8yc1CA+VI8EXqh7Q=="
         }
       },
       "is_incremental": true,
@@ -778,7 +844,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-salesforce-marketing-cloud/setup.html",
-          "hash": "vE+/kfA/1LzClHByNIDuvg=="
+          "hash": "IBghMl8csd2N41yCFqdiwA=="
         }
       },
       "is_incremental": true,
@@ -790,7 +856,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-sitecore-dam/overview.html",
-          "hash": "X7+ewuvNaIRlJLDreV67JA=="
+          "hash": "S0QofwzfUD9j4tb6Vooj9A=="
         }
       },
       "is_incremental": true,
@@ -802,7 +868,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/integrate/sitecore-connect-for-sitecore-dam/setup.html",
-          "hash": "aF9n3EQH60THyOTGY6UKOA=="
+          "hash": "qJtMg83XOqZ9N/Mk3f8Pcw=="
         }
       },
       "is_incremental": true,
@@ -814,7 +880,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/intro.html",
-          "hash": "WNu9VwAjLgMqN62Q3RCN6A=="
+          "hash": "CPIO3hckp/Kk8W6WfuBcfg=="
         }
       },
       "is_incremental": true,
@@ -826,7 +892,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/preview/deep-zoom.html",
-          "hash": "xcI9JSiK3FC5IT9VAKF38g=="
+          "hash": "vSMmvhL6It+toofia949xg=="
         }
       },
       "is_incremental": true,
@@ -838,7 +904,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-actions.html",
-          "hash": "zk+q3awRZ1BBpq5pBldwcg=="
+          "hash": "STPqaE5WyFSyFoNyf4jTOA=="
         }
       },
       "is_incremental": true,
@@ -850,7 +916,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-side-by-side-comparison.html",
-          "hash": "9eJz+0fGsjSTO4ylQGOxRA=="
+          "hash": "GXUC/Y16gjKy9vSnW3ClHA=="
         }
       },
       "is_incremental": true,
@@ -862,7 +928,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-tools.html",
-          "hash": "1CyC8utnmkNSiY2dbO4wcg=="
+          "hash": "v0JeLMKFTLgNJrORoGc86A=="
         }
       },
       "is_incremental": true,
@@ -874,7 +940,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotations-media-type.html",
-          "hash": "hxXqtfW5zcarz6tXCGj2Wg=="
+          "hash": "BptiQRUNqb+huzVsug8Mgw=="
         }
       },
       "is_incremental": true,
@@ -886,7 +952,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotations-report.html",
-          "hash": "Kx6nQ+hYpo8QGugKKm9efQ=="
+          "hash": "ZrfdPJxXoUtGxMuhWcMPPA=="
         }
       },
       "is_incremental": true,
@@ -898,7 +964,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/overview.html",
-          "hash": "KPhdQQaDtw7Q/5c4GxwQaw=="
+          "hash": "Wzh1EgTbJLUPQTRdBzFhrQ=="
         }
       },
       "is_incremental": true,
@@ -910,7 +976,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/video-annotations.html",
-          "hash": "GX3VoIOszCB5iBSNkqmgNQ=="
+          "hash": "Sxz/cSUZLF5Qs+MykPTkxQ=="
         }
       },
       "is_incremental": true,
@@ -922,7 +988,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/review-page.html",
-          "hash": "NvpYOWAH8V+plfZ/yCjkPg=="
+          "hash": "Rl45GwaXMDhFyVSijunbaw=="
         }
       },
       "is_incremental": true,
@@ -934,7 +1000,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/reviewing-content.html",
-          "hash": "a6St0VpM7Z/d+RO7LXFb7Q=="
+          "hash": "AAHNSgyzjPw/XhKkxfDb/w=="
         }
       },
       "is_incremental": true,
@@ -946,7 +1012,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/upload-alternative-file.html",
-          "hash": "pEr0+/gy4ZyAcawPl0A6Xg=="
+          "hash": "xRywRj1SA67FpyWwjw3F/A=="
         }
       },
       "is_incremental": true,
@@ -958,7 +1024,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/upload-file.html",
-          "hash": "/iDqjaYVlZzlWKzebTcrPQ=="
+          "hash": "G4pObsOx0TOwh9dLSZqAgw=="
         }
       },
       "is_incremental": true,
@@ -970,7 +1036,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/versioning.html",
-          "hash": "4pl3mwOJe3O6llbFRlS19Q=="
+          "hash": "G2/imcHGkIsFUdbvqqMAkw=="
         }
       },
       "is_incremental": true,
@@ -982,7 +1048,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/search/saved-search.html",
-          "hash": "oYvtc1OD+CoI+ZidSmK9dg=="
+          "hash": "2zdT0JO8/WY1lmHil/htNw=="
         }
       },
       "is_incremental": true,
@@ -994,7 +1060,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/search/search-menu.html",
-          "hash": "CXP57qyb+O4qMOTEN7XOpw=="
+          "hash": "kxMARTAMsLQDX4WRydexNg=="
         }
       },
       "is_incremental": true,
@@ -1006,7 +1072,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/secure/digital-rights-management/concepts.html",
-          "hash": "FpyKk6HpHVoAAIk+U+uglw=="
+          "hash": "74hYZVMysfOSAhYCgggXtA=="
         }
       },
       "is_incremental": true,
@@ -1018,7 +1084,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/secure/digital-rights-management/drm-workflow.html",
-          "hash": "9wdi1jt7TapMH2u+iz1MVg=="
+          "hash": "2YT6NGSBqOfSJ8+4KjFuSA=="
         }
       },
       "is_incremental": true,
@@ -1030,7 +1096,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/select/asset-selection.html",
-          "hash": "4uZkmH687dAVCnahxVTQyQ=="
+          "hash": "TMZqovk4uO3HPpUlXnWpAg=="
         }
       },
       "is_incremental": true,
@@ -1042,7 +1108,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-checkouts-configs.html",
-          "hash": "u2uKET2IE+R90+4Mfh3joA=="
+          "hash": "fZcqvSnfV0o/mWohImFoiw=="
         }
       },
       "is_incremental": true,
@@ -1054,7 +1120,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-overview.html",
-          "hash": "wPiEKXlGhCdmd4LdcskUBQ=="
+          "hash": "9lC/n+PP+5WpiZikpUyUAw=="
         }
       },
       "is_incremental": true,
@@ -1066,7 +1132,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive-setup.html",
-          "hash": "pNfNpJzN2GaT1CYDRtxaTg=="
+          "hash": "AgH6bcfjHhNZiKjjpItOog=="
         }
       },
       "is_incremental": true,
@@ -1078,7 +1144,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/onedrive/onedrive.html",
-          "hash": "SgBESWIjcmaTyBbYHUvlkA=="
+          "hash": "x7eQexo3nXaiXgJv8j/xJA=="
         }
       },
       "is_incremental": true,
@@ -1090,7 +1156,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/public-collections.html",
-          "hash": "VsIElC/6pPapLy9kGeiUXw=="
+          "hash": "sn///urPsMuWG3PjOIFdlQ=="
         }
       },
       "is_incremental": true,
@@ -1102,7 +1168,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/public-links.html",
-          "hash": "djDHsIJR64IePM0frEqntQ=="
+          "hash": "H7GoMhoptRtthfLj3hpa1Q=="
         }
       },
       "is_incremental": true,
@@ -1114,7 +1180,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/share-searches.html",
-          "hash": "/y3EHYfjtf9XiRiBrxmUgQ=="
+          "hash": "3h0VliJAXCVEL1w4f71rRQ=="
         }
       },
       "is_incremental": true,
@@ -1126,7 +1192,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/share/share-selection.html",
-          "hash": "bgDVTvfEwuJiqeFGdxlhbA=="
+          "hash": "Dl4jlxy5I5spzwqkXP0miQ=="
         }
       },
       "is_incremental": true,
@@ -1138,7 +1204,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/index.html",
-          "hash": "JRSvcK8vCxdI7RQk9T4KRg=="
+          "hash": "efZWN6F9NbQLfXOTlNEYrQ=="
         }
       },
       "is_incremental": true,
@@ -1150,7 +1216,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/marketing-resource-management/concepts/mrm-concepts.html",
-          "hash": "GsuxiOCvDI/MkcqMv5BTKw=="
+          "hash": "Iir7NLkY/W3EyNnH2JPAdQ=="
         }
       },
       "is_incremental": true,
@@ -1162,7 +1228,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/marketing-resource-management/introduction.html",
-          "hash": "Bvn5ux1wMIB4Ujj4da2qOg=="
+          "hash": "IOUheniKJs/TiMo5xqkmIQ=="
         }
       },
       "is_incremental": true,
@@ -1174,22 +1240,19 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/pcm/introduction.html",
-          "hash": "nY9qoxJJ4NEEPfNgS6CGUQ=="
+          "hash": "zJnMhFmCIdrIKbe5zTwnBw=="
         }
       },
       "is_incremental": true,
       "version": ""
     },
     {
-      "log_codes": [
-        "EmptyTocItemName"
-      ],
       "type": "Toc",
       "source_relative_path": "user-documentation/toc.yml",
       "output": {
         ".html": {
           "relative_path": "user-documentation/toc.html",
-          "hash": "DBGLXrfO/L1FI1awmp/UsQ=="
+          "hash": "Z2DP3ns7lESDsIBEpXsnAA=="
         }
       },
       "is_incremental": false,

@@ -6,11 +6,11 @@
 
 **コレクションオーバービューページ**
 
-![](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png)
+![](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_68_Collections_Overview_page.png)
 
 **コレクション**は、右上の **+COLLECTION** ボタンを使用して作成することができます。このボタンをクリックすると、コレクションの詳細を入力するモーダルが開きます。
 
-![](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png)
+![](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_create_collection_modal.png)
 
 * **名前** はフリーテキストフィールドです。
 * **コレクションタイプ** は、ドロップダウンオプションでアウトオブボックスのオプションを提供しています。
@@ -27,17 +27,17 @@
 
 コレクションにアセットを追加するには、**コンテンツ** ページで新しいコレクションを開き、**追加** を選択します。**リンクアイテム** オプションまたは**クリップボードから貼り付け**選択した Sitecore DAM 内のアセットと新しいコレクションの間にシンボリックリンクを作成します。
 
-![DAMのアセットをリンクする](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif)
+![DAMのアセットをリンクする](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_assets_options.gif)
 
 **コンテンツ**ページでは、選択した画像や貼り付けた画像を表示します。
 
-![コレクションコンテンツページ](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png)
+![コレクションコンテンツページ](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_69_Collection_Detail.png)
 
-コレクション内のアセットの 1 つを**マスターとして設定**するには、アセットのアクションアイコン ![](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png) を使用します。アセットを**マスター**に設定すると、アセットのサムネイル プレビューにクラウン アイコンが表示されます。
+コレクション内のアセットの 1 つを**マスターとして設定**するには、アセットのアクションアイコン ![](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_actions_icon_in_collections_for_assets.png) を使用します。アセットを**マスター**に設定すると、アセットのサムネイル プレビューにクラウン アイコンが表示されます。
 
-![コレクション内のアセットをマスターとして設定できます。](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif)
+![コレクション内のアセットをマスターとして設定できます。](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_set_as_master_collections.gif)
 
-コレクションの削除にはダストビンアイコン ![](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png) のダストビンアイコンを使います。
+コレクションの削除にはダストビンアイコン ![](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_dustbin_icon.png) のダストビンアイコンを使います。
 
 ### フィルター
 
@@ -45,11 +45,11 @@
 
 この例では、アセットのタイトルがコレクションの**検索コンポーネント**に含まれていることが選択されています。
 
-![](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png)
+![](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_facet_filter.png)
 
 このファセットは、その後、コレクションの内容のフィルタを作成するために使用することができます。
 
-![作成されたファセットを使ってフィルタリングされるコレクション](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif "作成されたファセットを使ってフィルタリングされるコレクション")
+![作成されたファセットを使ってフィルタリングされるコレクション](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter.gif "作成されたファセットを使ってフィルタリングされるコレクション")
 
 ### 高度な機能
 
@@ -57,31 +57,31 @@ Advanced オプションは、 ユーザーが複雑なクエリを構築する�
 
 * メタデータフィールドが選択されている。
 
-  ![アセットのメタデータが選択されている](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png "アセットのメタデータが選択されている")
+  ![アセットのメタデータが選択されている](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_asset_metadata_filter.png "アセットのメタデータが選択されている")
 
 * リレーションを選択します。
 
-  ![関係はドロップダウンリストから選択されます。](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png "関係はドロップダウンリストから選択されます。")
+  ![関係はドロップダウンリストから選択されます。](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_relation_filter.png "関係はドロップダウンリストから選択されます。")
 
 * 条件を決めています。
 
-  ![条件決定](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png "条件決定")
+  ![条件決定](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_query_builder_condition_filter.png "条件決定")
 
 
 このクエリは、コレクションのコンテンツをフィルタリングするために使用されます。
 
-![高度なフィルタ](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif "高度なフィルタ")
+![高度なフィルタ](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_filter_advanced.gif "高度なフィルタ")
 
 ## 詳細
 
 詳細タブには、特定のコレクションとそのメタデータに関する情報が含まれています。
 
-![コレクションの詳細タブ](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png)
+![コレクションの詳細タブ](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_collections_details_tab.png)
 
 
 詳細を編集するには、鉛筆のアイコンをクリックします。
 
-![コレクションの詳細を編集する](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif)
+![コレクションの詳細を編集する](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_edit_details.gif)
 
 
 ## 共有
@@ -90,11 +90,11 @@ Advanced オプションは、 ユーザーが複雑なクエリを構築する�
 
 内部ユーザーまたはユーザーグループを追加するには、**編集**ボタンをクリックし、**追加ユーザー**ボタンに進みます。**ユーザー**または**ユーザーグループ**のオプションで選択リストが表示され、必要な値が選択されたら**保存**をクリックします。
 
-![](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif)
+![](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_add_internal_users_to_a_collection.gif)
 
 デフォルトでは、これらのユーザーまたはユーザーグループは、コレクションのリーダーとして追加されます。これらのユーザーまたはユーザーグループは、コレクションの**コントリビューター**または**マネージャー**の役割に昇格することもできます。
 
-![コレクションのユーザーとユーザーグループには、ロールを定義することができます。](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png)
+![コレクションのユーザーとユーザーグループには、ロールを定義することができます。](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_role_for_users_usergroups_in_collections.png)
 
 
 必要な値を選択したら、**保存** をクリックします。
@@ -120,7 +120,7 @@ Advanced オプションは、 ユーザーが複雑なクエリを構築する�
 設定を保存すると、バックエンドジョブがページの作成を開始します。ページがすぐに利用できるわけではないことに注意してください。設定は、**設定** ボタンをクリックして後で修正することができます。
 
 ![外部ダウンロードコレクションオプション
-](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif)
+](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_external_download_collections2.gif)
 
 設定を保存すると、バックエンドジョブがページの作成を開始します。ページがすぐに利用できるわけではないので注意してください。設定は、**設定** ボタンをクリックして後で修正することができます。
 
@@ -146,4 +146,4 @@ Advanced オプションは、 ユーザーが複雑なクエリを構築する�
 
 コメントはコメントタブを使ってコレクションに追加することができます。**新しいコメント**をクリックして、新しいモーダルでコメントを追加し、**投稿**をクリックします。
 
-![コメントは、コメントタブを使用してコレクションに追加することができます。](/images/user-documentation/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif)
+![コメントは、コメントタブを使用してコレクションに追加することができます。](/images/user-documentation/about-m-content/_user-documentation_content-user-manual_about-m-content_definitions_3.2.1_comments_collection.gif)

@@ -23,3 +23,15 @@ a{
 .navbar-inverse .navbar-nav > li > a:focus {
   color: #000000;
 }
+
+.navbar-inverse .navbar-brand > a:hover,
+.navbar-inverse .navbar-brand > a:focus {
+  width: 108.963px;
+  height: 24px;
+  margin-top: 13px;
+}
+.navbar-brand {
+  width: 108.963px;
+  height: 24px;
+  margin-top: 13px;
+}
