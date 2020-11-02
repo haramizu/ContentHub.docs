@@ -4,16 +4,17 @@
 
 ビデオAIは以下の機能を提供します。
 
-* 顔認識と有名人の識別
-* 視覚的なテキスト認識と物体の識別
-* シーンのセグメンテーションとキーフレームの抽出
-* キーワードの抽出とトピックの特定
-* 言語の識別
-* 自動テープ起こし
+* **顔認識と有名人の識別**
+* **視覚的なテキスト認識と物体の識別**
+* **シーンのセグメンテーションとキーフレームの抽出**
+* **キーワードの抽出とトピックの特定**
+* **言語の識別**
+* **自動テープ起こし**
 
 > [!Video https://mss-p-003-delivery.stylelabs.cloud/api/public/content/840ad65fb6e64d8e9988777e08f3a989?v=b54c875f]
 
-**アセット**タイプを拡張して、TriggersVideoAIという名前の新しいプロパティを含むようにビデオAI定義を含めることで統合が実現しました。この**ビデオAIの トリガー**プロパティは、タクソノミー管理ページの下にあるアセットタイプで有効にするためにアクティブにトグルされています。Triggers ビデオAI <img src="../../../images/user-documentation/content-user-manual/analyze/triggers_video_ai_toggled_to_active.png" width="50">
+
+**アセット**タイプを拡張して、TriggersVideoAIという名前の新しいプロパティを含むようにビデオAI定義を含めることで統合が実現しました。この**ビデオAIの トリガー**プロパティは、タクソノミー管理ページの下にあるアセットタイプで有効にするためにアクティブにトグルされています。Triggers ビデオAI <img src="../../../images/user-documentation/content-user-manual/analyze/triggers_video_ai_toggled_to_active.png" width="150">
 
 ![Video_Indexer](../../../images/user-documentation/content-user-manual/analyze/video_indexer_taxonomy.png)
 
@@ -30,7 +31,7 @@
 
 ![動画解析パネル： 動画解析パネルを表示するアセット詳細ページ](../../../images/user-documentation/content-user-manual/analyze/asset_detail_page_showing_video_analysis.png)
 
-動画が処理されると、**動画解析**パネルが返されたメタデータラベルで埋められ、View more ボタン <img src="../../../images/user-documentation/content-user-manual/analyze/videoai_view_more_button.png" width="50" /> ボタンが表示されます。
+動画が処理されると、**動画解析**パネルが返されたメタデータラベルで埋められ、View more ボタン <img src="../../../images/user-documentation/content-user-manual/analyze/videoai_view_more_button.png" width="150" /> ボタンが表示されます。
 
 **View more **オプションを選択すると、ユーザーは、**Video indexer 詳細ページ**に表示されている完全な詳細解析に誘導されます。
 
@@ -95,7 +96,7 @@
 
 * **自動テープ起こし**: ビデオに含まれる音声を英語のテキストに変換します。この変換がタイムラインに表示され、スピーカーの識別、話者と対応する話し言葉のマッピングが表示されます。
 
-[video indexerページのタイムラインタブ](../../../images/user-documentation/content-user-manual/analyze/video_indexer_timeline.png)
+![video indexerページのタイムラインタブ](../../../images/user-documentation/content-user-manual/analyze/video_indexer_timeline.png)
 
 ## アセットに動画解析を追加する
 
@@ -107,7 +108,7 @@
 
 アセットの詳細ページで、編集アイコンの編集アイコン <img src="../../../images/user-documentation/content-user-manual/analyze/video_ai_edit_icon.png" />をクリックします。
 
-アセットの詳細ページに表示される編集アイコン：edit_video_asset.png
+![アセットの詳細ページに表示される編集アイコン](../../../images/user-documentation/content-user-manual/analyze/edit_video_asset.png)
 
 アセットのメタデータが編集可能な場合は、[タイプ] フィールドで [+] オプションを選択すると、アセット タイプの選択肢が表示されます。
 

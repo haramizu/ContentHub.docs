@@ -381,6 +381,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/analyze/Magnifier.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/analyze/Magnifier.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/user-documentation/content-user-manual/analyze/absolute_value_not_selected.png",
       "output": {
         "resource": {
@@ -3759,7 +3770,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/analyze/image-similarity.html",
-          "hash": "9kfxhj5d2ne7ZCEngAJwIw=="
+          "hash": "BmJt7KH++4NQgL2ZZKncCQ=="
         }
       },
       "is_incremental": true,
@@ -3771,7 +3782,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/analyze/video-ai-analysis.html",
-          "hash": "onHU1ZhtMWjDrCf8sFS1Mg=="
+          "hash": "Up1XF1Up6SD0i+phGfPW1Q=="
         }
       },
       "is_incremental": false,

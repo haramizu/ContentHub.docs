@@ -73,9 +73,9 @@ ImageSimilarity設定を編集するには、**管理** > **設定**でImageSimi
 
 | 設定値 	| バッジ 	|
 |-	|-	|
-| <img src="../../../images/user-documentation/content-user-manual/analyze/absolute_value_not_selected.png" width="50" alt="絶対値が選択されていない" />	| ![類似のアセットのタグ付け](../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_similar_tags_highlighted.png)
+| <img src="../../../images/user-documentation/content-user-manual/analyze/absolute_value_not_selected.png" width="250" alt="絶対値が選択されていない" />	| ![類似のアセットのタグ付け](../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_similar_tags_highlighted.png)
 	|
-| <img src="../../../images/user-documentation/content-user-manual/analyze/selected:absolute_value_selected.png" width="50" alt="絶対値が選択されていない" />	| ![類似のアセットのタグ付け](../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_absolute_values.png)
+| <img src="../../../images/user-documentation/content-user-manual/analyze/absolute_value_selected.png" width="250" alt="絶対値が選択されていない" />	| ![類似のアセットのタグ付け](../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_absolute_values.png)
 	|
 
 > [!Note]
@@ -132,42 +132,41 @@ M.AssetType タクソノミーに新しいアセットタイプを追加し、�
 
 1. **管理** > **ページ**に移動します。
 
-  ![管理下のページページ](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page.png)
+    ![管理下のページページ](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page.png)
 
 2. **アセット**ページ（**プロジェクト**ページの子）を探して選択します。
 
-  ![](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_search_asset_details.png)
+    ![](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_search_asset_details.png)
 
 3. 必要に応じて、**エンティティ操作**コンポーネント（Operations）をカスタム設定モードを使用するように設定します <img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_asset_details_ent_ops_crop.png" widht="50" />
 
-  ![](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_asset_details_ent_ops.png)
+    ![](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_asset_details_ent_ops.png)
 
 4. コンポーネント上で、<img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_asset_details_more_actions.png" width="50" />アイコンをクリックして、Editを選択します。
 
-  ![エンティティ操作コンポーネントに表示される編集](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_asset_details_ent_ops_edit.png)
+    ![エンティティ操作コンポーネントに表示される編集](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_asset_details_ent_ops_edit.png)
 
 5. エンティティ操作コンポーネントで、**Add operation**をクリックします。
 
-  ![追加操作が強調表示されたエンティティ操作コンポーネント](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_ent_ops_add_operation.png)
+    ![追加操作が強調表示されたエンティティ操作コンポーネント](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_ent_ops_add_operation.png)
 
 6. **ビューの詳細**を選択します。
 
-  ![ビューの詳細を追加する操作](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_ent_ops_view_details_operation.png)
+    ![ビューの詳細を追加する操作](../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_ent_ops_view_details_operation.png)
 
 7. **詳細表示**の操作を以下のように設定します。
 
-  | フィールド  	| 値 	|
-  |-	|-	|
-  | 表示形式 	| アイコン＋ラベル 	|
-  | アイコン、ラベル	| このアイコン虫眼鏡のアイコンを選択することができます。アイコンページ(m-icon-image-search)からIcon_Magnifier-glass.pngを選択し、ラベルとして類似のアセットを使用しています。
- 	|
-  | ボタンスタイル 	| 標準 	|
-  | ページ名 	| SimilarAssets（操作を選択したときに開くページ) 	|
-  | ウィンドウタイプ 	| 特大モーダル (SimilarAssetsページのモーダルウィンドウサイズ)	|
+    | フィールド  	| 値 	|
+    |-	|-	|
+    | 表示形式 	| アイコン＋ラベル 	|
+    | アイコン、ラベル	| このアイコン虫眼鏡のアイコンを選択することができます。アイコンページ <img src="../../../images/user-documentation/content-user-manual/analyze/Magnifier.png" width="50" /> を選択し、ラベルとして類似のアセットを使用しています。
+    | ボタンスタイル 	| 標準 	|
+    | ページ名 	| SimilarAssets（操作を選択したときに開くページ) 	|
+    | ウィンドウタイプ 	| 特大モーダル (SimilarAssetsページのモーダルウィンドウサイズ)	|
 
 
-  > [!Note]
-  > ページ名フィールド以外にも、必要に応じて他のフィールドの値を変更することができます。
+    > [!Note]
+    > ページ名フィールド以外にも、必要に応じて他のフィールドの値を変更することができます。
 
 8. 必要に応じて、このアイコン <img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_entity_operations_drag_function.png" width="50" /> の操作上のドラッグ機能を使用し、Similar assetsの操作を必要な位置にドラッグします。
 
