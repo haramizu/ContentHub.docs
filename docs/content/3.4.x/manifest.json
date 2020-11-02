@@ -3428,6 +3428,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/92_Review_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/92_Review_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/93_Selection-dropdown_Approve_Reject.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/93_Selection-dropdown_Approve_Reject.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/95_Rejection_pop-up.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/95_Rejection_pop-up.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_3.0.0_90_Basic_business_flow_illustration.png",
       "output": {
         "resource": {
@@ -3454,6 +3487,1183 @@
       "output": {
         "resource": {
           "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_3.0.0_image122.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.1.0_hanging_lemon_thumbnail.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.1.0_hanging_lemon_thumbnail.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.1.0_master_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.1.0_master_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.1.0_original_rendition.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.1.0_original_rendition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.1.0_preview_rendition.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.1.0_preview_rendition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.1.0_thumbnail_rendition.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.1.0_thumbnail_rendition.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.2.0_select_file_to_upload.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.2.0_select_file_to_upload.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.2.0_select_upload_file_box.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.2.0_select_upload_file_box.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.2.0_upload_alternative_thumbnail_modal.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.2.0_upload_alternative_thumbnail_modal.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.2.0_upload_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.2.0_upload_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.2.1_all_files.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.2.1_all_files.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_assets_page_showing_new_thumbnail.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_assets_page_showing_new_thumbnail.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_compare_to_master.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_compare_to_master.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_compare_to_master.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_compare_to_master.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_drag_drop_file_upload.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_drag_drop_file_upload.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_example_new_file_upload.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_example_new_file_upload.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_new_file_set_as_thumbnail.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_new_file_set_as_thumbnail.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_set_as_master.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_set_as_master.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_thumbnail_upload_drag_drop.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_thumbnail_upload_drag_drop.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_upload_alternative_thumbnail.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_upload_alternative_thumbnail.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_upload_file.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/_user-documentation_content-user-manual_review_3.3.0_upload_file.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_annotation_report_button_highlight.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_annotation_report_button_highlight.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_annotation_report_image.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_annotation_report_image.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_annotation_video_audio.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_annotation_video_audio.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_annotationreport.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_annotationreport.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_annotations_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_annotations_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_at_mention_email.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_at_mention_email.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_download_pdf_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_download_pdf_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_jobs_option_under_user_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_jobs_option_under_user_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_mention.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_mention.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_mp4_annotation_report.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/_user-documentation_content-user-manual_review_annotations_3.3.0_mp4_annotation_report.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/add_comment_annotation_time_range.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/add_comment_annotation_time_range.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_added_time_range.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_added_time_range.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_box_for_rectangle_tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_box_for_rectangle_tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_cancel_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_cancel_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_click_selected_shown_in_viewer.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_click_selected_shown_in_viewer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_edit_annotation_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_edit_annotation_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_flag.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_flag.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_flag_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_flag_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_saves_changes_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotation_saves_changes_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-actions-delete.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-actions-delete.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-actions-edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-actions-edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-actions-new-comment.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-actions-new-comment.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-actions-select.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-actions-select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-actions.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-actions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-indicator.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-annotation-indicator.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-compare-view-annotations.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-compare-view-annotations.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-compare.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-compare.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-free-form.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-free-form.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-go-to-annotations.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-go-to-annotations.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-overview-with-annotations.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-overview-with-annotations.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-regular-form.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-regular-form.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-search-options.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-search-options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-text-settings.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-text-settings.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-videos-new-annotation-overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-videos-new-annotation-overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-videos-new-annotation.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-videos-new-annotation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-videos-overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations-page-videos-overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations_flag.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations_flag.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations_shown_details_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/annotations_shown_details_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/cancel_annotation_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/cancel_annotation_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/cancel_annotation_button_vi.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/cancel_annotation_button_vi.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/comment_annotation_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/comment_annotation_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/comment_annotation_tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/comment_annotation_tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/comment_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/comment_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/compare_button_annotations.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/compare_button_annotations.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/cover_layout_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/cover_layout_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/create_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/create_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/delete_comment_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/delete_comment_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/delete_confirmation.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/delete_confirmation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/double_layout_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/double_layout_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/drag_select.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/drag_select.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/edit_comment_box.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/edit_comment_box.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/edit_comment_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/edit_comment_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/flag_used_time_raange_annotation.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/flag_used_time_raange_annotation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/freehand_annotation_tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/freehand_annotation_tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/image_annotations.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/image_annotations.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/more_actions_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/more_actions_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/new_annotation_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/new_annotation_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/new_annotation_button_displayed.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/new_annotation_button_displayed.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/new_comment_annotation.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/new_comment_annotation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/new_comment_box.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/new_comment_box.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/new_comment_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/new_comment_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/page_by_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/page_by_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/page_transition_continuous.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/page_transition_continuous.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/pdf_annotation_overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/pdf_annotation_overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/print_templates_under_manage.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/print_templates_under_manage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/rectangle_tool_annotation_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/rectangle_tool_annotation_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/refresh_system_templates.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/refresh_system_templates.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/rotate_clockwise_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/rotate_clockwise_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/rotate_counter_clockwise_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/rotate_counter_clockwise_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/search_bar_used.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/search_bar_used.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/shape_annotation_tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/shape_annotation_tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/single_layout_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/single_layout_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/sort_date_created_reversed.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/sort_date_created_reversed.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/squiggly_tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/squiggly_tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/strikeout_tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/strikeout_tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/text_annotation_tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/text_annotation_tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/underline_tool.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/underline_tool.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/video_annotations_all_files_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/video_annotations_all_files_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/video_annotations_new_video.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/video_annotations_new_video.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/video_annotations_older_version.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/video_annotations_older_version.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/video_annotations_older_version_cropped.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/video_annotations_older_version_cropped.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/annotations/view_controls_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/annotations/view_controls_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/image10_approve_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/image10_approve_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/image13_reject_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/image13_reject_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/review/inline_preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/review/inline_preview.png"
         }
       },
       "is_incremental": false,
@@ -3761,7 +4971,7 @@
           "hash": "9tbycSb4L6oHE416pyn+hw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -3785,7 +4995,7 @@
           "hash": "Up1XF1Up6SD0i+phGfPW1Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -3926,7 +5136,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/edit/detail-page.html",
-          "hash": "NDxOTv3ws3+mKr8VNGpgQg=="
+          "hash": "lMTXMqPL9bOJjRom/0iMkQ=="
         }
       },
       "is_incremental": true,
@@ -4178,7 +5388,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-actions.html",
-          "hash": "9qZv7ICK0avsNgQuUJy48w=="
+          "hash": "RhDS7YDSgzj358zyVONqEA=="
         }
       },
       "is_incremental": true,
@@ -4190,7 +5400,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-side-by-side-comparison.html",
-          "hash": "Ngmopo6uOFTMKMrEwYcHQA=="
+          "hash": "qEczyc/QHlGaB0szEriasQ=="
         }
       },
       "is_incremental": true,
@@ -4202,7 +5412,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotation-tools.html",
-          "hash": "1Rwh+kZOY9oNc8uPPa1/jw=="
+          "hash": "kNzBa6+qDBsHDEIR2t1ZQw=="
         }
       },
       "is_incremental": true,
@@ -4214,7 +5424,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotations-media-type.html",
-          "hash": "I7ACG6ZbEJiXQsk16Taqgg=="
+          "hash": "CVJmcZ0scCeFXPiFIdraQw=="
         }
       },
       "is_incremental": true,
@@ -4226,7 +5436,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/annotations-report.html",
-          "hash": "qLGg5imcQAnsCEf4+W/Acw=="
+          "hash": "MaV93rgp+C1U+V0ds8rlFw=="
         }
       },
       "is_incremental": true,
@@ -4238,7 +5448,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/overview.html",
-          "hash": "ppqKAO3hyTfdnxx+J/vL9g=="
+          "hash": "AxWjG1a+aiW7TSiOVzvtFQ=="
         }
       },
       "is_incremental": true,
@@ -4250,10 +5460,10 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/annotations/video-annotations.html",
-          "hash": "SvVZMPP3yLy315LbXmgEkA=="
+          "hash": "CqaZYVTGhiRuI+ugnVRYGg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -4262,7 +5472,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/review-page.html",
-          "hash": "ZezPOLmgBv3+OMdiwiJnhg=="
+          "hash": "s/uWHy1BoSsay+aE6JvJtg=="
         }
       },
       "is_incremental": true,
@@ -4286,7 +5496,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/upload-alternative-file.html",
-          "hash": "3DkhOn4jKMIuhHIpJBg2nQ=="
+          "hash": "0+iTBO7vavuAV9NJH77S2A=="
         }
       },
       "is_incremental": true,
@@ -4298,7 +5508,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/review/upload-file.html",
-          "hash": "ZB7JXHQjjCeoW9U+LE9hxg=="
+          "hash": "HkANExeEnRT0NA3WPRqEwQ=="
         }
       },
       "is_incremental": true,
