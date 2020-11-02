@@ -78,6 +78,311 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="画像の類似性">画像の類似性</h1>
 
+<p>画像の類似性を分析して類似のアセットを特定して再利用や再目的化することで、新しいアセットを作成するために必要な時間とコストを節約できます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_similar_tags.png" alt="画像類似アセット"></p>
+<p>画像の類似性は、コンテンツに基づいてアップロードされた画像に自動的にタグを付ける自動アセットタグ付けに依存しています。<strong>タグ</strong>、<strong>説明</strong>、および<strong>色</strong>のデータは、<a href="image-analysis.html">画像解析</a>機能によって生成され、<strong>アセット詳細</strong>ページの画像解析セクションに表示されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_image_analysis.png" alt="画像解析"></p>
+<h2 id="画像の類似性の設定">画像の類似性の設定</h2>
+<p>画像の類似性を設定するには</p>
+<ol>
+<li><a href="#check-if-the-feature-is-enabled">この機能が有効になっているかどうかを確認する</a></li>
+<li><a href="#configure-the-image-similarity-settings">画像の類似度設定を行う</a></li>
+<li><a href="#set-up-the-massettype-taxonomy">M.AssetTypeタクソノミーを設定</a></li>
+<li><a href="#set-up-the-similar-assets-operation">類似アセット操作の設定（オプション）</a></li>
+</ol>
+<h3 id="機能が有効になっているかどうかを確認する"><a name="check-if-the-feature-is-enabled"></a>機能が有効になっているかどうかを確認する</h3>
+<p>画像の類似性機能は、デフォルトでは無効になっています。</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>画像類似機能を有効にするには、Sitecoreのアカウントマネージャーに連絡してください。</p>
+</div>
+<p>画像類似機能が有効になっているかどうかを確認するには</p>
+<ol>
+<li><strong>管理</strong> &gt; <strong>設定</strong>に移動します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_settings_under_manage.png" alt="管理下にある設定"></p>
+<ol start="2">
+<li><strong>ImageSimilaritySystem</strong>を検索します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_image_similarity_setting.png" alt="画像類似度システムの設定"></p>
+<ol start="3">
+<li><em>ServiceEnabled</em> 設定が有効な場合は、お使いの環境で画像類似機能が有効になっています。そうでない場合は、有効ではありません。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_image_similarity_setting_is_enabled.png" alt="画像の類似度設定が有効になっていない場合"></p>
+<div class="WARNING">
+<h5>Warning</h5>
+<ul>
+<li>ImageSimilaritySystem の設定はシステムが所有しています。管理者のみが編集できます。</li>
+<li>ServiceEnabled設定が無効になっている場合、画像類似性機能を設定することはできず、類似アセットページを使用するとエラーが返されます。</li>
+</ul>
+</div>
+<h3 id="画像の類似性設定を設定する"><a name="configure-the-image-similarity-settings"></a>画像の類似性設定を設定する</h3>
+<p>画像類似度機能には、画像類似度データを生成するためにアセットをSitecore AIに送信するための2つのモードがあります。</p>
+<ul>
+<li><strong>シングルアップロード</strong> このモードでは、処理の準備ができたアセットを1つずつSitecore AIに送信します。</li>
+<li><strong>大量アップロード</strong> このモードでは、処理可能なアセットの数が定義されたしきい値に達するまで待ってから、一括でSitecore AIに送信します。</li>
+</ul>
+<p><em>ImageSimilarity</em>設定は、機能の他の側面の定義に加えて、どのモードを使用するかを定義します。</p>
+<p>ImageSimilarity設定を編集するには、<strong>管理</strong> &gt; <strong>設定</strong>でImageSimilarityを検索します。<em>Sitecore AI</em>セクションにあります。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_setting_superuser.png" alt="画像類似度の設定"></p>
+<div class="WARNING">
+<h5>Warning</h5>
+<ul>
+<li>スーパーユーザーのみが ImageSimilarity の設定を編集できます。</li>
+<li>変更を行ったら、<strong>保存</strong> をクリックします。</li>
+</ul>
+</div>
+<p>次の表は、ImageSimilarity の各設定について説明しています。</p>
+<table>
+<thead>
+<tr>
+<th>設定</th>
+<th>説明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MassUploadMode</td>
+<td>機能のモードを定義します。大量アップロードモードを使用する場合は、このボックスにチェックを入れます。シングルアップロードモードを使用する場合は、このボックスをオフにします。</td>
+</tr>
+<tr>
+<td>MassUploadThreshold</td>
+<td>Sitecore AIに送信する前に処理する準備ができているアセットの数のしきい値を定義します。この例では、Sitecore AIの処理を開始する前に1000のアセットを準備しておく必要があります。</td>
+</tr>
+<tr>
+<td>MassUploadBatchSize</td>
+<td>バッチごとにSitecore AIに送信するアセットの数を定義します。この例では、処理のためにアセットを500のバッチで送信しています。</td>
+</tr>
+<tr>
+<td>AbsoluteValues</td>
+<td>類似アセットページに表示される信頼度レベルのバッジの形式を定義します。デフォルトでは、バッジはパーセンテージで表示されます。バッジを10進数で表示したい場合は、このボックスにチェックを入れます。</td>
+</tr>
+</tbody>
+</table>
+<p>次の表は、AbsoluteValues の設定に基づいて、信頼度レベルのバッジがどのように変化するかを示しています。スクリーンショットをクリックすると、フルスクリーンで表示されます。</p>
+<table>
+<thead>
+<tr>
+<th>設定値</th>
+<th>バッジ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/analyze/absolute_value_not_selected.png" width="50" alt="絶対値が選択されていない"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_similar_tags_highlighted.png" alt="類似のアセットのタグ付け"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="../../../images/user-documentation/content-user-manual/analyze/selected:absolute_value_selected.png" width="50" alt="絶対値が選択されていない"></td>
+<td><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_absolute_values.png" alt="類似のアセットのタグ付け"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div class="NOTE">
+<h5>Note</h5>
+<p>絶対値がどのように機能するかについての詳細は、信頼度を参照してください。</p>
+</div>
+<h3 id="massettype-タクソノミーを設定する"><a name="set-up-the-massettype-taxonomy"></a>M.AssetType タクソノミーを設定する</h3>
+<p>画像類似性機能は、特定のアセット タイプを持つアセットにのみ適用されます。M.AssetType <a href="../../administration/data/taxonomies/taxonomy.html">タクソノミー</a>を設定することで、イメージ類似性機能を起動するアセット・タイプを選択できます。既存のアセット タイプを選択するか、新しいアセット タイプを作成できます。</p>
+<p>画像の類似性をトリガーするようにアセット タイプを設定したら、画像の類似性の比較に含めるアセットに割り当てることができます。</p>
+<div class="WARNING">
+<h5>Warning</h5>
+<p>スーパーユーザーのみが以下の手順を実行できます。</p>
+</div>
+<p>M.AssetType タクソノミーに新しいアセットタイプを追加し、画像の類似性をトリガーするように設定するには、以下の手順を実行します。</p>
+<ol>
+<li><strong>管理</strong> &gt; <strong>タクソノミー</strong>に移動します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_taxonomy_under_manage.png" alt="タクソノミーは管理の下にあります"></p>
+<ol start="2">
+<li>M.AssetTypeタクソノミーを検索して選択します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_masset_type.png" alt="m_assetタイプのタクソノミーページ"></p>
+<ol start="3">
+<li><p><img src="../../../images/user-documentation/content-user-manual/analyze/image_analysis_taxonomy_new_child_icon.png" width="50"> をクリックすると、新しいM.AssetTypeタクソノミー項目が追加されます。</p>
+</li>
+<li><p><strong>ラベル</strong>を入力します。この例では、<strong>ラベル</strong>はImageSimilarityです。<strong>識別子</strong>は自動生成されます。</p>
+</li>
+<li><p><strong>Triggers vision</strong>を<em>True</em>に設定します。</p>
+</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/sitecore_onedrive_taxonomy_image_similarity.png" alt="sitecore new タクソノミー with triggers vision"></p>
+<ol start="6">
+<li><strong>Triggers 画像類似度</strong>をTrueに設定します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/sitecore_onedrive_taxonomy_image_similarity_complete.png" alt="タクソノミー画像の類似性が完了しました"></p>
+<ol start="7">
+<li><strong>保存</strong>をクリックします。</li>
+</ol>
+<div class="WARNING">
+<h5>Warning</h5>
+<p>ご利用の環境で画像類似機能が有効になっていない場合、この設定を保存することはできません。</p>
+</div>
+<h3 id="-類似アセットの操作を設定する"><a name="set-up-the-similar-assets-operation"></a> 類似アセットの操作を設定する</h3>
+<p>お使いの環境で画像<strong>類似機能を</strong>有効にすると、<strong>アセット詳細</strong>ページに類似アセットの操作が自動的に追加されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_shown_on_menu.png" alt="メニューに表示される類似アセット"></p>
+<p><strong>プロジェクトアセットの詳細</strong>ページでこの機能を使用する場合は、ページ内で<strong>類似アセット</strong>の操作を設定する必要があります。</p>
+<div class="WARNING">
+<h5>Warning</h5>
+<p>スーパーユーザーのみが以下の手順を実行できます。</p>
+</div>
+<p>プロジェクトアセットの詳細ページで、類似アセットの操作を設定するには、以下の手順を実行します。</p>
+<ol>
+<li><strong>管理</strong> &gt; <strong>ページ</strong>に移動します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page.png" alt="管理下のページページ"></p>
+<ol start="2">
+<li><strong>アセット</strong>ページ（<strong>プロジェクト</strong>ページの子）を探して選択します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_search_asset_details.png" alt=""></p>
+<ol start="3">
+<li>必要に応じて、<strong>エンティティ操作</strong>コンポーネント（Operations）をカスタム設定モードを使用するように設定します <img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_asset_details_ent_ops_crop.png" widht="50"></li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_asset_details_ent_ops.png" alt=""></p>
+<ol start="4">
+<li>コンポーネント上で、<img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_asset_details_more_actions.png" width="50">アイコンをクリックして、Editを選択します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_asset_details_ent_ops_edit.png" alt="エンティティ操作コンポーネントに表示される編集"></p>
+<ol start="5">
+<li>エンティティ操作コンポーネントで、<strong>Add operation</strong>をクリックします。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_ent_ops_add_operation.png" alt="追加操作が強調表示されたエンティティ操作コンポーネント"></p>
+<ol start="6">
+<li><strong>ビューの詳細</strong>を選択します。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_pages_page_ent_ops_view_details_operation.png" alt="ビューの詳細を追加する操作"></p>
+<ol start="7">
+<li><strong>詳細表示</strong>の操作を以下のように設定します。</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>フィールド</th>
+<th>値</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>表示形式</td>
+<td>アイコン＋ラベル</td>
+</tr>
+<tr>
+<td>アイコン、ラベル</td>
+<td>このアイコン虫眼鏡のアイコンを選択することができます。アイコンページ(m-icon-image-search)からIcon_Magnifier-glass.pngを選択し、ラベルとして類似のアセットを使用しています。</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ボタンスタイル</td>
+<td>標準</td>
+</tr>
+<tr>
+<td>ページ名</td>
+<td>SimilarAssets（操作を選択したときに開くページ)</td>
+</tr>
+<tr>
+<td>ウィンドウタイプ</td>
+<td>特大モーダル (SimilarAssetsページのモーダルウィンドウサイズ)</td>
+</tr>
+</tbody>
+</table>
+<div class="NOTE">
+<h5>Note</h5>
+<p>ページ名フィールド以外にも、必要に応じて他のフィールドの値を変更することができます。</p>
+</div>
+<ol start="8">
+<li>必要に応じて、このアイコン <img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_entity_operations_drag_function.png" width="50"> の操作上のドラッグ機能を使用し、Similar assetsの操作を必要な位置にドラッグします。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similarity_entity_operations_moved.png" alt="類似アセットエンティティの操作をより多くのオプションメニューに移動"></p>
+<div class="TIP">
+<h5>Tip</h5>
+<p>メインの操作エリアに操作を移動する場合は、表示形式を「アイコン」に設定することをお勧めします。この場合、操作ラベルがツールチップとして表示されます。</p>
+</div>
+<ol start="9">
+<li><strong>保存</strong> をクリックします。</li>
+</ol>
+<h2 id="画像の類似性を利用する">画像の類似性を利用する</h2>
+<p>画像の類似性機能を使用するには</p>
+<ol>
+<li>画像の類似性機能を使用するには、<strong>アセットの詳細</strong>ページに移動して、その他のアクション <img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_more_options.png">をクリックします。</li>
+</ol>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_shown_on_menu.png" alt="メニューに表示された類似アセット"></p>
+<ol start="2">
+<li><strong>類似アセット</strong>のページでは、2つのタブが表示されます。</li>
+</ol>
+<ul>
+<li><p><a href="#similar-tags-tab">類似タグ</a></p>
+</li>
+<li><p><a href="#similar-colors-tab">同系色</a></p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_similar_tags.png" alt="画像類似アセット"></p>
+</li>
+</ul>
+<div class="NOTE">
+<h5>Note</h5>
+<p>類似タグと類似色は、<a href="#set-up-the-massettype-taxonomy">画像の類似度設定を有効</a>にしたアセットでのみ利用可能です。</p>
+</div>
+<h3 id="類似タグタブ"><a name="similar-tags-tab"></a>類似タグタブ</h3>
+<p>このタブでは、Sitecore DAM内の類似タグを持つアセットを見つけることができます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_similar_tags_highlighted.png" alt="タグ付けされた類似アセット"></p>
+<p>似たような色のタグは、アセットプレビューの下にある <em>類似アセット</em> ページで確認できます。</p>
+<h3 id="類似色タブ"><a name="similar-colors-tab"></a>類似色タブ</h3>
+<p>このタブでは、Sitecore DAM内の似たような色や説明を持つアセットを見つけることができます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_similar_colors.png" alt="似たような色を示す類似のアセット"></p>
+<p>似たような色は、アセット プレビューの下にある「似たようなアセット」ページで確認できます。</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>色の類似性は、類似色と類似の記述を組み合わせたものを基準にしています。</p>
+</div>
+<h3 id="信頼度のレベル">信頼度のレベル</h3>
+<p>類似アセットのページには、類似アセットの一致値（パーセント表示）を示す信頼度レベルのバッジがあります。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_similar_tags_highlighted.png" alt="タグ付けされた類似アセット"></p>
+<p>コンフィデンスレベルのバッジは以下のようにグループ化されています。</p>
+<table>
+<thead>
+<tr>
+<th>自信度</th>
+<th>バッジの色</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>99% - 80% (高類似度)</td>
+<td><img src="../../../images/user-documentation/content-user-manual/analyze/green_label.png" alt="100%"></td>
+</tr>
+<tr>
+<td>79% - 50% (中程度の類似度)</td>
+<td><img src="../../../images/user-documentation/content-user-manual/analyze/yellow_label.png" alt="61%"></td>
+</tr>
+<tr>
+<td>49% - 1% (Low similarity)</td>
+<td><img src="../../../images/user-documentation/content-user-manual/analyze/red_label.png" alt="41%"></td>
+</tr>
+</tbody>
+</table>
+<p>また、信頼度レベルのバッジを絶対値で表示することもできます。この場合、値の一致は小数点以下6桁で表示されます。</p>
+<ul>
+<li><p>これは、あなたのアセットから一致したアセットまでの距離を表します。</p>
+</li>
+<li><p>値が小さいほど、一致が近いことを示します。</p>
+</li>
+<li><p>距離がゼロの場合は、NA（該当なし）と表示されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/image_similar_assets_absolute_values.png" alt="絶対値で表示される類似タグ"></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>信頼度バッジのフォーマットは、画像類似度設定で設定できます。</p>
+</div>
+</li>
+</ul>
 </article>
           </div>
           <div class="contribution-panel mobile-hide">

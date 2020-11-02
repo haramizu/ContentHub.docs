@@ -1,1 +1,269 @@
 # Adobe InDesign
+
+Adobe InDesignは、デスクトップパブリッシング・組版ソフトです。ポスター、チラシ、パンフレット、雑誌、電子書籍などの作成に使用されます。
+
+Sitecore Connect for Creative CloudTMパッケージをダウンロードしてインストールすると、Sitecore Content Hub拡張機能が利用できます。ダウンロードとインストールについては、ダウンロード、インストール、認証をご覧ください。
+
+Sitecore Content Hub 拡張機能
+拡張機能を有効にするには
+
+Adobe InDesignを開きます。
+ウィンドウメニューをクリックします。
+拡張機能]を選択し、[Sitecore Content Hub]を選択します。
+
+indesign_extensions_sitecore_content.pngをクリックします。
+
+Sitecore Content Hubのモーダルが開いたら、コンテンツハブのURLを入力してログインをクリックします。
+
+sitecore Content hub url modal: indesign_url_modal.png
+
+デフォルトのブラウザで新しいログインウィンドウが開きます。Sitecore Content Hub インスタンスにまだログインしていない場合は、今すぐログインしてください。
+
+sitecoreインスタンスのログイン： illustrator_sitecore_instance_login.png
+
+ノート
+すでに Sitecore Content Hub インスタンスにログインしている場合は、直接 Authorization ページに移動します（下記参照）。
+
+ログイン後、GrantをクリックしてContent Hubへのアクセスを許可します。
+
+シリコンコネクタの認証ページ：silicon_connector.png
+
+認可が完了するとこのようなメッセージが表示されます。
+
+sitecoreコンテンツハブの認可ページ: authorization_process_complete.png
+
+Adobe InDesignに戻ると、AssetsタブでSitecore Content Hubモーダルが開きます。
+
+indesign_sitecore_assets_filtered.png
+
+Sitecore Content Hub モーダル
+Sitecore Content Hub モーダルには4つのタブがあります。
+
+アセットタブ
+ASSETSタブには、Sitecore DAMで承認されたアセットが表示されます。このタブには以下の機能があります。
+
+全文検索
+アセットタイプとアセットメディアのファセット検索（データがある場合のみファセットが表示されますのでご注意ください
+ページ数
+1ページあたりに表示されるアセット数
+作成された日付と修正された日付のソートを、ソートの方向を逆にするオプションで行うことができます。
+
+アセットタブを表示するIndesign sitecoreコンテンツハブモーダル。InDesign_ContentHubSiliconConnectorModal.png
+
+ASSETS]タブでは、各アセットのサムネイルに以下のアイコンが表示されます。
+
+indesign配置アイコン: indesign_sitecore_pending_approval-place_icon.png アセットをInDesignドキュメントにドラッグ＆ドロップします。
+illustrator sitecore check-in icon : illustrator_sitecore_checkin_icon.png アセットをInDesignにチェックアウトします（アセットは新しいInDesignドキュメントで開きます）。
+illustrator sitecoreチェックインアイコン：illustrator_check_in_icon.png 以前にチェックアウトしたアセットをContent Hubにチェックインします。
+illustrator_sitecore破棄アイコン： illustrator_sitecore_discard_checkout.png チェックアウトしたアセットを破棄します。
+アセットをクリックしてプレビューを見ることもできます。プレビューは新しいウィンドウで開きます。
+
+sitecoreコンテンツハブモーダルアセットプレビュー： illustrator_sitecore_asset_preview.png
+
+ジョブタブ
+ジョブとは、チームや部署が独立して特定のコンテンツを巡って共同作業を行うための単一のスペースのことです。ジョブの詳細については、ジョブを参照してください。
+
+JOBS タブには、ログインしたユーザーが割り当てられているすべてのジョブが表示されます。
+
+Indesign sitecore モーダルジョブタブ。CreativeCloud_InDesign_JobTab_JobAssigned.png
+
+JOBS] タブからは、以下のことができます。
+
+InDesignドキュメント内のジョブに含まれるアセットを使用します。
+アセットを確認します。
+
+Indesignのジョブタブにアセットが表示されています。CreativeCloud_InDesign_JobTab_AssetInJob.png
+
+ノート
+このタブからジョブを開いたり、完了したりすることはできません。
+
+承認待ちタブ
+PENDING APPROVAL] タブには、以下のアセットが表示されます。
+
+作成されたが承認のためにまだ提出されていない：これらのアセットには「新規」ラベルが付いています。
+承認申請中：これらのアセットには「IN REVIEW」ラベルが付いています。
+
+indesign_sitecore承認保留ページ： indesign_sitecore_pend_approval_page.png
+
+PENDING APPROVAL]タブでは、各アセットのサムネイルに以下のアイコンが表示されます。
+
+indesign配置アイコン: indesign_sitecore_pending_approval-place_icon.png アセットをInDesignドキュメントにドラッグ＆ドロップします。
+illustrator sitecore check-in icon : illustrator_sitecore_checkin_icon.png アセットをInDesignにチェックアウトします（アセットは新しいInDesignドキュメントで開きます）。
+illustrator sitecoreチェックインアイコン： illustrator_check_in_icon.png 以前にチェックアウトしたアセットをContent Hubにチェックインします。
+illustrator_sitecore破棄アイコン： illustrator_sitecore_discard_checkout.png チェックアウトしたアセットを破棄します。
+submit for approval icon: submit_for_approval_icon.png アセットを承認のために送信します（このアイコンが表示されていない場合、アセットはすでに承認のために送信されています）。
+チェックアウトタブ
+checkoutsタブには、InDesignにチェックアウトしたアセットが表示されます。
+
+indesign_sitecore_checked_out_lock.png: indesign_sitecore_checked_out_lock: indesign_sitecore_checked_out_lock.png
+
+ノート
+チェックアウトされたアセットはシステムにロックされているため、作業中は誰も修正することができません。
+アセットがこのタブに表示されるのは、ファイル形式がAdobe InDesignでサポートされている場合のみです：Adobe InDesignでサポートされているファイル形式を参照してください。
+Sitecore Content Hubからアセットを挿入する
+Sitecore Content HubのアセットをAdobe InDesignドキュメントに挿入するには、以下の手順に従います。
+
+このアイコン indesign place icon: indesign_sitecore_pending_approval-place_icon.pngをクリックして、アセットをInDesignドキュメントにドラッグします。
+
+ドキュメントをクリックして、アセットをドロップします。
+
+アセットはオブジェクトとしてAdobe InDesignドキュメントに含まれます。
+
+InDesignに組み込まれたオプションを使用して、必要に応じてオブジェクトを操作したり変形したりすることができます。
+詳細については、『Adobe InDesignユーザーガイド』を参照してください。
+InDesignドキュメント内のアセットオブジェクトは、Content Hub内の関連するパブリックリンクを使用します。
+
+Content Hubでアセットが変更された場合、InDesignでは[リンク]ウィンドウに警告が表示されて通知されます。
+
+問題が強調表示されたindesignリンク：indesign_sitecore_asset_link_issues.png
+
+アセットを更新するには、リンクをダブルクリックすると、InDesignでコンテンツハブに合わせてアセットが更新され、InDesignリンクウィンドウの警告が消えます。
+
+リンクが更新され、警告アイコンが削除されました: indesign_sitecore_asset_link_issues_updated_done.png
+
+Adobe InDesignドキュメントをSitecore Content Hubにチェックインする
+InDesignドキュメントが新しい場合は、最初に保存しておく必要があります。
+
+注意
+最初にInDesignドキュメントを保存すると、ファイル名を選択することができます。そうしないと、Content Hubは元のファイル名（例：untitled-x.indd）でチェックインします。
+
+Sitecore Content Hubのモーダルで。
+
+メニューのindesign sitecoreメニュー：indesign_sitecore_asset_check_in_menu.pngアイコンをクリックします。
+
+アクティブなドキュメントのチェックを選択します。
+
+メニューとチェックインオプションを表示しているindesign sitecore拡張機能： indesign_sitecore_asset_check_in.png
+
+最初にドキュメントを保存していない場合
+
+Content Hubは、保存してチェックインするかどうかを尋ねてきます。
+確認をクリックします。
+indesign_sitecore_checkin_confirm_save.png: indesign_sitecore_checkin_confirm_save.png
+
+ドキュメントに以前にチェックインしたバージョンがない場合。
+
+Content Hubは、新しいアセットとしてアップロードするかどうかを尋ねてきます。
+アップロードをクリックします。
+indesignドキュメントを新しいアセットとして保存することの確認：CreativeCloud_InDesign_NoAssetExistsForThisDoc.png
+
+チェックインしたAdobe InDesignドキュメントが、Content Hubインスタンスの[作成]ページにアセットとして表示されるようになりました。
+
+このページから、任意のアセットとしてドキュメントを提出してレビューを受けることができます。
+作成ページの詳細については、「作成」を参照してください。
+レビュー プロセスの詳細については、「レビュー」を参照してください。
+作成ページに表示されたチェック済みパッケージ: indesign_sitecore_checked_in_on_create_page.png
+
+ドキュメントに既にチェックイン済みのバージョンがある場合は、既存のアセットの新しいバージョンとして保存され、自動的にマスターバージョンとして設定されます（公開リンクは変わりません）。
+
+注意事項
+チェックアウト時には、ドキュメントはコンテンツハブにロックされているため、作業中は誰も変更を加えることができません。再度チェックアウトするとロックが解除されます。新しいバージョンのAdobe InDesign文書は新しいバージョンとしてアップロードされるため、レビュープロセスを経ることはありません。
+
+ローカルリンク
+InDesignドキュメントでローカルハードドライブの画像を使用した場合。
+
+Content Hubは、ローカル画像をアセットとしてアップロードするかどうかを尋ねてきます。
+
+はい」の場合は、「アップロード」をクリックします。
+
+InDesignコンテンツハブがローカルリンクを認識します。CreativeCloud_InDesign_LocalLinksRecognized.png
+
+子のアセットフィールド
+Adobe InDesignドキュメントに含まれるアセットは、Content Hubで確認できます。
+
+InDesignドキュメントのアセット詳細ページにアクセスします。
+
+右側の[システム]タブの下にある[子供]フィールドの下を探します。
+
+アセットが表示されている子供フィールドは、次のように含まれています： indesign_sitecore_checkin_children.png
+
+リンクされたアセットのページコンポーネント
+Content Hubでは、アセットの詳細ページにLinked Assetsページコンポーネントを追加することができます。
+
+リンクされたアセットのページコンポーネントには、InDesignドキュメントで使用されているアセットが表示されます。
+リンクされた各アセットには、クリックするだけでアクセスすることができます。
+注意事項
+これらの手順を実行できるのは、スーパーユーザーのみです。
+
+リンクされたアセットのページ コンポーネントを表示するには、以下の手順に従います。
+
+管理] > [ページ] > [アセットの詳細] に移動します。
+
+メイン ゾーン] の下で、[リンクされたアセット] コンポーネントを見つけます。
+
+ページのアセットの詳細を管理する リンクされたアセットコンポーネントを検索します。Manage-Pages_AssetDetails_LinkedAssetsComponent.png
+
+アクション コンテンツ ハブのアクション アイコン: actions_icon_in_collections_for_assets.png アイコンをクリックし、[設定] を選択します。
+
+ページのアセット詳細リンクされたアセットのコンポーネント設定を管理します。管理ページ_アセット詳細_リンクドアセットコンポーネント_設定.png
+
+表示の切り替えボタンを有効にします。
+
+管理ページのアセット詳細リンクされたアセットのコンポーネントが表示されます。Manage-pages_AssetDetails_LinkedAssetsComponent_Visible.png
+
+保存]をクリックします。
+
+Adobe InDesignパッケージをContent Hubにアップロードする
+InDesignパッケージをContent Hubにアップロードすると、ドキュメントに含まれるすべての要素をアップロードすることができます。ドキュメントだけでなく、必要なフォント、リンクされたグラフィック、テキストファイル、カスタマイズされたレポートを含むフォルダが作成されます。
+
+パッケージをContent Hubにアップロードするには
+
+Sitecore Content Hubモーダルで、メニューのindesign sitecoreメニュー：indesign_sitecore_asset_check_in_menu.pngアイコンをクリックします。
+パッケージのアップロードを選択します。
+
+パッケージをindesignからsitecore Content Hubにアップロード：indesign_sitecore_upload_package.png
+
+アップロードされたパッケージは、Content Hubインスタンスの作成ページに表示されます。
+
+アップロードされたindesignパッケージ: indesign_sitecore_uploaded_package.png
+
+このページから、パッケージを任意のアセットとしてレビューに提出することができます。
+作成ページの詳細については、作成を参照してください。
+レビュープロセスの詳細については、「レビュー」を参照してください。
+Content HubのAdobe InDesignパッケージをチェックアウトする
+Adobe InDesignパッケージをチェックアウトするには、indesignアセットのチェックアウトアイコン：indesign_sitecore_check_out_idd_asset_icon.pngアイコンをクリックします。
+
+sitecoreアセットのindesignパッケージのチェックアウト: indesign_sitecore_asset_indesign_package.png
+
+パッケージはInDesignで開きます。
+
+注意
+チェックアウト時には、パッケージはコンテンツハブにロックされているため、作業中は誰も変更を加えることができません。再度チェックインするとロックが解除されます。
+
+Adobe InDesignパッケージをコンテンツハブにチェックインする
+変更を行ったら、コンテンツハブにパッケージをチェックインすることができます。
+
+パッケージが新しい場合は、まず保存してください。
+
+注意事項
+最初にパッケージを保存すると、ファイル名を選択することができます。そうしないと、Content Hubは元のファイル名(例: untitled-x.zip)でチェックインします。
+
+Sitecore Content Hubのモーダルで。
+
+チェックインのアイコンをクリックします: indesign_sitecore_checked_out_idd_check_in_icon.pngアイコンをクリックします。
+
+indesign_sitecore_checked_out_check_in_icon.png icon: indesign_sitecore_checked_out_check_in.png
+
+最初にパッケージを保存していない場合
+
+Content Hubは、保存してチェックインするかどうかを尋ねてきます。
+確認をクリックします。
+チェックイン前にパッケージを保存する: indesign_sitecore_package_save_message.png
+
+パッケージはInDesignドキュメントとしてContent Hubにアップロードされます。
+
+indesign パッケージが indesign ドキュメントとしてチェックインされました: indesign_sitecore_package_now_idd_doc.png
+
+ノート
+Adobe InDesignパッケージは新しいバージョンとしてアップロードされるため、レビュープロセスを経ることはありません。
+
+アセットをパッケージとして残したい場合は、Sitecore Content Hubのモーダルメニューからパッケージのアップロードオプションを選択します。
+
+sitecoreコンテンツハブのモーダルメニューのアップロードパッケージオプション: indesign_sitecore_package_upload_package.png
+
+パッケージは新しいバージョンとしてアップロードされ、自動的にマスターバージョンとして設定されます。
+
+パッケージは新しいバージョンとしてサイトコアのコンテンツにアップロードされます。
+
+チェックイン/アップロードが完了したら、Adobe InDesignのドキュメント/パッケージを閉じます。
+

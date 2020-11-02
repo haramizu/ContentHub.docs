@@ -78,6 +78,50 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="ダウンロードインストール認証">ダウンロード、インストール、認証</h1>
 
+<p>ここでは、Sitecore ConnectTM for Creative CloudTMのダウンロード、インストール、認証方法について説明します。</p>
+<p>パッケージの入手
+Sitecore Connect for Creative CloudTMパッケージは、WindowsおよびMac OS Xでご利用いただけます。パッケージとライセンスキーをご希望の方は、Sitecore Creative Cloud Connectorチームまでお問い合わせください。</p>
+<p>注意事項
+メールには必ずクライアント名とDAMライセンスの詳細を記載してください。</p>
+<p>ダウンロードとインストール
+以下の手順で、パッケージをダウンロードしてインストールする方法を説明します。</p>
+<p>パッケージをハードドライブにダウンロードしてインストールします。</p>
+<p>Adobe Illustrator、Photoshop、またはInDesignを開きます。Sitecore Connect for Creative CloudTMが拡張機能として利用可能になります。</p>
+<p>ウィンドウメニューの拡張機能とsitecoreコンテンツハブがハイライトされたphotoshop：photoshop_sitecore_extension_highlighted.png</p>
+<p>ライセンスの有効化
+次の手順では、Sitecore ConnectTM for Creative CloudTM 拡張機能を使用するためのライセンスを有効にする方法を説明します。</p>
+<p>Adobe InDesignを開きます。</p>
+<p>Sitecore Content Hubメニューをクリックし、ライセンス認証をクリックします。</p>
+<p>ライセンスを有効化します。CreativeCloudConnect_InDesign_ActivateLicense.png</p>
+<p>ライセンスキーを入力し、[OK]をクリックします。</p>
+<p>ライセンスキーを入力します。CreativeCloudConnect_InDesign_ActivateLicense_EnterKey.png</p>
+<p>ノート
+Adobe InDesign、Illustrator、Photoshopのライセンスが有効になりました。</p>
+<p>認証
+Sitecore Connect for Creative CloudTM 拡張機能が正しく動作するようにするには、以下の手順を実行する必要があります。</p>
+<p>注意事項
+これらの手順を実行できるのは、スーパーユーザーのみです。</p>
+<p>Sitecore Content Hub インスタンス上で、以下の手順を実行します。</p>
+<p>管理 &gt; 設定 &gt; 認証に移動します。</p>
+<p>Content_Hub_Manage_Settings_Authenticationに進みます。Manage-Settings-Authentication.png</p>
+<p>以下のJSONプロパティがまだ存在しない場合は貼り付けます。</p>
+<p>&quot;EnableAutologin&quot;: true。
+&quot;SameSiteCompatibility&quot;。{
+&quot;is_enabled&quot;: true.
+&quot;user_agent_patterns&quot;.
+&quot;(Chrome/5|Chrome/6) &quot;となっています。
+&quot;(CPU iPhone OS 12|iPad; CPU OS 12) &quot;となっています。
+&quot;^(?=.<em>.Macintosh; Intel Mac OS X 10_14\b)(?=.</em>.<em>\bVersion/\b)(?=.</em>\bSafarib).*$&quot;
+]
+}
+認証の設定で、認証_modeをPassiveに設定していることを確認してください。</p>
+<p>SAVEをクリックします。</p>
+<p>Manage &gt; OAuth Clientsに移動します。</p>
+<p>Content_Hub_Manage_OAuthClientsに移動します。Manage_OAuthClients_Window.png</p>
+<p>Content_Hub_Edit_Icon: pencil_icon.pngアイコンをクリックして、SiliconConnectorを編集します。</p>
+<p>リダイレクトリンクを <a href="https://5tlkhjwj6g.execute-api.us-west-1.amazonaws.com/Prod/callback/sitecore">https://5tlkhjwj6g.execute-api.us-west-1.amazonaws.com/Prod/callback/sitecore</a> に変更します。</p>
+<p>Content_Hub_Manage_OAuthClients_SiliconConnectorに変更します。Manage_OAuthClients_SiliconConnector_ChangeRedirectLink.png</p>
+<p>SAVEをクリックします。</p>
 </article>
           </div>
           <div class="contribution-panel mobile-hide">

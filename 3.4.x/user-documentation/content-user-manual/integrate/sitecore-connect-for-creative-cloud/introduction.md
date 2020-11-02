@@ -1,1 +1,21 @@
 # Sitecore Connect™ for Creative Cloud™
+
+Sitecore Connect for Creative CloudTMは、Sitecore DAMとAdobe Creative Cloudを接続するための強力な拡張機能です。Adobe InDesignからSitecore DAMに保存されているアセットに直接リンクできるだけでなく、Adobe InDesign、Photoshop、IllustratorでSitecore DAMをナビゲートして使用することができます。
+
+photoshopの例：photoshop_example_sitecore_dam_open.png
+
+Sitecore Connect for Creative CloudTM以前のAdobe InDesignでは、ファイルシステムまたは共有ドライブへのアセットリンクしか作成できませんでした。この制限はなくなりました。
+
+indesign_sitecoreの例: indesign_sitecore_example.png
+
+Sitecore Connect for Creative CloudTMをインストールしたら、クラウド上のアセットをInDesignドキュメントにドラッグ＆ドロップすると、ダイレクトリンクが自動的に作成されます。リンク先のアセットがクラウドまたはSitecore DAMで更新されると、即座に通知されます。マウスをクリックするだけで、アセットは最新バージョンに更新されます。
+
+PhotoshopやIllustratorでは、Sitecore Content Hubパネルに簡単に移動できます。アセットの編集が終わったら、更新されたバージョンをSitecore DAMにアップロードしておけば、他の誰もが変更内容を確認することができます。
+
+ダムにチェックインするオプション： illustrator_opening_checkeding_into_dam.png
+
+も参照してください。
+ダウンロード、インストール、認証
+Adobe InDesign
+アドビイラストレーター
+アドビフォトショップ

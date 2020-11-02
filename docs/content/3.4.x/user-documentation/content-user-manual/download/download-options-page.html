@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>&#27010;&#35201; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; </title>
+    <title>&#12458;&#12503;&#12471;&#12519;&#12531;&#12398;&#12480;&#12454;&#12531;&#12525;&#12540;&#12489; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="&#27010;&#35201; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; ">
+    <meta name="title" content="&#12458;&#12503;&#12471;&#12519;&#12531;&#12398;&#12480;&#12454;&#12531;&#12525;&#12540;&#12489; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; ">
     <meta name="generator" content="docfx 2.56.3.0">
     
     <link rel="shortcut icon" href="../../../images/favicon.ico">
@@ -76,8 +76,263 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="概要">概要</h1>
+<h1 id="オプションのダウンロード">オプションのダウンロード</h1>
 
+<p>ダウンロード オプション ページでは、ユーザーは、アセットのレンディションをダウンロードする前に、選択したアセット ファイルにさまざまな変換を適用することができます。</p>
+<p>ユーザーは、アセットを選択してから、ダウンロード ダウンロード アイコン：download_button.png 操作を選択すると、ダウンロード オプション ページに移動し、アセット操作ツールバーに表示されます。</p>
+<p>ダウンロード アイコンがメニューに表示されます： download_button_shown.png</p>
+<p>ダウンロードオプションページには、アセットメディアによってグループ化された選択されたアセットが表示されます。このグループ化はデフォルトで実行されます。</p>
+<p>ダウンロード操作： download_options_page.png</p>
+<p>アセットメディア］ドロップダウンメニューから、選択したアセットのメディアに基づいたフィルタが表示されます。この例では、4種類のアセットメディアが表示されています。</p>
+<p>画像
+ベクター
+書類の提出先
+動画
+アセットメディアのドロップダウンメニュー：download_options_asset_media.png</p>
+<p>ドロップダウンメニューからアセットメディアタイプを選択すると、選択されたアセットがフィルタリングされ、追加レンダリングオプションも同様にフィルタリングされます。</p>
+<p>結果セットのフィルタリング対象 : asset_media_image_selected.png</p>
+<p>ファイルの種類
+各アセットメディアタイプには、アセットメディアグループに含まれているファイルタイプを表示するクエスチョンマークアイコン（question_mark_icon.png）があります。次の例では、Image Assetメディアグループは、bmp、gif、jpeg、jpg、tga、raw、srw、raf、orf、nerf、cr2、erf、dng、webp、dr、jfif、jp2、bpg、dpx、crwのファイル拡張子に対応しています。</p>
+<p>表示されているアセットメディアのグループ化: asset_media_type.png</p>
+<p>一方、Asset media type of Documents は以下のファイル拡張子を扱います：docx, xlsx, pptx, rtf, txt, doc, ppt, xls, pdf, eml, and msg。</p>
+<p>documents asset: asset_media_type_documents.png</p>
+<p>また、Asset media type of Videosは、次のファイル拡張子を扱います：avi, flv, mov, mpeg, wmv, mp4, webm, m4v。</p>
+<p>video asset media: asset_media_type_video.png</p>
+<p>ベクターのアセットメディアタイプは、次のファイル拡張子を扱います: ai, eps, psb, tif, tiff, png, svg。</p>
+<p>ベクターアセットメディアタイプ: vector_asset_media_type.png</p>
+<p>アセットメディアタイプ 対応ファイルタイプ
+ドキュメントのメディアタイプはdoc、docx、eml、msg、pdf、ppt、pptx、rtf、txtです。
+画像メディアタイプ bmp, bpg, cr2, crw, dng, dpx, dr, erf, gif, jfif, jp2, jpeg, jpg, nef, orf, raf, raw, srw, tga
+ベクターメディアの種類 ai, eps, png, psb, svg, tif, tiff
+動画メディアの種類 avi、flv、mp4、m4v、mov、mpeg、webm、wmv
+ダウンロード名フィールドでは、ユーザーがダウンロードにカスタム名を指定することができます。</p>
+<p>ダウンロード名フィールド: download_name.png</p>
+<p>識別可能な名前を指定することで、特定のダウンロードを簡単に見つけることができます。名前を指定しない場合、デフォルトではファイル名はDownload {Mmm dd}となります。</p>
+<p>ダウンロードページ： downloads_page_showing_download.png</p>
+<p>選択したアセットの追加レンディションオプションには、アセットメディアタイプのみが表示されます。</p>
+<p>複数のアセットメディアタイプが表示される 単一のアセットメディアタイプが表示される
+表示されるメディアの種類: asset_media_type_hide_irrelevant.png 非表示のメディアの種類: asset_media_type_hide_irrelevant_hidden.png
+Additional renditionオプションで表示される各Asset media type groupingのアセット数のカウント表示があります。</p>
+<p>に表示されている各アセットメディアタイプグループのアセット数のカウント表示があります：asset_media_type_count_displayed.png</p>
+<p>アセットメディアタイプごとにカウントインジケーターが表示されます。</p>
+<p>アセットメディアタイプcount: asset_media_type_count.png</p>
+<p>追加のレンディションオプション
+デフォルトでは、すべてのアセットは元の形式でダウンロードされます。のメディアタイプについては</p>
+<p>画像
+ベクター
+書類の提出先
+動画
+ユーザーは特定のレンディションを選択することができます。</p>
+<p>オリジナル。
+メディア。
+メタデータ。
+カスタム。
+ユーザーは複数のレンディションを選択できます。</p>
+<p>ユーザーは特定のレンディションを選択できます：select_specific_renditions.png</p>
+<p>メタデータレンダリング
+metadata renditionを選択すると、JSONファイルを含むZIPパッケージを出力します。</p>
+<p>metadata rendition: metadata_rendition.png</p>
+<p>JSONファイルには、選択したアセットに添付されているすべてのメタデータが含まれています。</p>
+<p>{
+&quot;ExifTool:ExifToolVersion&quot;. &quot;10.80&quot;,
+&quot;File:FileName&quot; &quot;milo-mcdowell-2198.jpg&quot;,
+&quot;File:FileSize&quot; &quot;246929&quot;,
+&quot;File:FileModifyDate&quot; &quot;2020:06:02 20:51:28+00:00&quot;,
+&quot;File:FileAccessDate&quot; &quot;2020:06:02 20:51:28+00:00&quot;,
+&quot;File:FileInodeChangeDate&quot;. &quot;2020:06:02 20:51:28+00:00&quot;,
+&quot;File:FilePermissions&quot; &quot;644&quot;,
+&quot;File:FileType&quot; &quot;JPEG &quot;です。
+&quot;File:FileTypeExtension&quot; &quot;JPG &quot;です。
+&quot;File:MIMEType&quot; &quot;image/jpeg&quot;.
+&quot;File:ImageWidth&quot; &quot;1920&quot;,
+&quot;File:ImageHeight&quot; &quot;1280&quot;,
+&quot;File:EncodingProcess&quot; &quot;0&quot;,
+&quot;File:BitsPerSample&quot;. &quot;8&quot;,
+&quot;File:ColorComponents&quot; &quot;3&quot;,
+&quot;File:YCbCrSubSampling&quot;. &quot;2 2&quot;,
+&quot;JFIF:JFIFVersion&quot; &quot;1 1&quot;,
+&quot;JFIF:ResolutionUnit&quot; &quot;1&quot;,
+&quot;JFIF:XResolution&quot; &quot;72&quot;,
+&quot;JFIF:YResolution&quot; &quot;72&quot;,
+&quot;ICC_Profile:ProfileCMMType&quot; &quot;Lino&quot;.
+&quot;ICC_Profile:ProfileVersion&quot;. &quot;528&quot;,
+&quot;ICC_Profile:ProfileClass&quot; &quot;mntr&quot;.
+&quot;ICC_Profile:ColorSpaceData&quot;. &quot;RGB &quot;.
+&quot;ICC_Profile:ProfileConnectionSpace&quot;. &quot;XYZ &quot;.
+&quot;ICC_Profile:ProfileDateTime&quot;. &quot;1998:02:09 06:49:00&quot;,
+&quot;ICC_Profile:ProfileFileSignature&quot;. &quot;acsp&quot;: &quot;ICC_Profile:ProfileFileSignature&quot;: &quot;acsp
+&quot;ICC_Profile:PrimaryPlatform&quot;. &quot;MSFT&quot;: &quot;MSFT&quot; です。
+&quot;ICC_Profile:CMMFlags&quot;. &quot;0&quot;,
+&quot;ICC_Profile:DeviceManufacturer&quot;. &quot;IEC &quot;.
+&quot;ICC_Profile:DeviceModel&quot;. &quot;sRGB&quot;.
+&quot;ICC_Profile:DeviceAttributes&quot;. &quot;0 0&quot;,
+&quot;ICC_Profile:RenderingIntent&quot;. &quot;0&quot;,
+&quot;ICC_Profile:ConnectionSpaceIlluminant&quot;。&quot;0.9642 1 0.82491&quot;,
+&quot;ICC_Profile:ProfileCreator&quot;。&quot;HP &quot;.
+&quot;ICC_Profile:ProfileID&quot;. &quot;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0&quot;,
+&quot;ICC_Profile:ProfileCopyright&quot; &quot;Copyright (c) 1998 Hewlett-Packard Company&quot;.
+&quot;ICC_Profile:ProfileDescription&quot;. &quot;sRGB IEC61966-2.1&quot;.
+&quot;ICC_Profile:MediaWhitePoint&quot;. &quot;0.95045 1 1.08905&quot;,
+&quot;ICC_Profile:MediaBlackPoint&quot;. &quot;0 0 0&quot;,
+&quot;ICC_Profile:RedMatrixColumn&quot;. &quot;0.43607 0.22249 0.01392&quot;,
+&quot;ICC_Profile:GreenMatrixColumn&quot;. &quot;0.38515 0.71687 0.09708&quot;,
+&quot;ICC_Profile:BlueMatrixColumn&quot;. &quot;0.14307 0.06061 0.7141&quot;,
+&quot;ICC_Profile:DeviceMfgDesc&quot;。&quot;IEC http://www.iec.ch&quot;.
+&quot;ICC_Profile:DeviceModelDesc&quot; &quot;IEC 61966-2.1 デフォルトRGB色空間 - sRGB&quot;
+&quot;ICC_Profile:ViewingCondDesc&quot;. &quot;IEC61966-2.1における参照表示条件&quot;
+&quot;ICC_Profile:ViewingCondIlluminant&quot;. &quot;19.6445 20.3718 16.8089&quot;,
+&quot;ICC_Profile:ViewingCondSurround&quot;. &quot;3.92889 4.07439 3.36179&quot;,
+&quot;ICC_Profile:ViewingCondIlluminantType&quot;. &quot;1&quot;,
+&quot;ICC_Profile:Luminance&quot;. &quot;76.03647 80 87.12462&quot;,
+&quot;ICC_Profile:MeasurementObserver&quot;. &quot;1&quot;,
+&quot;ICC_Profile:MeasurementBacking&quot;. &quot;0 0 0&quot;,
+&quot;ICC_Profile:MeasurementGeometry&quot;. &quot;0&quot;,
+&quot;ICC_Profile:MeasurementFlare&quot;. &quot;0.00999&quot;,
+&quot;ICC_Profile:MeasurementIlluminant&quot;. &quot;2&quot;,
+&quot;ICC_Profile:Technology&quot; &quot;CRT &quot;.
+&quot;ICC_Profile:RedTRC&quot;. &quot;(2060バイトのバイナリデータ、-bオプションを使用して抽出)&quot;
+&quot;ICC_Profile:GreenTRC&quot;. &quot;(2060バイトのバイナリデータ、-bオプションを使用して抽出)&quot;
+&quot;ICC_Profile:BlueTRC&quot;. &quot;(2060バイトのバイナリデータ、-bオプションを使用して抽出)&quot;
+&quot;Composite:ImageSize&quot; &quot;1920x1280&quot;,
+&quot;コンポジット:メガピクセル&quot; &quot;2.4576&quot;
+}
+カスタム・レンディション
+カスタムレンディションはアセットメディアの種類に特化したもので、ユーザーがアセットをダウンロードするためのレンディションをカスタマイズすることができます。</p>
+<p>カスタムレンディション: custom_rendition.png</p>
+<p>画像とベクターのレンディションには、以下のプロパティが含まれています。</p>
+<p>フォーマット: フォーマットは、ダウンロードするファイル形式を指定します。</p>
+<p>カスタムレンディションのファイル形式：custom_rendition_file.png</p>
+<p>カラープロファイル: 画像やベクターのカスタムダウンロードを実行する際には、2つのカラープロファイルが用意されています。</p>
+<p>sRGB</p>
+<p>シーエムワイケー</p>
+<p>Sitecore Content Hubは、アプリケーション内で新しいカラープロファイルをアップロードして有効にする機能も提供しています。スーパーユーザーは、[ファイルのアップロード]ボタンをクリックしてカラープロファイルをアップロードすることで、カラープロファイル管理ページ(管理メニューの下)にカラープロファイルを追加することができます。受け入れられるカラープロファイルのファイルタイプは、.icc と .icm です。</p>
+<p>カラープロファイル：custom_rendition_color_profile.png</p>
+<p>カラープロファイルを選択するオプションは、画像形式のアセット、または画像形式でダウンロードされたアセットでのみ利用可能です。</p>
+<p>トリミング: トリミングには3つのオプションがあります。</p>
+<p>トリミングしない</p>
+<p>中央にクロップ</p>
+<p>スマートクロップ</p>
+<p>トリミングオプション：custom_rendition_crop.png</p>
+<p>トリミングオプションは、ラスター画像形式と非専有のベクター画像形式でのみ利用可能です。ただし、幅または高さを変更することで、ダウンロードしたアセットの寸法を変更することは可能です。アスペクト比はロックされます。</p>
+<p>ベクタークロップオプション: custom_rendition_vector.png</p>
+<p>トリミングしないでください オプションはリサイズ可能なレンダリングを提供しますが、アスペクト比はロックされています: 高さが変更されると、対応する変更が幅に行われ、その逆も同様です。以下の手順では、切り抜き禁止オプションを利用するために必要な手順を説明します。</p>
+<p>Crop プロパティでは、Don't crop を選択します。</p>
+<p>寸法プロパティでは、[リサイズしない] か [幅と高さをカスタム] を選択します。</p>
+<p>カスタム幅と高さを選択すると、幅または高さを変更して、ダウンロードしたアセットのサイズを変更できます。一方の寸法が変更されると、他方の寸法はロックされた比率に合わせて調整されます。</p>
+<p>幅と高さの測定値を変更することができます。測定値の選択は</p>
+<p>ピクセル (デフォルト)</p>
+<p>インチ</p>
+<p>センチ</p>
+<p>ミリメートル</p>
+<p>寸法を使用してリサイズをクロップしない: custom_download_options.png</p>
+<p>以下の表は、2つの出力寸法の違いを示しています。</p>
+<p>寸法 オリジナルレンダリング
+オリジナル - 出力寸法 6000 x 4000 px オリジナルアセット
+トリミングしないでください - 出力寸法 3000 x 2000 px トリミングしないでください 公開リンク
+中央にクロップ はアスペクト比をロック解除した状態でサイズを変更できるレンディションを提供します。このオプションは、クロップボックスを画像の中央に配置します。</p>
+<p>中心にクロップを選択します。
+幅と高さはカスタム幅とカスタム高さ、またはプリセット値のいずれかを選択します。
+中心にクロップするオプション：custom_download__crop_to_center_options.png</p>
+<p>ディメンショングループ値
+Facebook Facebookカバー写真、Facebookイベント画像、Facebookハイライト画像、Facebook共有画像。
+Instagram インスタグラム インスタグラムフォト、インスタグラムストーリーズ。
+LinkedIn LinkedInバナー画像、LinkedIn企業カバー画像、LinkedIn企業写真、LinkedInヒーロー写真、LinkedIn個人背景画像、LinkedIn共有画像、LinkedIn共有リンク。
+Twitter Twitterヘッダーフォト、Twitterインストリームフォト。
+YouTube YouTubeチャンネルカバーアート、YouTubeチャンネルプロフィール画像。
+|寸法｜オリジナルレンダリング｜オリジナルレンダリング｜オリジナルレンダリング｜オリジナルレンダリング｜オリジナルレンダリング｜オリジナルレンダリング｜オリジナルレンダリング｜オリジナルレンダリング｜オリジナルレンダリング｜オリジナルレンダリング｜オリジナルレンダリング
+|------|--------|
+|<strong>オリジナル</strong> - 出力寸法 3088 x 4624 px|<img src="https://mss-p-003-delivery.stylelabs.cloud/api/public/content/6AaA3oRdFwy7Dhj7Pr3E1nFOw?v=c59c85cf" alt="オリジナルアセット">|!
+|<strong>Crop to center</strong> - 出力寸法 1000 x 2000 px|<img src="https://mss-p-003-delivery.stylelabs.cloud/api/public/content/gNaYoYqEU9YC9xDxE2ujO6uYc?v=adb9b867" alt="crop to center public link">|!
+スマートクロップは、画像の内容をインテリジェントに検査し、画像の最も重要な部分に自動的に焦点を当ててクロップする機能です。スマートクロップは、画像のエッジ、肌色、飽和色の領域を自動的に検索し、最も重要な特徴の上にクロップボックスを配置しようとします。幅と高さの値は、クロップされた領域の寸法を指定します。</p>
+<p>スマートクロップ: custom_download__smart_crop_options.png</p>
+<p>次の表は、スマートクロップオプションを使用した場合の出力サンプルを示しています。</p>
+<p>寸法 オリジナルレンダリング
+オリジナル - 出力寸法 5000 x 7502 px オリジナルアセット
+スマートクロップ - 出力寸法 1000 x 600 px スマートクロップ公開リンク
+Resolution (DPI): このプロパティはレンダリングの解像度を指定します。DPI (dots per inch) はダウンロードされたアセットの出力を参照します。</p>
+<p>Filename ： このプロパティは、ダウンロードしたアセットのファイル名を指定します。アセットプロパティを変数として使用するには、中括弧の間にプロパティ名を記述します。</p>
+<p>アセット・プロパティを使用したファイル名： filename_asset_property.png</p>
+<p>そして、このファイル名は、ダウンロードしたzipファイルの中のファイルに割り当てられます。</p>
+<p>ファイル名 割り当てられたアセットプロパティ： filename_filenamed_asset_property.png</p>
+<p>ファイル名が複数のダウンロードされたアセットに使用されている場合は、ファイル名の最後に数字が含まれます。この例では、ファイル名は test で、3 つのアセットに使用されています。</p>
+<p>複数ダウンロードした場合、ファイル名の最後に番号が表示されます：multiple_downloads_with_filename_including_number.png</p>
+<p>変換
+以下の処理オプションを定義することができます。</p>
+<p>画像プリセット。</p>
+<p>オリジナル。
+媒体。
+メタデータ
+カスタム。
+sRGB/CMYK/カスタムカラープロファイル。
+72/150/300 DPI。
+JPG/ PNG/ TIF.
+比例的にフレームを埋める/比例的にフレームにフィットします。
+ベクタープリセット。</p>
+<p>オリジナル。
+媒体。
+その他の実装固有のレンディション。レンディションは、メディア処理（［管理］の下）で設定できます。レンディションリンクは、ここに表示するには、使用目的の領域でオプションUIを選択している必要があります。
+カスタム。
+sRGB/CMYK/カスタムカラープロファイル。
+72/150/300 DPI。
+JPG/ PDF/ PNG/ TIF。
+フレームを比例して塗りつぶす/フレームを比例してフィットします。
+ドキュメントプリセット。</p>
+<p>オリジナル。
+媒体。
+その他の実装固有のレンディション。レンディションは、[メディア処理]（[管理] の下）で設定できます。レンディション リンクは、ここに表示するには、使用目的の領域でオプション UI を選択している必要があります。
+カスタム
+Mp3
+オーディオプリセット。</p>
+<p>オリジナル。
+その他の実装固有のレンディション。レンディションは、メディア処理（［管理］の下）で設定することができます。レンディションリンクは、ここに表示するには、使用目的の領域でUIオプションを選択している必要があります。
+カスタム
+Mp3。
+ビデオプリセット。</p>
+<p>オリジナル。
+その他の実装固有のレンディション。レンディションは、[メディア処理]（[管理] の下）で設定できます。ここに表示するには、レンディション リンクの使用目的領域で UI オプションが選択されている必要があります。
+カスタム
+Mp4.
+WebM.
+個別のダウンロードオプション
+個別のダウンロード・オプションは、個別のダウンロード・オプション・アイコンから利用できます。44_Individual_download_options_icon.pngiconで利用でき、このアイコンを使用して、ユーザーは個々のアセットのダウンロードオプションをカスタマイズすることができます。</p>
+<p>個別ダウンロードオプション：44_Individual_download_options.png</p>
+<p>ドロップダウンメニューから利用可能なレンディションを選択することができます。</p>
+<p>オリジナル</p>
+<p>中型</p>
+<p>メタデータ</p>
+<p>カスタム</p>
+<p>マルチセレクトオプションですのでご注意ください。</p>
+<p>ドロップダウンメニューからのレンディション選択：44_Individual_download_options_modal.png</p>
+<p>ダウンロードオプションを選択した後、保存ボタン： individual_download_options_save_button_cropped.pngボタンをクリックしてください。</p>
+<p>保存ボタンをクリックして選択したダウンロードオプション: individual_download_options_save_button.png</p>
+<p>ダウンロードオプションのページで、次のボタン：download_options_next_button.pngボタンをクリックすると、ダウンロードの順番が作成されます。</p>
+<p>次のボタン ダウンロードオプション: download_options_next_button_shown.png</p>
+<p>ダウンロード注文を確認すると、ユーザーはダウンロードジョブが作成されたダウンロードページに自動的にリダイレクトされます。ダウンロード注文が完了すると、ダウンロードリンクがアクティブになります。ステータスが「準備完了」に変更され、ユーザーは要求されたファイルを含むパッケージをダウンロードすることができます。ダウンロード注文は、デフォルトでは7日間利用可能なままです。</p>
+<p>ダウンロードページ： downloads_page_showing_download.png</p>
+<p>ダウンロードオプションのセキュリティ
+ダウンロードした ZIP ファイルに含まれる各アセットのレンディションのパーミッション チェックがあります。</p>
+<p>この例では、demo_user は Images と Vectors の両方のアセットのオリジナルとミディアムのレンディションをダウンロードしたいと考えています。</p>
+<p>demo_user_download_preview.png: demo_user_download_preview.png</p>
+<p>しかし、demo_userは必要なDownloadPreview権限を持っていません。ユーザーは、個別のダウンロード オプションを使用して、どのレンディションをダウンロードする権限を持っているかを表示することができます。この例では、demo_user は DownloadPreview パーミッションによって管理されている (または保護されている) Medium レンディションが利用できないことを確認しています。</p>
+<p>Individual download options missing preview: individual_download_options_missing_preview.png</p>
+<p>ダウンロードした ZIP パッケージを開くと、パーミッションが不十分なため、期待されていた 8 つのファイル（アセットごとに 2 つのレンディション）ではなく、5 つのファイルしか含まれていませんでした。アセットの他に、パッケージには.txt形式の追加レポートファイルが含まれています。</p>
+<p>ダウンロードしたZIPには、以下のZIPファイルが含まれています：demo_download_txt_included.png</p>
+<p>レポート ファイルを開くと、許可が不十分なためにダウンロードに失敗したアセット レンディションを確認することができます。</p>
+<p>以下のアセット・レンディションは、許可が不十分なためダウンロードに失敗しました。</p>
+<p>+----------+---------------------------+------------------+
+| アセットID｜アセット名｜レンディション｜アセットID｜アセットID｜アセット名｜レンディション｜アセットID｜アセットID｜アセット名
++----------+---------------------------+------------------+
+| 28634｜ワッフルとバックのフィズ｜プレビュー_ダウンロード
+| 28966｜28966｜実りあるロゴ（黒）｜プレビュー_ダウンロード
+| 28631｜青空にオレンジの木｜プレビュー_ダウンロード
+| 28816｜実りあるプレゼンテーション｜プレビューダウンロード
++----------+---------------------------+------------------+
+以下の表は、各レンディションと必要な許可をマップしたものです。</p>
+<p>レンディションの許可
+オリジナルダウンロードオリジナル
+中型ダウンロードプレビュー
+メタデータ順序
+カスタムダウンロードオリジナル</p>
 </article>
           </div>
           <div class="contribution-panel mobile-hide">

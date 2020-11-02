@@ -1,1 +1,193 @@
 # Adobe Illustrator
+
+Adobe Illustratorは、ベクターグラフィックエディタとデザインプログラムです。それは、Adobe Photoshopのコンパニオン製品です。Photoshopは主にデジタル写真の操作とコンピュータイラストレーションのフォトリアリスティックなスタイルに向けられていますが、Illustratorはデザインの組版とロゴグラフィックの分野で結果を提供しています。
+
+アドビイラストレーターの例： adobe_illustrator_example.png
+
+Sitecore Connect for Creative CloudTMパッケージをダウンロードしてインストールすると、Sitecore Content Hub拡張機能が利用可能になります。ダウンロードとインストールの詳細については、「ダウンロード、インストール、認証」を参照してください。
+
+Sitecore Content Hub 拡張機能
+拡張機能を有効にするには
+
+Adobe Illustratorを開きます。
+ウィンドウ］メニューをクリックします。
+拡張機能] を選択し、[Sitecore Content Hub] を選択します。
+
+sitecoreコンテンツハブ拡張機能: illustrator_extensions_sitecore.png
+
+Sitecore Content Hub モーダルが開いたら、Content HubのURLを入力して、Loginをクリックします。
+
+illustrator_extensions_sitecore_login.png
+
+デフォルトのブラウザで新しいログインウィンドウが開きます。Sitecore Content Hub インスタンスにまだログインしていない場合は、今すぐログインしてください。
+
+sitecoreインスタンスのログイン： illustrator_sitecore_instance_login.png
+
+ノート
+すでに Sitecore Content Hub インスタンスにログインしている場合は、直接 Authorization ページに移動します（下記参照）。
+
+ログイン後、GrantをクリックしてContent Hubへのアクセスを許可します。
+
+シリコンコネクタの認証ページ：silicon_connector.png
+
+認可が完了するとこのようなメッセージが表示されます。
+
+sitecoreコンテンツハブの認可ページ: authorization_process_complete.png
+
+Adobe Illustratorに戻ると、AssetsタブでSitecore Content Hubモーダルが開きます。
+
+アセットタブが表示されているイラストレーター： illustrator_sitecore_frame_opened.png
+
+Sitecore Content Hub モーダル
+Sitecore Content Hub モーダルには4つのタブがあります。
+
+アセットタブ
+ASSETSタブには、Sitecore DAMで承認されたアセットが表示されます。このタブには以下の機能があります。
+
+全文検索
+アセットタイプとアセットメディアのファセット検索（データがある場合のみファセットが表示されますのでご注意ください
+ページ数
+1ページあたりに表示されるアセット数
+作成された日付と修正された日付のソートを、ソートの方向を逆にするオプションで行うことができます。
+
+アセットタブを表示するIllustrator_sitecoreコンテンツハブモーダル: illustrator_sitecore_modal_assets_tab.png
+
+ASSETS]タブでは、各アセットのサムネイルに以下のアイコンが表示されます。
+
+illustrator_sitecore_place_icon.png illustrator_sitecore_place_icon.png Illustratorドキュメントにアセットを配置します。
+illustrator siteecoreチェックインアイコン： illustrator_sitecore_checkin_icon.png アセットをIllustratorにチェックアウトします（アセットは新しいIllustratorドキュメントで開きます）。
+illustrator siteecoreチェックインアイコン： illustrator_check_in_icon.png 以前にチェックアウトしたアセットをContent Hubにチェックインします。
+illustrator siteecore破棄アイコン： illustrator_sitecore_discard_checkout.png チェックアウトしたアセットを破棄します。
+アセットをクリックしてプレビューを見ることもできます。プレビューは新しいウィンドウで開きます。
+
+sitecoreコンテンツハブモーダルアセットプレビュー： illustrator_sitecore_asset_preview.png
+
+ジョブタブ
+ジョブとは、チームや部署が独立して特定のコンテンツを巡って共同作業を行うための単一のスペースのことです。ジョブの詳細については、ジョブを参照してください。
+
+JOBSタブには、ログインしたユーザーが割り当てられているすべてのジョブが表示されます。
+
+illustrator_sitecore_modal_jobs_tab.png
+
+JOBS タブからは、以下のことができます。
+
+ジョブに含まれるアセットをIllustratorドキュメントで使用します。
+アセットをチェックしてみましょう。
+
+illustrator jobsタブでアセットを表示しています: illustrator_sitecore_modal_jobs_tab_assets.png
+
+ノート
+このタブからジョブを開いたり、完了したりすることはできません。
+
+承認待ちタブ
+PENDING APPROVAL] タブには、以下のアセットが表示されます。
+
+作成されたが承認のためにまだ提出されていない：これらのアセットには「新規」ラベルが付いています。
+承認申請中：これらのアセットには「IN REVIEW」ラベルが付いています。
+
+Illustratorのサイトコアモーダルの承認保留タブ： illustrator_sitecore_modal_jobs_tab_pending_approval.png
+
+承認保留中] タブでは、各アセットのサムネイルに以下のアイコンが表示されます。
+
+illustrator_sitecore_place_icon.png アセットをIllustratorドキュメントに配置します。
+illustrator siteecoreチェックインアイコン： illustrator_sitecore_checkin_icon.png アセットをIllustratorにチェックアウトします（アセットは新しいIllustratorドキュメントで開きます）。
+illustrator siteecoreチェックインアイコン： illustrator_check_in_icon.png 以前にチェックアウトしたアセットをContent Hubにチェックインします。
+illustrator siteecore破棄アイコン： illustrator_sitecore_discard_checkout.png チェックアウトしたアセットを破棄します。
+submit for approval icon: submit_for_approval_icon.png アセットを承認のために送信します（このアイコンが表示されていない場合、アセットはすでに承認のために送信されています）。
+チェックアウトタブ
+checkoutsタブには、Illustratorにチェックアウトしたアセットが表示されます。
+
+illustratorのサイトコアモーダルのチェックアウトタブ： illustrator_sitecore_modal_checkouts_tab.png
+
+ノート
+チェックアウトされたアセットはシステムにロックされているので、作業中は誰も修正することができません。
+アセットは、Adobe Illustratorでサポートされているファイル形式の場合のみ、このタブに表示されます：Adobe Illustratorでサポートされているファイル形式を参照してください。
+Sitecore Content Hubからアセットを挿入する
+Sitecore Content HubのアセットをAdobe Illustratorドキュメントに挿入するには、以下の手順に従います。
+
+配置アイコンをクリックします。イラストレーターのsitecore配置アセットアイコン： illustrator_sitecore_place_asset_icon.png
+
+アセットはダウンロードされ、Illustratorドキュメントに挿入されます。
+
+アセットはサイトコアからイラストレータードキュメントに配置されます： illustrator_sitecore_place_asset_into_doc.png
+
+アセットは、Adobe Illustrator ドキュメントに埋め込まれたオブジェクトとして含まれています。
+
+Illustratorの組み込みオプションを使用して、必要に応じてオブジェクトを操作したり、変換したりすることができます。
+詳細については、Adobe Illustratorユーザーガイドを参照してください。
+Adobe Illustrator ドキュメントを Sitecore Content Hub にチェックインする
+Illustratorのドキュメントが新しい場合は、まずそれを保存してください。
+
+注意事項
+最初にIllustratorドキュメントを保存すると、ファイル名を選択することができます。そうしないと、Content Hubは元のファイル名（例：untitled-x.ai）でチェックインします。
+
+Sitecore Content Hubのモーダルで。
+
+メニューのindesign sitecoreメニュー：indesign_sitecore_asset_check_in_menu.pngアイコンをクリックします。
+
+アクティブなドキュメントにチェックインを選択します。
+
+ダムにチェックインするオプション： illustrator_sitecore_menu_check_in_active_doc.png
+
+最初にドキュメントを保存していない場合
+
+Content Hubは、保存してチェックインするかどうかを尋ねてきます。
+確認をクリックします。
+Illustratorからサイトコアにドキュメントメッセージを保存： illustrator_sitecore_menu_check_in_active_message.png
+
+ドキュメントに以前にチェックインしたバージョンがない場合。
+
+Content Hubは、新しいアセットとしてアップロードするかどうかを尋ねてきます。
+確認]をクリックします。
+ドキュメントに既存のアセットがありません」メッセージ： illustrator_sitecore_menu_check_in_no_existing_asset.png
+
+チェックインした Adobe Illustrator ドキュメントは、Content Hub インスタンスの [作成] ページにアセットとして表示されるようになりました。
+
+このページから、任意のアセットとしてドキュメントを提出してレビューを受けることができます。
+作成ページの詳細については、「作成」を参照してください。
+レビュー プロセスの詳細については、「レビュー」を参照してください。
+作成ページでイラストレーターのドキュメントにチェックが入っています: illustrator_sitecore_menu_checked_in_on_create.png
+
+ドキュメントに既にチェックイン済みのバージョンがある場合は、既存のアセットの新しいバージョンとして保存され、自動的にマスターバージョンとして設定されます（公開リンクは変わりません）。
+
+注意事項
+新しいバージョンとしてAdobe Illustratorのドキュメントがアップロードされているので、レビューのプロセスを経ることはありません。
+
+Sitecore Content HubアセットをAdobe Illustratorにチェックアウトする
+Content HubからIllustratorにアセットをチェックアウトするには
+
+Sitecore Content Hubモーダルで、アセット（.aiドキュメント）を検索します。
+
+チェックアウト illustrator_sitecore_checkin_icon : illustrator_sitecore_checkin_icon.pngアイコンをクリックします。
+
+illustrator_sitecore_menu_checked_out_downloading.pngをクリックしてください。
+
+アセットはダウンロードされ、新しいIllustratorドキュメントで開かれます。
+
+adobe illustratorで開いたアセット： illustrator_sitecore_menu_checked_out_opened.png
+
+illustrator_sitecore_discard_checkout.pngアイコンをクリックすると、いつでもチェックアウトを破棄することができます。
+
+adobe illustratorで強調表示された破棄とチェックインのアイコン： illustrator_sitecore_menu_checked_out_opened_icon.png
+
+ノート
+アセットはContent Hubにロックされているので、作業中は誰も変更を加えることができません。
+
+Adobe IllustratorからSitecore Content Hubにアセットをチェックインする
+チェックアウトしたアセットに変更を加えた場合。
+
+チェックインイラストレーターサイトコアチェックインアイコン：illustrator_sitecore_checkin_icon.pngアイコンをクリックして、コンテンツハブにチェックインしてください。
+
+アセットがContent Hubにアップロードされます。
+
+adobe illustrator doc アップロード: illustrator_sitecore_menu_checked_in_uploading.png
+
+アセットの新しいバージョンが作成され、マスターバージョンとして設定されます（公開リンクはそのままです）。
+
+aiドキュメントのバージョンをマスターに設定: illustrator_sitecore_checked_in_asset_versions.png
+
+チェックインが完了したら、Adobe Illustratorのドキュメントを閉じることができます。
+
+注意事項
+Adobe Illustratorのドキュメントは新バージョンとしてアップロードされているので、審査には通りません。
+

@@ -111,7 +111,7 @@
 
 **地理 > リレーションエディタ**
 
-以下のスクリーンショットは、リレーションやタクソノミを編集する際の可能性の例を示しています。
+以下のスクリーンショットは、リレーションやタクソノミーを編集する際の可能性の例を示しています。
 
 ![地理関係エディタ](../../../images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.2.0_25_Geographies_relation_editor.png)
 

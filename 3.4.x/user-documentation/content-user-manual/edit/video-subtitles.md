@@ -170,7 +170,7 @@ text-alignプロパティは、テキストの水平方向の整列を設定す�
 
 ![カスタムCSSの保存](../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_save.png)
 
-これで、このカスタムCSSがSitecore DAMTMにアップロードされたすべての字幕に反映されるようになりました。
+これで、このカスタムCSSがSitecore DAMにアップロードされたすべての字幕に反映されるようになりました。
 
 ![カスタム CSS スタイリングを表示しているビデオ字幕](../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_reflected_in_video.png)
 
@@ -182,7 +182,7 @@ text-alignプロパティは、テキストの水平方向の整列を設定す�
 | ![フォントの色が黄色](../../../images/user-documentation/content-user-manual/edit/video_subtitles_color_yellow.png) 	| ![黄色で表示される字幕](../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_yellow.png) 	|
 | ![フォントの色が青](../../../images/user-documentation/content-user-manual/edit/video_subtitles_color_blue.png)  	| ![青く表示された字幕](../../../images/user-documentation/content-user-manual/edit/video_subtitles_asset_detail_video_custom_css_color_blue.png) |
  
-以下の表は、Sitecore DAMTMで字幕に反映されるカスタムCSSのフォントサイズの変更点です。
+以下の表は、Sitecore DAMで字幕に反映されるカスタムCSSのフォントサイズの変更点です。
 
 | フォントサイズ 	| 字幕サイズ 	|
 |-	|-	|

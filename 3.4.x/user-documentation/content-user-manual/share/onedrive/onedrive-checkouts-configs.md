@@ -1,1 +1,90 @@
 # チェックアウトページと操作
+
+OneDriveとの連携では、専用のチェックアウトページとチェックアウト操作が含まれており、Sitecore Content Hubのページ（アセットページなど）に含めることができます。
+
+チェックアウトページの表示
+ユーザーページメニューにチェックアウトページを表示することができます。ユーザーページメニューは、プロファイルアイコンのプロファイルと設定アイコン：checkouts_page_shown_on_user_pages_icon.pngの下にあります。
+
+checkouts_page_shown_on_user_pages_icon.png: ユーザーページメニューにチェックアウトページが表示されます：checkouts_page_shown_on_user_pages.png
+
+このページの表示を有効にするには、管理ページに移動して、管理ページのアイコン：one_drive_manage_pages_icon.pngアイコンで利用可能な管理ページに移動します。
+
+管理ページで [ページ] オプションを選択します。
+
+管理ページで検索されたページ：pages_found_manage_onedrive.png
+
+ページマネージャーで、検索ボックスを使用して、チェックアウトページを検索して選択します。
+
+チェックアウトページ：checkouts_page_searched_for_on_pages_340.png
+
+選択したチェックアウトページのパスが「ホーム＞ユーザー＞チェックアウト」になっていることを確認してください。パスはページの上部に表示されています。
+
+チェックアウトページの情報タブを選択します。
+
+チェックアウトページの情報タブハイライト：pages_checkout_page_info_tab_highlighted_340.png
+
+情報タブで、編集アイコンの編集アイコンをクリックします：checkouts_info_edit_icon.png。
+
+情報タブのチェックアウトページに編集アイコンがハイライトされています：checkouts_page_info_tab_with_edit_icon_highlighted_340.png
+
+編集可能なバージョンのページでは、メニューオプションの「メニューに表示」をアクティブに切り替えます。
+
+メニューオプションに表示するをアクティブに切り替える: pages_checkout_page_info_tab_appears_in_menu_option_340.png
+
+ページを離れる前に必ず保存をクリックしてください。
+
+チェックアウトページの情報タブで強調表示された保存ボタン: pages_checkout_page_info_tab_save_highlighted_340.png
+
+チェックアウトページはユーザーページのサブページなので、その下に表示されるメニューです。プロフィールのアイコンをクリックすることで、ユーザーページのメニューで利用できるようになっているかどうかを確認することができます。
+
+チェックアウトの操作を有効にする
+Sitecore Content Hubのページ（アセットページなど）にチェックアウト操作を表示させることができます。
+
+チェックアウト操作がハイライト表示されているアセットページ：asset_pages_checkout_operation_highlighted_340.png
+
+このページの表示を有効にするには、管理ページに移動して、管理ページのアイコン：one_drive_manage_pages_icon.pngアイコンで利用可能な管理ページに移動します。
+
+管理ページで [ページ] オプションを選択します。
+
+管理ページで検索されたページ：pages_found_manage_onedrive.png
+
+ページマネージャで、検索ボックスを使ってAssetsページを検索して選択します。
+
+ページページで検索されたアセットページ：assets_pages_search_and_select_assets_page_340.png
+
+選択したAssetsページのパスがHome > Assetsになっていることを確認してください。パスはページの上部に表示されています。
+
+Assetsページで、選択コンポーネントに移動します。
+
+選択コンポーネントの重複オプション: asset_pages_selection_component_highlighted_340.png
+
+選択コンポーネントを System-settings-enabled から Custom-settings-enabled に切り替えます。
+
+選択コンポーネントを System-settings-enabled から Custom-settings-enabled に切り替える 所有: selection_component_340_toggle.gif
+
+選択コンポーネントで、編集オプションを選択できるようになりました。
+
+選択オプションの設定: asset_pages_selection_edit_options_340.png
+
+Selectionコンポーネントの詳細ページで、[操作]タブを選択します。
+
+選択範囲の詳細ページで強調表示されている操作タブ：checkout_selection_comp_operations_tab_340.png
+
+操作の追加] ボタンをクリックします。
+
+操作タブでハイライト表示された操作ボタン: asset_pages_selection_copy_edit_settings_operations_340.png
+
+利用可能な操作が表示されます。チェックアウト操作を検索して選択します。
+
+選択コンポーネントに表示され、ハイライト表示される操作: asset_pages_selection_copy_edit_settings_operations_checkout_340.png
+
+チェックアウトモードが開き、アイコン、ラベル、チェックアウトに確認が必要かどうかを選択することができます。選択したら、保存をクリックします。
+
+チェックアウトモーダルが開きました: asset_pages_selection_copy_edit_settings_operations_checkout_modal_340.png
+
+チェックアウト]操作は、リストの最後の操作として[選択]コンポーネントに含まれるようになりました。チェックアウト操作は、ドラッグオプション:checkout_drag_option_highlighted.pngオプションを使用して操作を新しい位置にドラッグすることで移動できます。保存をクリックして終了し、変更を確定します。
+
+選択コンポーネントに含まれるチェックアウト操作: asset_pages_selection_copy_edit_settings_checkout_highlighted_340.png
+
+操作が正しく追加されているかどうかは、「アセット」ページに移動し、選択メニューの操作を確認することで確認することができます。
+

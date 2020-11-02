@@ -78,6 +78,67 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="機能概要">機能概要</h1>
 
+<p>Microsoft OneDriveは、MicrosoftがWeb版Officeの一部として運営するファイルホスティングサービスと同期サービスです。OneDriveを利用することで、Windowsの設定やBitLockerのリカバリキーなどのファイルや個人データをクラウド上に保存したり、ファイルを共有したり、デバイス間でファイルを同期したりすることができます。</p>
+<p>OneDriveのチェックイン/チェックアウトプロセスにより、PhotoshopやIllustratorなどの異なるオーサリングツールを使用してアセットを作業することができ、完全な監査証跡とSitecore Content Hub内でのバージョン管理を確保することができます。</p>
+<p>クラウドドライブの統合
+CloudDrive統合設定の設定方法は、ご利用のSitecore Content Hubのバージョンによって異なります。</p>
+<p>バージョン3.4.0の場合
+バージョン3.4.0では、CloudDrive連携設定はシステム所有、つまり管理者アクセスが必要です。次のセクションで説明するように設定を確認することができますが、設定を更新するにはアカウントマネージャーに連絡する必要があります。</p>
+<p>バージョン3.4.1以降
+バージョン3.4.1以降では、CloudDrive統合設定はシステム所有ではなくなり、スーパーユーザーが編集できるようになりました。</p>
+<p>Sitecore Content Hubプロファイルを個人または企業のOneDriveアカウントに接続したい場合は、「管理」の下にある「設定」に移動します。</p>
+<p>設定はmanage: one_drive_settings_under_manage333.pngの下にあります。</p>
+<p>設定] ページで [統合] オプションを選択し、[CloudDrive] を選択します。</p>
+<p>設定の統合オプションで1台のドライブを検索：one_drive_under_integration_on_settings341.png</p>
+<p>OneDrive エディタで、OneDrive for Business のビジネス設定、OneDrive personal のパーソナル設定、またはその両方の値で enabled の値を true に変更します。</p>
+<p>設定は、管理: cloud_drive_intergration_settings_341.png の下にあります。</p>
+<p>OneDriveに接続
+Sitecore Content Hubのプロファイルを個人またはビジネスのOneDriveアカウントに接続することができます。</p>
+<p>プロファイル アイコンをクリックしてメニューを表示し、プロファイル オプションを選択します。</p>
+<p>プロファイルアイコンをクリックしてメニューを表示し、プロファイルオプションをクリックします：cloud_drive_intergration_settings_340.png</p>
+<p>クラウドドライブに接続するボタン: onedrive_config_completed_save_highlighted_340.pngボタンをクリックします。</p>
+<p>OneDriveに接続：setttings_integration_clouddrive_connect_cloud_drive_340.png</p>
+<p>使用しているアカウントの種類を、OneDrive PersonalまたはOneDrive for Businessのいずれかを選択します。</p>
+<p>OneDriveに接続する: connect_to_one_driver_3.4.png</p>
+<p>OneDriveの資格情報を入力して確認します。</p>
+<p>OneDrive の資格情報を入力します。</p>
+<p>Sitecore Content Hubでは、通知ポップアップでプロフィールがOneDriveに接続されていることを確認できます。</p>
+<p>OneDriveの確認メッセージ：confirmation_one_drive_message_340.png</p>
+<p>OneDriveチェックアウト
+Sitecore Content HubプロファイルがOneDriveアカウントに正常に接続されると、アセットのチェックアウトを開始できます。</p>
+<p>チェックアウトするアセットを選択したら、選択メニューに移動して「チェックアウト」をクリックします。</p>
+<p>チェックアウト選択メニュー: onedrive_checkout_button_highlighted_340.png</p>
+<p>チェックアウト操作の設定については、チェックアウト操作を参照してください。</p>
+<p>選択した内容を確認し、OKをクリックします。</p>
+<p>チェックアウトの確認：onedrive_checkout_confirmed_box.png</p>
+<p>ノート
+確認すると、バックグラウンドでチェックアウトジョブが作成されます。
+チェックアウト ジョブが完了すると、アセットがチェックアウトされ、OneDrive フォルダに同期されます。
+アセットがチェックアウトされると、システムにロックされるため、その間は誰もアセットを変更することができません。
+チェックアウトしたアセットを確認するには、ユーザー ページ メニューの [チェックアウト] に移動します。</p>
+<p>マイ・チェックアウト」ページに移動します: onedrive_checkout_checkout_checkout_page_340.png</p>
+<p>チェックアウトページの設定については、チェックアウトページを参照してください。</p>
+<p>左側の列の［ローカル］の下には、チェックアウトされた元のファイルが表示されます。右側の列の「リモート」では、OneDrive上のアセットバージョンを確認することができます。</p>
+<p>MYチェックアウトページ：onedrive_checkout_page_340.png</p>
+<p>OneDriveフォルダでは、チェックアウトされたアセットを見ることができます（この例では、ファイルを探索するためにAdobe Bridgeアプリケーションを使用しています）。</p>
+<p>OneDriveローカルフォルダ</p>
+<p>これで、お好みの修正ツールを使ってアセットを修正することができるようになりました。</p>
+<p>チェックアウトしたアセットをツールで開きます。</p>
+<p>変更を加えてからアセットを保存します。</p>
+<p>チェックアウトしたアセットを編集する</p>
+<p>My checkoutsページでは、Remote欄に更新後のアセットが表示されています。</p>
+<p>修正後のマイチェックアウトページ：checkouts_after_modification_0340.png</p>
+<p>OneDriveチェックイン
+アセットを修正した後、アセットをチェックインするか破棄するかを選択できます。アセットをチェックインすると、変更内容がシステムに反映され、アセットに新しいファイルバージョンが追加されます。アセットを破棄すると、変更はキャンセルされます。</p>
+<p>修正後の私のチェックアウトページ：my_checkouts_checkin_discard_highlighted_340.png</p>
+<p>ノート
+チェックインまたはアセットを破棄すると、ロックが解除され、システム内の他のユーザーがアセットを再度編集できるようになります。アセットはOneDriveフォルダからも削除されます。</p>
+<p>横並びの比較
+また、このアプリケーションでは、オリジナルバージョンと新バージョンのアセットを並べて比較するツールも用意されています。</p>
+<p>アセットをチェックインした後、アセットの詳細ページに移動します。</p>
+<p>ファイル履歴パネルで、元のバージョンのファイルをクリックし、「マスターと比較」をクリックします。</p>
+<p>マスターと比較」をクリックします：my_checkouts_checkin_comprare_to_master_340.png</p>
+<p>カーソルを横にスライドさせることで、2つのバージョンの違いがはっきりとわかります。</p>
 </article>
           </div>
           <div class="contribution-panel mobile-hide">

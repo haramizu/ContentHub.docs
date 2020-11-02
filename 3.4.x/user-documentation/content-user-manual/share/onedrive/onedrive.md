@@ -1,1 +1,68 @@
 # OneDrive 概要
+
+OneDriveは、すべてのファイルに接続するMicrosoftのクラウドサービスです。ファイルを保存して保護したり、他の人と共有したり、すべてのデバイスでどこからでもファイルにアクセスすることができます。
+
+OneDriveのフォルダ作成
+OneDriveをSitecore Content Hubに接続すると、OneDrive内にAppsという名前の新しいフォルダが作成され、その中にMicrosoft Azureで作成したAppにちなんだ名前のサブフォルダが作成されます。
+
+この例では、アプリはMicrosoft AzureのTest appという名前になっています。
+
+azureに表示されているアプリ： app_test_app.png
+
+このテストアプリ名は、Appsのサブフォルダに使用されます。
+
+onedrive ウェブアプリ: sitecore_onedrive_app.png
+
+すでにAppsフォルダが存在する場合は、このAppsフォルダ内にApp名のサブフォルダが作成されます。
+
+このサブフォルダには、Sitecore DAMでチェックアウトされたアセットが、Checkoutsという名前のサブフォルダに入っています。また、Downloadsというフォルダもあります。
+
+appsサブフォルダには、さらに2つのフォルダがあります：sitecore_onedrive_app_subfolder_two_folders.png
+
+Checkoutsフォルダには、Sitecore DAMからチェックアウトしたアセットが表示されます。OneDrive内のチェックアウトファイルのファイル名は、FilenameにSitecore DAMのアセットIDを前置して作成します。
+
+ワンドライブ内のチェックアウトフォルダ：sitecore_onedrive_app_checkouts_folder.png
+
+チェックアウトフォルダ
+Checkoutsフォルダに新しい外部ファイルをアップロードしても、このファイルはSitecore DAMにアップロードされません。
+
+この例では、power-of-fruit-local.psdはOneDriveにアップロードされていますが、Sitecore DAMにはアップロードされず、このフォルダにしか残りません。チェックアウトページには表示されません。チェックアウトページの詳細については、OneDriveのチェックアウトをご覧ください。
+
+onedriveチェックアウトフォルダにアップロードされた新しいファイル：sitecore_onedrive_app_checkouts_new_file.png
+
+この動作は、OneDriveツールバーのonedriveの同期ボタン（onedrive_sync_button.png）を使用して同期するように選択した場合でも同様です。
+
+OneDriveを使用すると、コンピュータとクラウドの間でファイルを同期して、コンピュータでもモバイルデバイスでも、どこからでもファイルにアクセスできます。ただし、チェックアウトしたアセットの新しいバージョンをOneDrive Checkoutsフォルダにアップロードすると、そのアセットはSitecore DAMで更新されます。この名前のファイルがすでに存在しているという警告があり、このファイルを既存のファイルの最新バージョンとして追加するかどうかの確認を求めるメッセージが表示されます。
+
+: sitecore_onedrive_app_checkouts_new__version_file.png
+
+この新しいバージョンのファイルは、チェックアウトされたアセットのリモートバージョンになりました。
+
+チェックアウトしたアセットの詳細については、「OneDrive チェックイン」を参照してください。
+
+OneDriveからチェックアウトしたアセットを削除する
+削除ボタンcropped onedrive: onedrive_delete_button_cropped.pngボタンを使ってOneDriveからアセットを削除した場合、そのファイルはOneDriveから削除されるだけです。このファイルを再インクルードしたい場合は、チェックアウトしたファイルを破棄し、アセットをチェックインしてOneDriveのファイルを再作成する必要があります。Sitecore DAMのチェックアウトページのリモートカラムのサムネイルが空白になります。
+
+チェックアウト アセットが選択されている削除ボタンが強調表示されています。
+
+OneDriveからチェックアウトしたアセットを共有する
+チェックアウトしたアセットは、共有アイコン：sitecore_onedrive_app_share_icon.pngアイコンを使ってOneDriveで他の人と共有することができます。
+
+チェックアウトしたアセットを共有する: sitecore_onedrive_app_share.png
+
+リンク送信モーダルは、作業中のリンクを送信するオプションを提供します。
+
+リンクを持っている誰にでも。
+同じビジネスドメインの人。
+既存のアクセスを持つ人。
+特定の人。
+リンク送信モーダルオプション: sitecore_onedrive_send_link_modal.png
+
+警告
+リンクを送信した場合、それはOneDriveファイルへのリンクであり、Sitecore DAMアセットへのリンクではありません。そのため、アセットに設定されている使用許可やセキュリティは含まれません。
+
+アセットの確認
+Sitecore DAMでアセットがチェックインされると、OneDriveから自動的に削除されます。
+
+アセットがチェックインされていない場合、そのアセットはOneDriveに無期限に残ります。これは、M.AssetエンティティのIsCheckedOutプロパティは、アセットがチェックアウトされたときにTRUEに設定されており、このプロパティの自動リセットが行われないためです。
+

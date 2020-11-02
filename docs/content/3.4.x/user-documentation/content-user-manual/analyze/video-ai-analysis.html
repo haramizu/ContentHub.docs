@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>&#12499;&#12487;&#12458;&#20998;&#26512; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; </title>
+    <title>&#12499;&#12487;&#12458; AI &#20998;&#26512; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="&#12499;&#12487;&#12458;&#20998;&#26512; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; ">
+    <meta name="title" content="&#12499;&#12487;&#12458; AI &#20998;&#26512; | Sitecore Content Hub &#12454;&#12455;&#12502;&#12469;&#12452;&#12488; ">
     <meta name="generator" content="docfx 2.56.3.0">
     
     <link rel="shortcut icon" href="../../../images/favicon.ico">
@@ -76,8 +76,99 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="ビデオ分析">ビデオ分析</h1>
+<h1 id="ビデオ-ai-分析">ビデオ AI 分析</h1>
 
+<p><strong>Sitecore Content Hub</strong>は、<strong>Microsoft Azure</strong>メディアサービスの<strong>Video Indexer</strong>と統合されました。この統合により、企業は動画アセットから価値ある洞察を得ることができます。<strong>Video Indexer</strong>は、動画から顔、有名人、感情、トピック、ブランド、シーンなどのメタデータを自動的に抽出します。抽出されたメタデータは、<em>Sitecore Content Hub</em>内からアクセスできるため、アセットの発見性を高め、収益化の機会を増やすことができます。</p>
+<p>ビデオAIは以下の機能を提供します。</p>
+<ul>
+<li>顔認識と有名人の識別</li>
+<li>視覚的なテキスト認識と物体の識別</li>
+<li>シーンのセグメンテーションとキーフレームの抽出</li>
+<li>キーワードの抽出とトピックの特定</li>
+<li>言語の識別</li>
+<li>自動テープ起こし</li>
+</ul>
+<div class="embeddedvideo"><iframe src="https://mss-p-003-delivery.stylelabs.cloud/api/public/content/840ad65fb6e64d8e9988777e08f3a989?v=b54c875f" frameborder="0" allowfullscreen="true"></iframe></div>
+<p><strong>アセット</strong>タイプを拡張して、TriggersVideoAIという名前の新しいプロパティを含むようにビデオAI定義を含めることで統合が実現しました。この<strong>ビデオAIの トリガー</strong>プロパティは、タクソノミー管理ページの下にあるアセットタイプで有効にするためにアクティブにトグルされています。Triggers ビデオAI <img src="../../../images/user-documentation/content-user-manual/analyze/triggers_video_ai_toggled_to_active.png" width="50"></p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/video_indexer_taxonomy.png" alt="Video_Indexer"></p>
+<p>このプロパティを有効にすることで、<strong>Triggers ビデオAI</strong>のプロパティを含む<strong>アセット</strong>タイプが<strong>TRUE</strong>に設定されている場合、メディア処理ジョブが起動します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/videoai_media_processing.png" alt="メディア処理ジョブが起動"></p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>ビデオ解析機能を提供しているのは、ビデオAIのアセットタイプのみです。</p>
+</div>
+<h2 id="ビデオ解析機能">ビデオ解析機能</h2>
+<p><strong>アセットの詳細</strong>ページには、<strong>人</strong>、<strong>トピック</strong>、<strong>ラベル</strong>などの解析結果のメタデータを表示するための<strong>動画解析</strong>パネルがあります。<strong>条件付き詳細ページ</strong>の機能を介して、すべての動画アセットは、<strong>動画解析</strong>パネルを含む関連する動画機能を持つ専用の動画ページに誘導されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/asset_detail_page_showing_video_analysis.png" alt="動画解析パネル： 動画解析パネルを表示するアセット詳細ページ"></p>
+<p>動画が処理されると、<strong>動画解析</strong>パネルが返されたメタデータラベルで埋められ、View more ボタン <img src="../../../images/user-documentation/content-user-manual/analyze/videoai_view_more_button.png" width="50"> ボタンが表示されます。</p>
+<p>**View more **オプションを選択すると、ユーザーは、<strong>Video indexer 詳細ページ</strong>に表示されている完全な詳細解析に誘導されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/video_indexer_detail_page.png" alt=""></p>
+<p>以下の要素を表示します。</p>
+<h2 id="ビデオインデクサーの詳細ページ">ビデオインデクサーの詳細ページ</h2>
+<p><strong>Video indexer の詳細</strong>ページでは、分析は <strong>Insights</strong> の下のセクションに分解され、専用のビデオプレーヤーも表示されます。</p>
+<ul>
+<li><p><strong>プレーヤー</strong> <strong>Video indexerの詳細</strong>ページには、ボリュームコントロールとフルスクリーン機能を備えた専用のプレーヤーがあります。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/video_indexer_detail_dedicated_player.png" alt="Video indexer 詳細ページの専用プレーヤー"></p>
+</li>
+</ul>
+<h3 id="インサイト">インサイト</h3>
+<ul>
+<li><p><strong>人物</strong> 動画内で特定された人物のインサイトタブがあり、動画内での人物の出現場所や、動画内での人物の出現率などのタイムラインが表示されます。</p>
+<ul>
+<li><strong>顔検出</strong> 顔を検出してグループ化します。</li>
+<li><strong>アニメーションキャラクターの検出</strong> アニメーションキャラクターの検出、グループ化、識別を行います。</li>
+<li><strong>有名人の識別</strong> 有名人を検出して識別します。有名人を検出し、簡単な経歴とともに識別します。</li>
+<li><strong>ベストサムネイル抽出</strong> 検出した顔のサムネイルに最適な画像を自動的に抽出します。</li>
+</ul>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/insights_people.png" alt="インサイト人と顔分析"></p>
+</li>
+<li><p><strong>キーワード</strong>を検索します。各セグメントで言及されているキーワードを検索します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/keywords_analysis.png" alt="各セグメントで言及されているキーワード"></p>
+</li>
+<li><p><strong>トピック</strong> 主なトピックを特定します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/topics_analysis.png" alt="トピックは主なトピックを識別します"></p>
+</li>
+<li><p><strong>ラベル</strong> オブジェクト（例：猫、テーブル、車、ボールなど）を自動的に識別し、表示された時刻をタイムラインで表示してラベルを付けます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/video_indexer_detail_page_labels.png" alt="ビデオインデクサに表示されるラベル"></p>
+</li>
+<li><p><strong>言語</strong> 動画内で識別される言語。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/video_indexer_detail_page_language.png" alt="言語は自動的に検出されます"></p>
+</li>
+<li><p><strong>感情</strong> 音声、音声信号、顔の表情で表現される感情を検出します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/emotions_analysis.png" alt="感情：発話、発声信号、顔の表情で表現される感情を検出する"></p>
+</li>
+<li><p><strong>感覚</strong> 音声や動画全体のポジティブな感情とネガティブな感情のレベルを比較し、クリック可能なタイムラインで感情が表現されている場所を表示します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/video_indexer_detail_page_sentiments.png" alt="感情ラベル"></p>
+</li>
+<li><p><strong>シーン</strong>（プレビュー）。動画をセマンティックシーンごとにセグメント化します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/video_indexer_details_page_scenes.png" alt="scenes は、セマンティックシーンによってセグメンテーションされた動画を表示します"></p>
+</li>
+<li><p><strong>キーフレーム</strong> 安定したキーフレームを自動的に検出します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/video_indexer_detail_page_keyframes.png" alt="解析した動画のキーフレーム"></p>
+</li>
+</ul>
+<h3 id="タイムライン">タイムライン</h3>
+<p><strong>タイムライン</strong> タブでは、音声分析を使用して動画をグループ化します。</p>
+<ul>
+<li><strong>自動テープ起こし</strong>: ビデオに含まれる音声を英語のテキストに変換します。この変換がタイムラインに表示され、スピーカーの識別、話者と対応する話し言葉のマッピングが表示されます。</li>
+</ul>
+<p><a href="../../../images/user-documentation/content-user-manual/analyze/video_indexer_timeline.png">video indexerページのタイムラインタブ</a></p>
+<h2 id="アセットに動画解析を追加する">アセットに動画解析を追加する</h2>
+<p>動画解析は、アセットのライフサイクルのどの段階でもアセットに追加することができます。</p>
+<ul>
+<li>作成</li>
+<li>レビュー</li>
+<li>承認済み</li>
+</ul>
+<p>アセットの詳細ページで、編集アイコンの編集アイコン <img src="../../../images/user-documentation/content-user-manual/analyze/video_ai_edit_icon.png">をクリックします。</p>
+<p>アセットの詳細ページに表示される編集アイコン：edit_video_asset.png</p>
+<p>アセットのメタデータが編集可能な場合は、[タイプ] フィールドで [+] オプションを選択すると、アセット タイプの選択肢が表示されます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/video_indexer_add_type.png" alt="追加タイプ"></p>
+<p>表示されたアセット<strong>タイプ</strong>からビデオAIを選択します。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/add_video_indexer_type.png" alt="表示されたアセット タイプからビデオ インデクサーを選択します"></p>
+<p>動画アセットはAzure Video Indexerに送られ、そこで動画が分析されます。</p>
+<p>解析が完了すると、タグは Sitecore Content Hub に返され、アセットに関連付けられます。</p>
+<p><img src="../../../images/user-documentation/content-user-manual/analyze/asset_detail_page_showing_returned_with_metadata_analysis.png" alt=""></p>
 </article>
           </div>
           <div class="contribution-panel mobile-hide">

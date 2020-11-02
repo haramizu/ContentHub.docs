@@ -78,7 +78,86 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="コネクターセットアップ">コネクターセットアップ</h1>
 
-</article>
+<p>Sitecore Connect™ for Sitecore DAM™では、以下の記事で詳しく説明しているように、Sitecore DAM™とSitecoreインスタンスの両方で構成を行う必要があります。</p>
+<p>Sitecore DAM™の構成
+この設定は、Sitecore DAM™のバージョン3.3.0以上のインスタンスに適用されます。</p>
+<p>CORS構成
+Sitecore DAM™ の CORS は、Sitecore インスタンスからのトラフィックの着信を許可するように設定する必要があります。</p>
+<p>Manage（メインメニュー項目）に移動します。</p>
+<p>Settings 項目をクリックします。</p>
+<p>Settings] ページで、[PortalConfiguration] メニュー項目をクリックします。</p>
+<p>PortalConfiguration メニュー項目の CORSConfiguration をクリックします。</p>
+<p>Sitecore インスタンスの URL を URL のリストに追加します（例：https://www.sitecore.instance.com）。</p>
+<p>変更を保存します。</p>
+<p>受信トラフィックを許可するためのCORS設定</p>
+<p>ポータルの設定
+リダイレクト設定は、Sitecore インスタンスが Sitecore DAM™ にアクセス/表示できるようにするために、Sitecore DAM™ の PortalConfiguration 内で設定する必要があります。</p>
+<p>Manage（メインメニュー項目）に移動します。</p>
+<p>Settings 項目をクリックします。</p>
+<p>Sitecore DAMでの設定</p>
+<p>Settings ページで PortalConfiguration メニュー項目をクリックします。</p>
+<p>Sitecore DAMのPortalConfiguration</p>
+<p>PortalConfiguration] メニュー項目の [Authentication] をクリックします。</p>
+<p>ExternalAuthenticationProviders] の下で、すべての SSO プロバイダの authentication_mode を &quot;Passive&quot; に変更します。</p>
+<p>&quot;sitecore&quot;: &quot;sitecore&quot; に変更します。[
+{
+&quot;authentication_mode&quot; &quot;Passive&quot;.
+&quot;client_id&quot; &quot;&lt;クライアントID&gt;&quot;
+&quot;client_secret&quot;: &quot;<clientsecret>&quot;です。
+&quot;email_claim_type&quot; &quot;<claimtypeoverride>&quot;です。
+&quot;external_user_creation_url&quot;. &quot;https://www.registerme.com&quot;.
+&quot;identity_server_url&quot; &quot;<url>&quot;です。
+&quot;is_enabled&quot;: true.
+&quot;messages&quot; {
+&quot;signIn&quot;. &quot;translationKey&quot;.
+&quot;signInDescription&quot; &quot;translationKey&quot;.
+&quot;signInTitle&quot;. &quot;translationKey&quot;
+},
+&quot;プロバイダ名&quot;. &quot;Sitecore&quot;,
+&quot;username_claim_type&quot; &quot;<claimtypeoverride>&quot;
+}
+]
+ノート
+SSO が設定されていない場合は、基本認証が使用され、その場合は認証モードがデフォルトで「パッシブ」に設定されているため、このステップをスキップすることができます。<p>
+<p>警告
+Content Hub のバージョン 3.4.0 以降、ログイン画面のメッセージ設定で提供される翻訳キーは、接頭辞 T_ を付けずに提供する必要があります。例えば、&quot;signIn&quot; &quot;T_translationKey &quot;は &quot;signIn&quot;. &quot;translationKey&quot; となります。</p>
+<p>Sitecoreの設定
+以下の設定は、Sitecoreの9.1.0、9.1.1、9.2.0、9.3.0バージョンのインスタンスに適用する必要があります。</p>
+<p>パッケージのインストール
+Sitecore Connect™ for Sitecore DAM™パッケージをSitecoreインスタンスにインストールする必要があります。スケーリングされたセットアップ（複数のSitecoreインスタンス）では、ユーザーはSitecore DAM™インストールパッケージから環境内のすべてのSitecoreインスタンスにファイルをコピーする必要があります。このパッケージは <a href="https://dev.sitecore.net/">https://dev.sitecore.net/</a> から取得できます。</p>
+<p>対応するURL(例: <a href="https://www.sitecore.instance.com">https://www.sitecore.instance.com</a>)に移動して、Sitecore インスタンスにログインします。</p>
+<p>Launchpad上で、コントロールパネルをクリックします。</p>
+<p>Sitecore インスタンスのデスクトップ</p>
+<p>管理] セクションで [パッケージのインストール] をクリックします。</p>
+<p>パッケージをインストールする</p>
+<p>ファイルのアップロードダイアログで、Sitecore Connect™ for Sitecore DAM™ zip パッケージを選択します。</p>
+<p>sitecore connect for sitecore damをインストールします。</p>
+<p>パッケージのインストールダイアログで、Sitecore Connect™ for Sitecore DAM™ パッケージを選択し、Next をクリックします。</p>
+<p>パッケージをインストールする</p>
+<p>パッケージ情報を確認し、[インストール]をクリックします。</p>
+<p>次のメッセージが表示されたら、インストールをクリックします。</p>
+<p>クリックして拡大表示</p>
+<p>上書き］を選択すると、既存のアイテムをパッケージから新しいアイテムに置き換えることができます。既存のアイテムを保持したい場合は、インストールを進める前にバックアップしてください。</p>
+<p>パケットがインストールされると、ウィザードにはチェックボックスのリストが表示されます - Restart the Sitecore Client (デフォルトではチェックされています) と Restart the Sitecore Server。</p>
+<p>パッケージがインストールされました</p>
+<p>パッケージ構成
+パッケージが正常にインストールされた後、以下の手順を完了し、必要な情報を提供することで、Sitecore Connect™ for Sitecore DAM™を設定する必要があります。</p>
+<p>コンテンツエディタのコンテンツツリーで、Sitecore &gt; System &gt; Modulesに進みます。</p>
+<p>DAMフォルダを開きます。Configを拡張して、DAMコネクタに進みます。</p>
+<p>Modulesの下のDAMからDAMフォルダを選択する</p>
+<p>Dataセクションで、DAMインスタンスに関する情報をSitecore Connect™ for Sitecore DAM™パラメータに入力します。</p>
+<p>Sitecore Plugin for Sitecore Content Hubのパラメータを記入します。</p>
+<p>ノート
+Content Hubのバージョン3.2.1より、コネクタページのURLが「/en-us/sitecore-plugin/approved-assets」から「/en-us/sitecore-dam-connect/approved-assets」に変更されました。
+コネクタを使用しているユーザーアカウントは、Sitecore DAM™ のコネクタページに対して「読み取り」アクセス権を持っている必要があります。
+変更を保存します。</p>
+<p>Sitecoreのバージョン9.3を使用している場合は、ルートフォルダ（wwwroot）にある &quot;web.config &quot;ファイルを開き、Content-HubインスタンスのURL（例：content-hub-url.stylelabs.com）とその他の配信ホスト名（例：content-hub-url-delivery.stylelabs.cloud）を &quot;Content-Security-Policy &quot;タグのソースとして以下のように追加してください。</p>
+<add name="Content-Security-Policy" value="default-src 'self' 'unsafe-inline' 'unsafe-eval' https://apps.sitecore.net; img-src 'self' data https://content-hub-url.stylelabs.com/ https://content-hub-url-delivery.stylelabs.cloud/ https://content-hub-url.stylelabs.com/; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' 'unsafe-inline' https://fonts.gstatic.com; upgrade-insecure-requests; block-all-mixed-content; child-src 'self' https://content-hub-url-delivery.stylelabs.cloud/ https://content-hub-url.stylelabs.com/ https://content-hub-url-delivery.stylelabs.cloud/; connect-src 'self' https://content-hub-url-delivery.stylelabs.cloud/ https://content-hub-url-delivery.stylelabs.cloud/; />"></add>
+警告
+Content Hubでは、AssetExtensionDataConfigurationSetting設定を使用して、パブリックリンク用に異なる配信ホスト名を設定することができます。この場合、設定したホスト名をソースとして、Content-Security-Policyパラメータのimg-src、child-src、connect-srcプロパティに追加するようにしてください。
+<p>Sitecore Connect™ for Sitecore DAM™は、リッチテキストエディタで［Insert from Sitecore DAM™］アイコンのsitecore damアイコンを経由して利用できるようになりました。</p>
+<p>リッチテキストエディタ</p>
+</claimtypeoverride></url></claimtypeoverride></clientsecret></article>
           </div>
           <div class="contribution-panel mobile-hide">
           </div>
