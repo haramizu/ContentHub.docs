@@ -4671,6 +4671,754 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/10_Autocomplete_functionality.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/10_Autocomplete_functionality.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/11_Search_More_search_options.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/11_Search_More_search_options.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/12_Calendar_pop-up.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/12_Calendar_pop-up.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/14_Save_selection_pop-up.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/14_Save_selection_pop-up.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/15_Selectio_dropdown_Add_to_saved_selection.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/15_Selectio_dropdown_Add_to_saved_selection.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/16_Add_to_saved_selection.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/16_Add_to_saved_selection.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/20_Filters_Save_search.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/20_Filters_Save_search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/21_Search_Saves_searches.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/21_Search_Saves_searches.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/9_Selection_menu_dropdown.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/9_Selection_menu_dropdown.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/assets_page_new_selection_left_menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/assets_page_new_selection_left_menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/assets_page_new_selection_operations_menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/assets_page_new_selection_operations_menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/completed_my_searches.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/completed_my_searches.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/fruitful_brand_saved_search.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/fruitful_brand_saved_search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/globe_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/globe_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/image1_public_link.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/image1_public_link.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/make_private.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/make_private.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/make_public_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/make_public_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/more_actions_icon_saved_searches.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/more_actions_icon_saved_searches.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/my_default_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/my_default_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/notification_off_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/notification_off_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/notifications_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/notifications_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/powerful_public_saved_search.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/powerful_public_saved_search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/quick_edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/quick_edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/remove_as_user_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/remove_as_user_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_add_user_icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_add_user_icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_click_on_edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_click_on_edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_entities.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_entities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_entity_edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_entity_edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_entity_set_as_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_entity_set_as_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_make_public_option.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_make_public_option.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_makes_public.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_makes_public.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_personal_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_personal_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_saved_search_entities.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_saved_search_entities.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_search_for_entity.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_search_for_entity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_set_as_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_set_as_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_set_to_default_all_users.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_set_to_default_all_users.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_user_asset_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_user_asset_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_search_user_asset_page_clear_filter.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_search_user_asset_page_clear_filter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/saved_searches_entity_user_added.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/saved_searches_entity_user_added.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search-page-saved-search-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search-page-saved-search-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_calendar_sample_output_content.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_calendar_sample_output_content.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_calendar_sample_output_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_calendar_sample_output_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_chart_sample_output_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_chart_sample_output_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_compact.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_compact.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_content.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_content.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_grid_content_on_top_of_image-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_grid_content_on_top_of_image-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_grid_content_on_top_of_image.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_grid_content_on_top_of_image.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_grid_data_top_bottom.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_grid_data_top_bottom.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_grid_image_top_wide.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_grid_image_top_wide.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_image_left_data_right.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_image_left_data_right.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_image_right_data_left.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_grid_sample_output_image_right_data_left.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_inline_preview_sample_output_content.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_inline_preview_sample_output_content.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_inline_preview_sample_output_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_inline_preview_sample_output_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_inline_preview_sample_output_drawer.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_inline_preview_sample_output_drawer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_inline_preview_sample_output_drawer_content.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_inline_preview_sample_output_drawer_content.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_list_sample_output_card.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_list_sample_output_card.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_list_sample_output_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_list_sample_output_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_pivot_table_sample_output_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_pivot_table_sample_output_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_table_sample_output_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_table_sample_output_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_component_table_sample_output_table_no_image.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_component_table_sample_output_table_no_image.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_page_facets_in_filter_overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_page_facets_in_filter_overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_page_facets_overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_page_facets_overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_page_facets_pop-up_window.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_page_facets_pop-up_window.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/search_page_facets_pop-up_window_drilled_down.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/search_page_facets_pop-up_window_drilled_down.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/set_as_default.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/set_as_default.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/set_as_my_default_saved_search.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/set_as_my_default_saved_search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/search/share_selection_search.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/search/share_selection_search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/user-documentation/content-user-manual/select/_user-documentation_content-user-manual_3.2.0_assets_selected_using_drag_to_select.png",
       "output": {
         "resource": {
@@ -5463,7 +6211,7 @@
           "hash": "CqaZYVTGhiRuI+ugnVRYGg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -5532,10 +6280,10 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/search/saved-search.html",
-          "hash": "b6SCcHFFhbhxZfhAvETO3Q=="
+          "hash": "hYvX6FAlbTQcixYyakJBdw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -5544,7 +6292,7 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/search/search-menu.html",
-          "hash": "zG9PKkDOQDrGNY7V4/vyiA=="
+          "hash": "/ky/UtO+9/Vw/gAHHj7bIg=="
         }
       },
       "is_incremental": true,
