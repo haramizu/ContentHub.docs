@@ -1338,6 +1338,193 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/mdoc-935-button-add-template.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/mdoc-935-button-add-template.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/mdoc-935-template-page-create-template.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/mdoc-935-template-page-create-template.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/mdoc-935-template-page-edit.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/mdoc-935-template-page-edit.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/mdoc-935-template-page-home.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/mdoc-935-template-page-home.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-documentationcontent-user-manual3-1.0.065_Notification_pop-up.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-documentationcontent-user-manual3-1.0.065_Notification_pop-up.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-documentationcontent-user-manual3.0.062_State_engine_illustration.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-documentationcontent-user-manual3.0.062_State_engine_illustration.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-10-speedtest.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-10-speedtest.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-11-speedtes-maint.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-11-speedtes-maint.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-11-speedtest-start-button.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-11-speedtest-start-button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-11-speedtest.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-11-speedtest.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-13-selection.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-13-selection.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-2-downloads.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-2-downloads.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-3-saved-search.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-3-saved-search.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-4-background-processes.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-4-background-processes.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-5-background-processes-details.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-5-background-processes-details.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-7-profile.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/user-documentation/content-user-manual/customize/user-page-menu-340-7-profile.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/user-documentation/content-user-manual/edit/_user-documentation_content-user-manual_3.0.0_30_Mass_submit_mandatory_fields_error_messages.png",
       "output": {
         "resource": {
@@ -8176,10 +8363,10 @@
       "output": {
         ".html": {
           "relative_path": "user-documentation/content-user-manual/customize/user-pages-menu.html",
-          "hash": "RrapZlza0RhSK6MypuMWpA=="
+          "hash": "Ut43Qt4Rt9BBxuXZfmbOOA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -8275,7 +8462,7 @@
           "hash": "QO29Hol2k806pYSFA3k48Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -8335,7 +8522,7 @@
           "hash": "1RM+mWUInaB8VVgsh8ENVg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -8883,7 +9070,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 279,
-          "skipped_file_count": 279
+          "skipped_file_count": 278
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
