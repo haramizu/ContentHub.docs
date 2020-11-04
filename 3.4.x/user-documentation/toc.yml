@@ -172,6 +172,7 @@
           href: content-user-manual/customize/user-pages-menu.md
         - name: ユーザーテーマ
           href: content-user-manual/customize/user-themes.md
+
 - name: Sitecore PCM
   href: pcm/introduction.md
   items:
@@ -181,7 +182,6 @@
     - name: 製品ファミリー
     - name: 製品情報
     - name: PCM アセット
-
   
 - name: Sitecore CMP™
   href: cmp/cmp-intro.md
@@ -220,13 +220,534 @@
     - name: 概要
       href: administration/introduction.md
     - name: ポータル
+      href: administration/portal/intro.md
+      items:
+        - name: 概要
+          href: administration/portal/intro.md
+        - name: ページ
+          href: administration/portal/pages/page-configuration/intro.md
+          items:
+            - name: ページ設定
+              href: administration/portal/pages/page-configuration/intro.md
+              items:
+                - name: 概要
+                  href: administration/portal/pages/page-configuration/intro.md
+                - name: レイアウト
+                  href: administration/portal/pages/page-configuration/layout.md
+                - name: 情報
+                  href: administration/portal/pages/page-configuration/info/intro.md
+                - name: カスタムホームページ
+                  href: administration/portal/pages/page-configuration/custom-homepages.md
+                - name: 条件付き詳細ページ
+                  href: administration/portal/pages/page-configuration/conditional-detail-pages.md
+            - name: マスターレイアウト
+              href: administration/portal/master-layouts/master-layouts.md
+            - name: サイトマップ
+              href: administration/portal/pages/sitemap/intro.md
+              items:
+                - name: 概要
+                  href: administration/portal/pages/sitemap/intro.md
+                - name: ページ作成
+                  href: administration/portal/pages/sitemap/creating-pages.md
+                - name: エンティティ詳細ページ
+                  href: administration/portal/pages/sitemap/detail-page.md
+                - name: サイトマップ編集
+                  href: administration/portal/pages/sitemap/edit-sitemap.md
+                - name: M ページ
+                  href: administration/portal/pages/sitemap/m-pages.md
+            - name: ページコンポーネント
+              href: administration/portal/pages/page-components/intro.md
+              items:
+                - name: 概要
+                  href: administration/portal/pages/page-components/intro.md
+                - name: ページコンポーネント権限
+                  href: administration/portal/pages/page-components/component-restricted.md
+                - name: コンポーネントの設定
+                  href: administration/portal/pages/page-components/component-configuration.md
+                - name: 戻る
+                  href: administration/portal/pages/page-components/back-page-component.md
+                - name: チャート
+                  href: administration/portal/pages/page-components/chart-component/intro.md
+                  items:
+                    - name: 概要 
+                      href: administration/portal/pages/page-components/chart-component/intro.md
+                    - name: 操作方法
+                      href: administration/portal/pages/page-components/chart-component/operational.md
+                    - name: 履歴
+                      href: administration/portal/pages/page-components/chart-component/historical.md
+                    - name: ユースケース
+                      href: administration/portal/pages/page-components/chart-component/use-cases.md
+                - name: チャートフィルター
+                  href: administration/portal/pages/page-components/chart-filter.md
+                - name: 作成コンポーネント
+                  href: administration/portal/pages/page-components/creation.md
+                - name: ダウンロード順
+                  href: administration/portal/pages/page-components/download-order.md
+                - name: エンティティコメントコンポーネント
+                  href: administration/portal/pages/page-components/entity-comment.md
+                - name: エンティティ詳細コンポーネント
+                  href: administration/portal/pages/page-components/entity-details-component/intro.md
+                  items:
+                    - name: 概要
+                      href: administration/portal/pages/page-components/entity-details-component/intro.md
+                    - name: メンバーグループ詳細
+                      href: administration/portal/pages/page-components/entity-details-component/member-group-details.md
+                    - name: メンバーグループセレクション
+                      href: administration/portal/pages/page-components/entity-details-component/member-groups-section.md
+                - name: エンティティ履歴ビューアー
+                  href: administration/portal/pages/page-components/entity-history-viewer.md
+                - name: エンティティ画像コンポーネント
+                  href: administration/portal/pages/page-components/entity-image-viewer.md
+                - name: エンティティインジケータ
+                  href: administration/portal/pages/page-components/entity-indicators.md
+                - name: エンティティリストコンポーネント
+                  href: administration/portal/pages/page-components/entity-list-component/intro.md
+                  items:
+                    - name: 概要
+                      href: administration/portal/pages/page-components/entity-list-component/intro.md
+                    - name: 並び順
+                      href: administration/portal/pages/page-components/entity-list-component/sorting.md
+                    - name: フィルター
+                      href: administration/portal/pages/page-components/entity-list-component/filters.md
+                    - name: 結果
+                      href: administration/portal/pages/page-components/entity-list-component/results.md
+                    - name: データ形式
+                      href: administration/portal/pages/page-components/entity-list-component/data-types.md
+                    - name: アクション 
+                      href: administration/portal/pages/page-components/entity-list-component/actions.md
+                    - name: テンプレートセクション
+                      href: administration/portal/pages/page-components/entity-list-component/template-section.md
+                    - name: カラムオプション
+                      href: administration/portal/pages/page-components/entity-list-component/column-option.md
+                    - name: レンディションオプション
+                      href: administration/portal/pages/page-components/entity-list-component/rendition-option.md
+                    - name: コンポーネント
+                      href: administration/portal/pages/page-components/entity-list-component/components.md
+                    - name: ラベル
+                      href: administration/portal/pages/page-components/entity-list-component/labels-section.md
+                    - name: 高度なセレクション
+                      href: administration/portal/pages/page-components/entity-list-component/advanced-section.md
+                - name: エンティティ操作コンポーネント
+                  href: administration/portal/pages/page-components/entity-operations.md
+                - name: エンティティレーティングコンポーネント
+                  href: administration/portal/pages/page-components/entity-rating.md
+                - name: エクスターナルコンポーネント
+                  href: administration/portal/pages/page-components/external-component.md
+                - name: HTML コンポーネント
+                  href: administration/portal/pages/page-components/html-component.md
+                - name: 一括編集コンポーネント
+                  href: administration/portal/pages/page-components/mass-edit-table-page-component.md
+                - name: モーダルコンポーネント
+                  href: administration/portal/pages/page-components/modal-component.md
+                - name: ナビゲーションコンポーネント
+                  href: administration/portal/pages/page-components/navigation.md
+                - name: 検索保存グリッド
+                  href: administration/portal/pages/page-components/saved-search-grid.md
+                - name: 検索ボックス
+                  href: administration/portal/pages/page-components/search-box.md
+                - name: 検索コンポーネント
+                  href: administration/portal/pages/page-components/search-component/intro.md
+                  items:
+                    - name: 概要
+                      href: administration/portal/pages/page-components/search-component/intro.md
+                    - name: フィルターセレクション
+                      href: administration/portal/pages/page-components/search-component/filters-section/intro.md
+                      items:
+                        - name: 概要
+                          href: administration/portal/pages/page-components/search-component/filters-section/intro.md
+                        - name: 単純なフィルタ
+                          href: administration/portal/pages/page-components/search-component/filters-section/simple-filtering.md
+                        - name: フィルタの組み合わせ
+                          href: administration/portal/pages/page-components/search-component/filters-section/composite-filtering.md
+                        - name: 固定フィルタ 
+                          href: administration/portal/pages/page-components/search-component/filters-section/fixed-filtering.md
+                    - name: 機能セクション
+                      href: administration/portal/pages/page-components/search-component/functionality-section/intro.md
+                      items:
+                        - name: 概要
+                          href: administration/portal/pages/page-components/search-component/functionality-section/intro.md
+                        - name: フルテキスト
+                          href: administration/portal/pages/page-components/search-component/functionality-section/fulltext.md
+                        - name: ファセット
+                          href: administration/portal/pages/page-components/search-component/functionality-section/facets.md
+                        - name: グルーピング
+                          href: administration/portal/pages/page-components/search-component/functionality-section/results-grouping.md
+                        - name: クエリービルダー
+                          href: administration/portal/pages/page-components/search-component/functionality-section/query-builder.md
+                        - name: ページング
+                          href: administration/portal/pages/page-components/search-component/functionality-section/paging.md
+                        - name: 表示ビューセレクター
+                          href: administration/portal/pages/page-components/search-component/functionality-section/show-view-selector.md
+                        - name: 並べ替え
+                          href: administration/portal/pages/page-components/search-component/functionality-section/sorting.md
+                        - name: マニュアル並べ替え
+                          href: administration/portal/pages/page-components/search-component/functionality-section/manual-sorting.md
+                    - name: セレクション
+                      href: administration/portal/pages/page-components/search-component/selection.md
+                    - name: 出力セクション
+                      href: administration/portal/pages/page-components/search-component/output-section.md
+                      items:
+                        - name: 出力セクション
+                          href: administration/portal/pages/page-components/search-component/output-section.md
+                        - name: チャートアウトプット
+                          href: administration/portal/pages/page-components/search-component/chart-search-component.md
+                        - name: エンティティビジュアライゼーションオプション
+                          href: administration/portal/pages/page-components/search-component/entity-visualization-options.md
+                - name: セレクションコンポーネント
+                  href: administration/portal/pages/page-components/browse-selection.md
+                - name: ステートマシーンコンポーネント
+                  href: administration/portal/pages/page-components/statemachine.md
+                - name: タブコンポーネント
+                  href: administration/portal/pages/page-components/tabs.md
+                - name: タイトルコンポーネント
+                  href: administration/portal/pages/page-components/entity-title.md
+                - name: 新着コンポーネント
+                  href: administration/portal/pages/page-components/whats-new.md
+        - name: スーパーユーザーが可能な設定
+          href: administration/portal/pages/page-components/superuser.md
+        - name: メールテンプレート
+          href: /administration/portal/email-templates/email-templates.md
+        - name: 言語
+          href: administration/portal/news-item/news-item.md
+          items:
+            - name: 言語の追加
+              href: administration/portal/languages/add-languages.md
+            - name: 言語の削除
+              href: administration/portal/languages/remove-language-culture.md
+        - name: ニュースアイテム
+          href: administration/portal/news-item/news-item.md
+        - name: ポータルアセット
+          href: administration/portal/portal-assets/portal-assets.md
+        - name: 条件と条件
+          href: administration/portal/terms-and-conditions/terms-and-conditions.md
+        - name: テーマ
+          href: administration/portal/themes/themes.md
+          items:
+            - name: テーマ
+              href: administration/portal/themes/themes.md
+            - name: ページのテーマの変更
+              href: administration/portal/themes/force-page-theme.md
+        - name: ポータル翻訳
+          href: administration/portal/translations/portal-translations.md
+          items:
+            - name: ポータル翻訳
+              href: administration/portal/translations/portal-translations.md
+            - name: 翻訳のエクスポート都員ポイート
+              href: administration/portal/translations/translations-import-export.md
+        - name: 新着アイテム
+          href: administration/portal/whats-new-items/intro.md
+          items:
+            - name: 概要
+              href: administration/portal/whats-new-items/intro.md
+            - name: ポータルバージョン
+              href: administration/portal/whats-new-items/portal-version.md
+            - name: ポータルの機能
+              href: administration/portal/whats-new-items/portal-feature.md
     - name: データ
+      href: administration/data/data.md
+      items:
+        - name: スキーマ
+          href: administration/data/schema/intro.md
+          items:  
+            - name: 概要
+              href: administration/data/schema/intro.md
+            - name: OOTB スキーマ
+              href: administration/data/schema/ootb-schema.md
+            - name: スキーマ概要ページ
+              href: administration/data/schema/entity-definitions-overview.md
+            - name: 新規エンティティ定義の作成
+              href: administration/data/schema/create-entity-definition.md
+            - name: エンティティ定義変更の影響
+              href: administration/data/schema/entity-definition-changes.md
+            - name: メンバーグループ
+              href: administration/data/schema/member-groups.md
+            - name: メンバー
+              href: administration/data/schema/members/intro.md
+              items:
+                - name: 概要
+                  href: administration/data/schema/members/intro.md
+                - name: プロパティの追加
+                  href: administration/data/schema/members/adding-property.md
+                - name: リレーションの追加
+                  href: administration/data/schema/members/adding-relation.md
+                - name: タクソノミーの追加
+                  href: administration/data/schema/members/adding-taxonomy.md
+            - name: 表示テンプレート
+              href: administration/data/schema/display-template.md
+            - name: カスタムコンテンツタイプ
+              href: administration/data/schema/custom-content-type/intro.md
+              items:
+                - name: 概要
+                  href: administration/data/schema/custom-content-type/intro.md
+                - name: M プロジェクトを有効にする
+                  href: administration/data/schema/custom-content-type/enable-in-m-project.md
+                - name: コレクションを有効にする
+                  href: administration/data/schema/custom-content-type/enable-in-collections.md
+                - name: ステートフローを有効にする
+                  href: administration/data/schema/custom-content-type/custom_content_state_flow.md
+        - name: エンティティ
+          href: administration/data/entities/intro.md
+          items:
+            - name: 概要
+              href: administration/data/entities/intro.md
+            - name: リレーションダイアグラム
+              href: administration/data/entities/relation-diagram.md
+            - name: エンティティリスト
+              href: administration/data/entities/entities-list.md
+            - name: エンティティページ
+              href: administration/data/entities/entity-page.md
+        - name: オプションリスト
+          href: administration/data/option-lists/option-lists.md
+          itesm:
+            - name: 概要
+              href: administration/data/option-lists/option-lists.md
+            - name: Excel を利用したインポート
+              href: administration/data/option-lists/import-options-lists.md
+        - name: タクソノミー
+          href: administration/data/taxonomies/taxonomy.md
+          items:
+            - name: 概要
+              href: administration/data/taxonomies/taxonomy.md
+            - name: オンザフライのエンティティ作成
+              href: administration/data/taxonomies/taxonomy-creating-values-on-the-fly.md
+            - name: Excel を利用したインポート
+              href: administration/data/taxonomies/taxonomy-excel-import.md
+        - name: アーカイブアセット
+          href: administration/data/archived-assets/archived-assets.md
+        - name: インポート・エクスポートパッケージ
+          href: administration/data/import-export-package/export-import.md
+          items:
+            - name: 概要
+              href: administration/data/import-export-package/export-import.md
+            - name: マージの動作
+              href: administration/data/import-export-package/export-profile.md
+              items:
+                - name: プロファイルのエクスポート
+                  href: administration/data/import-export-package/export-profile.md
+                - name: メディアプロセッシング
+                  href: administration/data/import-export-package/mediaprocessing-export-import.md
+                - name: オプションリスト
+                  href: administration/data/import-export-package/options-list-export-import.md
+                - name: 設定
+                  href: administration/data/import-export-package/settings-export-import.md
+                - name: タクソノミー
+                  href: administration/data/import-export-package/taxonomies-export-import.md
+                - name: 環境プロファイル
+                  href: administration/data/import-export-package/environment-profiles.md
+        - name: Excel インポート設定(3.4.2)
+          href: administration/data/excel-settings/excel-import.md
+          items:
+            - name: Excel インポート設定 (3.4.2)
+              href: administration/data/excel-settings/excel-import.md
+            - name: 並行して行をインポートする (3.4.2)
+              href: administration/data/excel-settings/importing-parallel.md
+            - name: インポートジョブ (3.4.2)
+              href: administration/data/excel-settings/import-job.md
+        - name: プリントテンプレート
+          href: administration/data/print-templates.md
+        - name: アグリゲート
+          href: administration/data/aggregates/aggregates.md
     - name: システム
+      href: administration/system/system.md
+      items:
+        - name: 設定
+          href: administration/system/settings/settings.md
+          items:
+            - name: 概要
+              href: administration/system/settings/settings.md
+            - name: DRM 
+              href: administration/system/settings/drm-settings.md
+        - name: 統計
+          href: administration/system/stats/intro.md
+          items:
+            - name: 概要
+              href: administration/system/stats/intro.md
+            - name: 現在のアクティビティ
+              href: administration/system/stats/current-activity.md
+            - name: ジョブタイプ
+              href: administration/system/stats/job-types.md
+            - name: ジョブステータス
+              href: administration/system/stats/job-statuses.md
+            - name: エージェント
+              href: administration/system/stats/agents.md
+        - name: 通知
+          href: administration/system/notifications/user-notifications.md
+        - name: キャッシュ
+          href: administration/system/cache/cache.md
     - name: プロセッシング
+      href: administration/processing/processing.md
+      items:
+        - name: カラープロファイル
+          href: administration/processing/color-profiles/color-profiles.md
+        - name: オーダープロファイル
+          href: administration/processing/ordering-profiles/download-order-profiles.md
+        - name: メディアプロセッシング
+          href: administration/processing/media-processing/intro.md
+          items:
+            - name: 概要
+              href: administration/processing/media-processing/intro.md
+            - name: メディアプロセッシング管理
+              href: administration/processing/media-processing/media-processing-management.md
+            - name: プロセッシングフロー詳細
+              href: administration/processing/media-processing/processing-flow-detail.md
+            - name: パラーメーター
+              href: administration/processing/media-processing/parameters.md
+            - name: 新しいリンクモデル
+              href: administration/processing/media-processing/new-link-modal.md
+            - name: ビデオのカスタムビットレート
+              href: administration/processing/media-processing/bitrate_video.md
+            - name: 画像変換タスク
+              href: administration/processing/media-processing/extract-embedded-previews.md
+            - name: 配信とゲートウェイのリンク
+              href: administration/processing/media-processing/delivery-gateway-links.md
+            - name: メタデータのインポート
+              href: administration/processing/media-processing/import-metadata/overview.md
+              items:
+                - name: 概要
+                  href: administration/processing/media-processing/import-metadata/overview.md
+                - name: メタデータ設定の利用
+                  href: administration/processing/media-processing/import-metadata/using-metadata-configuration.md
+                - name: メタデータプロセッシングスクリプトの利用
+                  href: administration/processing/media-processing/import-metadata/using-media-processing-scripts.md
+                - name: コンバージョン
+                  href: administration/processing/media-processing/import-metadata/conversions.md
+        - name: 変換
+          href: administration/processing/transformations/transformations.md
+        - name: ステートフロー
+          href: administration/processing/state-flows/intro.md
+          items:
+            - name: 概要
+              href: administration/processing/state-flows/intro.md
+            - name: ステートフローの定義を有効にする
+              href: administration/processing/state-flows/enable-definitions-to-state-flow.md
+            - name: ステートフロー管理
+              href: administration/processing/state-flows/state-flow-management.md
+            - name: ステートフローの作成
+              href: administration/processing/state-flows/state-flow-setup.md
+            - name: 動的なアサインとアサイングループ
+              href: administration/processing/state-flows/dynamic-assignee.md
+        - name: ウォーターマーク
+          href: administration/processing/watermarking/watermarking.md
     - name: セキュリティ
+      href: administration/security/security_overview.md
+      items:
+        - name: 認証
+          href: administration/security/authentication/authentication.md
+          items:
+            - name: 概要  
+              href: administration/security/authentication/authentication.md
+            - name: 認証の設定
+              href: administration/security/authentication/configuration.md
+            - name: パスワードポリシー
+              href: administration/security/authentication/password-policy.md
+            - name: Oauth 2.0
+              href: administration/security/authentication/oauth2.md
+            - name: Sitecore Identity Server
+              href: administration/security/authentication/sitecore-identity-server.md
+        - name: モジュールとライセンス
+          href: administration/security/modules-licensing-framework/modules-licensing-framework.md
+          items:
+            - name: モジュール
+              href: administration/security/modules-licensing-framework/modules.md
+            - name: ライセンス
+              href: administration/security/modules-licensing-framework/licenses.md
+            - name: モジュールの割り当て
+              href: administration/security/modules-licensing-framework/module-assignment.md
+        - name: クッキーの利用
+          href: administration/security/cookie-usage.md
+        - name: セキュリティ診断
+          href: administration/security/security-diagnostics/security-diagnostics.md
+        - name: ウイルススキャン
+          href: administration/security/security-diagnostics/anti-virus.md
+        - name: ユーザー
+          href: administration/security/users/users.md
+          items:
+            - name: 概要
+              href: administration/security/users/users.md
+            - name: アカウント管理
+              href: administration/security/users/account-management/account-management.md
+              items:
+                - name: 手作業でのユーザー管理
+                  href: administration/security/users/account-management/manage-users-manually.md
+                - name: ユーザーアカウトのエクスポート
+                  href: administration/security/users/account-management/exporting-users.md
+                - name: ユーザーアカウントのインポート
+                  href: administration/security/users/account-management/importing-users.md
+            - name: ユーザーグループ
+              href: administration/security/users/user-groups/intro.md
+              items:
+                - name: 概要
+                  href: administration/security/users/user-groups/intro.md
+                - name: ユーザーグループ詳細
+                  href: administration/security/users/user-groups/user-group-details.md
+            - name: ロールと認証
+              href: /administration/security/users/policies/intro.md
+              items:
+                - name: 概要
+                  href: /administration/security/users/policies/intro.md
+                - name: ユーザーグループポリシー
+                  href: administration/security/users/policies/user-group-policies.md
+                - name: ポリシー設定
+                  href: administration/security/users/policies/configuration-using-ui.md
+                - name: ユーザーグループメンバーセキュリティ
+                  href: administration/security/users/policies/user-group-member-security.md
+                - name: 特権
+                  href: administration/security/users/policies/privileges.md
+        - name: サポートログイン
+          href: administration/security/users/user-groups/support-login.md
     - name: レポーティング
-    - name: DRM
+      href: administration/reporting/intro.md
+      items:
+        - name: 概要  
+          href: administration/reporting/intro.md
+        - name: レポーティングログ
+          href: administration/reporting/reporting-logs.md
+        - name: すべての監査ログ
+          href: administration/reporting/raw-audit-log/audit-trail.md
+        - name: ユーザーログ
+          href: administration/reporting/user-logs.md
+        - name: レポーティングイベント辞書
+          href: administration/reporting/reporting-events-dictionary.md
+        - name: チャートイベント詳細ページ
+          href: administration/reporting/chart-events-detail-page.md
+        - name: 統合フレームワーク
+          href: administration/reporting/integration-framework.md
+        - name: Google Tag Manager
+          href: administration/reporting/google-tag-manager.md
+    - name: デジタル著作権管理（DRM）
+      href: administration/drm/intro.md
+      items:
+        - name: 概要
+          href: administration/drm/intro.md
+        - name: コンセプト
+          href: administration/drm/concepts.md
+        - name: 契約
+          href: administration/drm/contract.md
+        - name: 権利プロファイル
+          href: administration/drm/rights-profile/intro.md
+          items:
+            - name: 概要
+              href: administration/drm/rights-profile/intro.md
+            - name: 作成
+              href: administration/drm/rights-profile/creation.md
+            - name: 権利プロファイルへのリンク、リンク解除
+              href: administration/drm/rights-profile/linking-unlinking-rights-profile.md
+            - name: アセットへのリンク、リンク解除
+              href: administration/drm/rights-profile/linking-unlinking-asset.md
+        - name: アセットを制限する
+          href: administration/drm/restricting-asset.md
+        - name: セキュリティ
+          href: administration/drm/security.md
+        - name: DRM メール
+          href: administration/drm/drm-mail-flow.md
     - name: CMP
+      href: administration/cmp/content-type-manager.md
+      items:
+        - name: コンテンツタイプマネージャー
+          href: administration/cmp/content-type-manager.md
+        - name: Sitecore Identity Server
+          href: administration/cmp/cmp-si.md
     - name: CHLII パブリッシュ
-  
+      href: administration/chili-publish/chili-introduction.md
+    
     
